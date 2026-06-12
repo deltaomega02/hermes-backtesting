@@ -1,5 +1,7 @@
 # HERMES 백테스팅 아카이브
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 HERMES 자동매매 시스템의 백테스트 결과와 분석 노트 모음.
 실제 운영 코드와 백테스트 스크립트는 [hermes](https://github.com/deltaomega02/hermes) 저장소의 `backtest/`에 있다.
 
