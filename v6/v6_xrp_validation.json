@@ -1,0 +1,573 @@
+{
+  "timestamp": "2026-04-14T19:33:59.421010",
+  "seed": 580.0,
+  "slippage": 0.05,
+  "results": {
+    "p1": {
+      "baseline (v5 1.2/0.1)": {
+        "net_profit": -536.87,
+        "max_dd": 94.6,
+        "final_balance": 43.13,
+        "total_trades": 1398,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "+ leverage 7x": {
+        "net_profit": -546.4,
+        "max_dd": 95.8,
+        "final_balance": 33.6,
+        "total_trades": 1398,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "+ TP 5.0": {
+        "net_profit": -467.57,
+        "max_dd": 86.3,
+        "final_balance": 112.43,
+        "total_trades": 1398,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "+ TP 6.0": {
+        "net_profit": -459.73,
+        "max_dd": 85.3,
+        "final_balance": 120.27,
+        "total_trades": 1398,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "+ ADX 30": {
+        "net_profit": -166.68,
+        "max_dd": 61.0,
+        "final_balance": 413.32,
+        "total_trades": 1506,
+        "win_rate": 57.5,
+        "ruined": false
+      },
+      "+ risk 2%": {
+        "net_profit": 242.28,
+        "max_dd": 43.0,
+        "final_balance": 822.28,
+        "total_trades": 1398,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "안전 (lev7+TP6+ADX30)": {
+        "net_profit": -83.37,
+        "max_dd": 56.1,
+        "final_balance": 496.63,
+        "total_trades": 1506,
+        "win_rate": 57.5,
+        "ruined": false
+      },
+      "공격 (risk2+lev7+TP5+ADX30)": {
+        "net_profit": 1460.17,
+        "max_dd": 36.1,
+        "final_balance": 2040.17,
+        "total_trades": 1506,
+        "win_rate": 57.5,
+        "ruined": false
+      }
+    },
+    "p2": {
+      "cap3": {
+        "net_profit": -638.2,
+        "max_dd": 98.0,
+        "final_balance": -58.2,
+        "total_trades": 1247,
+        "win_rate": 56.9,
+        "ruined": true
+      },
+      "cap5": {
+        "net_profit": -536.87,
+        "max_dd": 94.6,
+        "final_balance": 43.13,
+        "total_trades": 1398,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "cap7": {
+        "net_profit": -536.87,
+        "max_dd": 94.6,
+        "final_balance": 43.13,
+        "total_trades": 1398,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "cap10": {
+        "net_profit": -536.87,
+        "max_dd": 94.6,
+        "final_balance": 43.13,
+        "total_trades": 1398,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "cap15": {
+        "net_profit": -536.87,
+        "max_dd": 94.6,
+        "final_balance": 43.13,
+        "total_trades": 1398,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "cap999": {
+        "net_profit": -536.87,
+        "max_dd": 94.6,
+        "final_balance": 43.13,
+        "total_trades": 1398,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "year_2022_cap5": {
+        "net_profit": 157.39,
+        "max_dd": 21.3,
+        "final_balance": 737.39,
+        "total_trades": 421,
+        "win_rate": 59.6,
+        "ruined": false
+      },
+      "year_2022_cap999": {
+        "net_profit": 157.39,
+        "max_dd": 21.3,
+        "final_balance": 737.39,
+        "total_trades": 421,
+        "win_rate": 59.6,
+        "ruined": false
+      },
+      "year_2023 저변동_cap5": {
+        "net_profit": -62.22,
+        "max_dd": 28.1,
+        "final_balance": 517.78,
+        "total_trades": 313,
+        "win_rate": 55.6,
+        "ruined": false
+      },
+      "year_2023 저변동_cap999": {
+        "net_profit": -62.22,
+        "max_dd": 28.1,
+        "final_balance": 517.78,
+        "total_trades": 313,
+        "win_rate": 55.6,
+        "ruined": false
+      },
+      "year_2024_cap5": {
+        "net_profit": -134.89,
+        "max_dd": 44.3,
+        "final_balance": 445.11,
+        "total_trades": 377,
+        "win_rate": 53.6,
+        "ruined": false
+      },
+      "year_2024_cap999": {
+        "net_profit": -134.89,
+        "max_dd": 44.3,
+        "final_balance": 445.11,
+        "total_trades": 377,
+        "win_rate": 53.6,
+        "ruined": false
+      },
+      "year_2025_cap5": {
+        "net_profit": -166.7,
+        "max_dd": 36.2,
+        "final_balance": 413.3,
+        "total_trades": 499,
+        "win_rate": 56.9,
+        "ruined": false
+      },
+      "year_2025_cap999": {
+        "net_profit": -166.7,
+        "max_dd": 36.2,
+        "final_balance": 413.3,
+        "total_trades": 499,
+        "win_rate": 56.9,
+        "ruined": false
+      },
+      "year_2026 YTD_cap5": {
+        "net_profit": 132.4,
+        "max_dd": 7.0,
+        "final_balance": 712.4,
+        "total_trades": 94,
+        "win_rate": 59.6,
+        "ruined": false
+      },
+      "year_2026 YTD_cap999": {
+        "net_profit": 132.4,
+        "max_dd": 7.0,
+        "final_balance": 712.4,
+        "total_trades": 94,
+        "win_rate": 59.6,
+        "ruined": false
+      }
+    },
+    "p3": {
+      "BTC+ETH+SOL 2pos": {
+        "net_profit": 37723.45,
+        "max_dd": 27.8,
+        "final_balance": 38303.45,
+        "total_trades": 2827,
+        "win_rate": 56.7,
+        "ruined": false
+      },
+      "BTC+ETH+SOL 3pos": {
+        "net_profit": 39390.84,
+        "max_dd": 29.8,
+        "final_balance": 39970.84,
+        "total_trades": 3008,
+        "win_rate": 57.0,
+        "ruined": false
+      },
+      "4코인 2pos": {
+        "net_profit": 76721.25,
+        "max_dd": 28.4,
+        "final_balance": 77301.25,
+        "total_trades": 3559,
+        "win_rate": 56.4,
+        "ruined": false
+      },
+      "4코인 3pos": {
+        "net_profit": 158194.4,
+        "max_dd": 26.5,
+        "final_balance": 158774.4,
+        "total_trades": 3886,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "4코인 4pos": {
+        "net_profit": 94374.7,
+        "max_dd": 27.7,
+        "final_balance": 94954.7,
+        "total_trades": 3949,
+        "win_rate": 57.1,
+        "ruined": false
+      }
+    },
+    "p4": {
+      "baseline_2022": {
+        "net_profit": 157.39,
+        "max_dd": 21.3,
+        "final_balance": 737.39,
+        "total_trades": 421,
+        "win_rate": 59.6,
+        "ruined": false
+      },
+      "baseline_2023 저변동": {
+        "net_profit": -62.22,
+        "max_dd": 28.1,
+        "final_balance": 517.78,
+        "total_trades": 313,
+        "win_rate": 55.6,
+        "ruined": false
+      },
+      "baseline_2024": {
+        "net_profit": -134.89,
+        "max_dd": 44.3,
+        "final_balance": 445.11,
+        "total_trades": 377,
+        "win_rate": 53.6,
+        "ruined": false
+      },
+      "baseline_2025": {
+        "net_profit": -166.7,
+        "max_dd": 36.2,
+        "final_balance": 413.3,
+        "total_trades": 499,
+        "win_rate": 56.9,
+        "ruined": false
+      },
+      "baseline_2026 YTD": {
+        "net_profit": 132.4,
+        "max_dd": 7.0,
+        "final_balance": 712.4,
+        "total_trades": 94,
+        "win_rate": 59.6,
+        "ruined": false
+      },
+      "안전 (lev7+TP6+ADX30)_2022": {
+        "net_profit": 296.15,
+        "max_dd": 20.4,
+        "final_balance": 876.15,
+        "total_trades": 458,
+        "win_rate": 60.3,
+        "ruined": false
+      },
+      "안전 (lev7+TP6+ADX30)_2023 저변동": {
+        "net_profit": -50.45,
+        "max_dd": 28.5,
+        "final_balance": 529.55,
+        "total_trades": 339,
+        "win_rate": 55.5,
+        "ruined": false
+      },
+      "안전 (lev7+TP6+ADX30)_2024": {
+        "net_profit": -89.06,
+        "max_dd": 38.9,
+        "final_balance": 490.94,
+        "total_trades": 403,
+        "win_rate": 53.8,
+        "ruined": false
+      },
+      "안전 (lev7+TP6+ADX30)_2025": {
+        "net_profit": -157.44,
+        "max_dd": 35.2,
+        "final_balance": 422.56,
+        "total_trades": 525,
+        "win_rate": 57.3,
+        "ruined": false
+      },
+      "안전 (lev7+TP6+ADX30)_2026 YTD": {
+        "net_profit": 166.26,
+        "max_dd": 8.7,
+        "final_balance": 746.26,
+        "total_trades": 110,
+        "win_rate": 58.2,
+        "ruined": false
+      }
+    },
+    "p5": {
+      "baseline (v5 1.2/0.1)_train": {
+        "net_profit": 37723.45,
+        "max_dd": 27.8,
+        "final_balance": 38303.45,
+        "total_trades": 2827,
+        "win_rate": 56.7,
+        "ruined": false
+      },
+      "baseline (v5 1.2/0.1)_test": {
+        "net_profit": -536.87,
+        "max_dd": 94.6,
+        "final_balance": 43.13,
+        "total_trades": 1398,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "+ leverage 7x_train": {
+        "net_profit": 38920.32,
+        "max_dd": 27.8,
+        "final_balance": 39500.32,
+        "total_trades": 2827,
+        "win_rate": 56.7,
+        "ruined": false
+      },
+      "+ leverage 7x_test": {
+        "net_profit": -546.4,
+        "max_dd": 95.8,
+        "final_balance": 33.6,
+        "total_trades": 1398,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "+ TP 5.0_train": {
+        "net_profit": 44858.2,
+        "max_dd": 27.8,
+        "final_balance": 45438.2,
+        "total_trades": 2827,
+        "win_rate": 56.7,
+        "ruined": false
+      },
+      "+ TP 5.0_test": {
+        "net_profit": -467.57,
+        "max_dd": 86.3,
+        "final_balance": 112.43,
+        "total_trades": 1398,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "+ TP 6.0_train": {
+        "net_profit": 49355.62,
+        "max_dd": 27.8,
+        "final_balance": 49935.62,
+        "total_trades": 2827,
+        "win_rate": 56.7,
+        "ruined": false
+      },
+      "+ TP 6.0_test": {
+        "net_profit": -459.73,
+        "max_dd": 85.3,
+        "final_balance": 120.27,
+        "total_trades": 1398,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "+ ADX 30_train": {
+        "net_profit": 53612.61,
+        "max_dd": 27.2,
+        "final_balance": 54192.61,
+        "total_trades": 3094,
+        "win_rate": 56.6,
+        "ruined": false
+      },
+      "+ ADX 30_test": {
+        "net_profit": -166.68,
+        "max_dd": 61.0,
+        "final_balance": 413.32,
+        "total_trades": 1506,
+        "win_rate": 57.5,
+        "ruined": false
+      },
+      "+ risk 2%_train": {
+        "net_profit": 129519.46,
+        "max_dd": 33.6,
+        "final_balance": 130099.46,
+        "total_trades": 2827,
+        "win_rate": 56.7,
+        "ruined": false
+      },
+      "+ risk 2%_test": {
+        "net_profit": 242.28,
+        "max_dd": 43.0,
+        "final_balance": 822.28,
+        "total_trades": 1398,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "안전 (lev7+TP6+ADX30)_train": {
+        "net_profit": 74584.41,
+        "max_dd": 26.7,
+        "final_balance": 75164.41,
+        "total_trades": 3094,
+        "win_rate": 56.6,
+        "ruined": false
+      },
+      "안전 (lev7+TP6+ADX30)_test": {
+        "net_profit": -83.37,
+        "max_dd": 56.1,
+        "final_balance": 496.63,
+        "total_trades": 1506,
+        "win_rate": 57.5,
+        "ruined": false
+      },
+      "공격 (risk2+lev7+TP5+ADX30)_train": {
+        "net_profit": 304359.19,
+        "max_dd": 36.8,
+        "final_balance": 304939.19,
+        "total_trades": 3094,
+        "win_rate": 56.6,
+        "ruined": false
+      },
+      "공격 (risk2+lev7+TP5+ADX30)_test": {
+        "net_profit": 1460.17,
+        "max_dd": 36.1,
+        "final_balance": 2040.17,
+        "total_trades": 1506,
+        "win_rate": 57.5,
+        "ruined": false
+      }
+    },
+    "p6": {
+      "baseline_train 22-23": {
+        "net_profit": 272.45,
+        "max_dd": 23.3,
+        "final_balance": 852.45,
+        "total_trades": 739,
+        "win_rate": 58.1,
+        "ruined": false
+      },
+      "baseline_test  24-26": {
+        "net_profit": -299.32,
+        "max_dd": 61.7,
+        "final_balance": 280.68,
+        "total_trades": 974,
+        "win_rate": 56.1,
+        "ruined": false
+      },
+      "baseline_train 22-24": {
+        "net_profit": 224.82,
+        "max_dd": 37.6,
+        "final_balance": 804.82,
+        "total_trades": 1118,
+        "win_rate": 56.5,
+        "ruined": false
+      },
+      "baseline_test  25-26": {
+        "net_profit": -89.76,
+        "max_dd": 36.6,
+        "final_balance": 490.24,
+        "total_trades": 592,
+        "win_rate": 57.4,
+        "ruined": false
+      },
+      "안전 (lev7+TP6+ADX30)_train 22-23": {
+        "net_profit": 425.13,
+        "max_dd": 20.4,
+        "final_balance": 1005.13,
+        "total_trades": 798,
+        "win_rate": 58.1,
+        "ruined": false
+      },
+      "안전 (lev7+TP6+ADX30)_test  24-26": {
+        "net_profit": -193.05,
+        "max_dd": 54.8,
+        "final_balance": 386.95,
+        "total_trades": 1044,
+        "win_rate": 56.2,
+        "ruined": false
+      },
+      "안전 (lev7+TP6+ADX30)_train 22-24": {
+        "net_profit": 606.93,
+        "max_dd": 31.1,
+        "final_balance": 1186.93,
+        "total_trades": 1205,
+        "win_rate": 56.8,
+        "ruined": false
+      },
+      "안전 (lev7+TP6+ADX30)_test  25-26": {
+        "net_profit": -54.51,
+        "max_dd": 36.1,
+        "final_balance": 525.49,
+        "total_trades": 636,
+        "win_rate": 57.5,
+        "ruined": false
+      }
+    },
+    "p7": {
+      "현재 v5 (3코인 2pos)": {
+        "net_profit": 37723.45,
+        "max_dd": 27.8,
+        "final_balance": 38303.45,
+        "total_trades": 2827,
+        "win_rate": 56.7,
+        "ruined": false
+      },
+      "3코인 2pos + 안전": {
+        "net_profit": 74584.41,
+        "max_dd": 26.7,
+        "final_balance": 75164.41,
+        "total_trades": 3094,
+        "win_rate": 56.6,
+        "ruined": false
+      },
+      "4코인 2pos baseline": {
+        "net_profit": 76721.25,
+        "max_dd": 28.4,
+        "final_balance": 77301.25,
+        "total_trades": 3559,
+        "win_rate": 56.4,
+        "ruined": false
+      },
+      "4코인 2pos + 안전": {
+        "net_profit": 214102.16,
+        "max_dd": 28.6,
+        "final_balance": 214682.16,
+        "total_trades": 3782,
+        "win_rate": 56.9,
+        "ruined": false
+      },
+      "4코인 3pos + 안전": {
+        "net_profit": 468682.57,
+        "max_dd": 28.9,
+        "final_balance": 469262.57,
+        "total_trades": 4171,
+        "win_rate": 57.4,
+        "ruined": false
+      },
+      "4코인 4pos + 안전": {
+        "net_profit": 448766.23,
+        "max_dd": 32.5,
+        "final_balance": 449346.23,
+        "total_trades": 4245,
+        "win_rate": 57.1,
+        "ruined": false
+      }
+    }
+  }
+}

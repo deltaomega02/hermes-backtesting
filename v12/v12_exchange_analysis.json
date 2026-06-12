@@ -1,0 +1,328 @@
+{
+  "timestamp": "2026-04-19T11:27:50.339189",
+  "seed": 16500.0,
+  "period": "2020-05-01 ~ 2026-04-18",
+  "scenarios": {
+    "1.0x (Bybit only)": {
+      "multiplier": 1.0,
+      "final_balance": 8962336.28,
+      "net_profit": 8945836.28,
+      "max_dd": 44.2,
+      "trades": 4457,
+      "win_rate": 59.8,
+      "liquidity_skipped": 1489,
+      "funding_paid": 196135.09,
+      "phase_stats": [
+        {
+          "phase": "$10k-$50k",
+          "n": 377,
+          "wins": 218,
+          "wr": 57.8,
+          "pnl": 34086.0,
+          "avg_slip_pct": 0.0615,
+          "first_entry_date": "2020-05-05"
+        },
+        {
+          "phase": "$50k-$200k",
+          "n": 448,
+          "wins": 310,
+          "wr": 69.2,
+          "pnl": 150845.0,
+          "avg_slip_pct": 0.0699,
+          "first_entry_date": "2021-04-13"
+        },
+        {
+          "phase": "$200k-$1M",
+          "n": 516,
+          "wins": 343,
+          "wr": 66.5,
+          "pnl": 812925.0,
+          "avg_slip_pct": 0.0919,
+          "first_entry_date": "2021-10-13"
+        },
+        {
+          "phase": "$1M-$5M",
+          "n": 814,
+          "wins": 514,
+          "wr": 63.1,
+          "pnl": 4326300.0,
+          "avg_slip_pct": 0.2055,
+          "first_entry_date": "2022-03-28"
+        },
+        {
+          "phase": "$5M-$20M",
+          "n": 2302,
+          "wins": 1282,
+          "wr": 55.7,
+          "pnl": 3819517.0,
+          "avg_slip_pct": 0.2524,
+          "first_entry_date": "2024-02-09"
+        }
+      ]
+    },
+    "2.5x (Binance)": {
+      "multiplier": 2.5,
+      "final_balance": 22987975.0,
+      "net_profit": 22971475.0,
+      "max_dd": 41.5,
+      "trades": 4621,
+      "win_rate": 60.1,
+      "liquidity_skipped": 776,
+      "funding_paid": 473677.14,
+      "phase_stats": [
+        {
+          "phase": "$10k-$50k",
+          "n": 377,
+          "wins": 218,
+          "wr": 57.8,
+          "pnl": 34086.0,
+          "avg_slip_pct": 0.0615,
+          "first_entry_date": "2020-05-05"
+        },
+        {
+          "phase": "$50k-$200k",
+          "n": 447,
+          "wins": 310,
+          "wr": 69.4,
+          "pnl": 154553.0,
+          "avg_slip_pct": 0.0697,
+          "first_entry_date": "2021-04-13"
+        },
+        {
+          "phase": "$200k-$1M",
+          "n": 497,
+          "wins": 332,
+          "wr": 66.8,
+          "pnl": 795448.0,
+          "avg_slip_pct": 0.072,
+          "first_entry_date": "2021-10-06"
+        },
+        {
+          "phase": "$1M-$5M",
+          "n": 472,
+          "wins": 330,
+          "wr": 69.9,
+          "pnl": 4386631.0,
+          "avg_slip_pct": 0.1366,
+          "first_entry_date": "2022-03-24"
+        },
+        {
+          "phase": "$5M-$20M",
+          "n": 2555,
+          "wins": 1440,
+          "wr": 56.4,
+          "pnl": 19668577.0,
+          "avg_slip_pct": 0.2399,
+          "first_entry_date": "2022-08-20"
+        },
+        {
+          "phase": ">$20M",
+          "n": 273,
+          "wins": 147,
+          "wr": 53.8,
+          "pnl": -1592440.0,
+          "avg_slip_pct": 0.2275,
+          "first_entry_date": "2025-01-11"
+        }
+      ]
+    },
+    "3.5x (Bybit+Binance)": {
+      "multiplier": 3.5,
+      "final_balance": 32545486.77,
+      "net_profit": 32528986.77,
+      "max_dd": 42.2,
+      "trades": 4637,
+      "win_rate": 60.4,
+      "liquidity_skipped": 691,
+      "funding_paid": 673023.33,
+      "phase_stats": [
+        {
+          "phase": "$10k-$50k",
+          "n": 377,
+          "wins": 218,
+          "wr": 57.8,
+          "pnl": 34086.0,
+          "avg_slip_pct": 0.0615,
+          "first_entry_date": "2020-05-05"
+        },
+        {
+          "phase": "$50k-$200k",
+          "n": 447,
+          "wins": 310,
+          "wr": 69.4,
+          "pnl": 154553.0,
+          "avg_slip_pct": 0.0697,
+          "first_entry_date": "2021-04-13"
+        },
+        {
+          "phase": "$200k-$1M",
+          "n": 502,
+          "wins": 337,
+          "wr": 67.1,
+          "pnl": 814242.0,
+          "avg_slip_pct": 0.0701,
+          "first_entry_date": "2021-10-06"
+        },
+        {
+          "phase": "$1M-$5M",
+          "n": 445,
+          "wins": 313,
+          "wr": 70.3,
+          "pnl": 4130491.0,
+          "avg_slip_pct": 0.1227,
+          "first_entry_date": "2022-03-24"
+        },
+        {
+          "phase": "$5M-$20M",
+          "n": 1107,
+          "wins": 632,
+          "wr": 57.1,
+          "pnl": 18564399.0,
+          "avg_slip_pct": 0.22,
+          "first_entry_date": "2022-07-29"
+        },
+        {
+          "phase": ">$20M",
+          "n": 1759,
+          "wins": 989,
+          "wr": 56.2,
+          "pnl": 9505942.0,
+          "avg_slip_pct": 0.2416,
+          "first_entry_date": "2024-07-07"
+        }
+      ]
+    },
+    "5.0x (3-exchange)": {
+      "multiplier": 5.0,
+      "final_balance": 46445477.11,
+      "net_profit": 46428977.11,
+      "max_dd": 42.1,
+      "trades": 4656,
+      "win_rate": 60.5,
+      "liquidity_skipped": 580,
+      "funding_paid": 939175.54,
+      "phase_stats": [
+        {
+          "phase": "$10k-$50k",
+          "n": 377,
+          "wins": 218,
+          "wr": 57.8,
+          "pnl": 34086.0,
+          "avg_slip_pct": 0.0615,
+          "first_entry_date": "2020-05-05"
+        },
+        {
+          "phase": "$50k-$200k",
+          "n": 447,
+          "wins": 310,
+          "wr": 69.4,
+          "pnl": 154553.0,
+          "avg_slip_pct": 0.0697,
+          "first_entry_date": "2021-04-13"
+        },
+        {
+          "phase": "$200k-$1M",
+          "n": 502,
+          "wins": 337,
+          "wr": 67.1,
+          "pnl": 815896.0,
+          "avg_slip_pct": 0.0693,
+          "first_entry_date": "2021-10-06"
+        },
+        {
+          "phase": "$1M-$5M",
+          "n": 378,
+          "wins": 272,
+          "wr": 72.0,
+          "pnl": 3996764.0,
+          "avg_slip_pct": 0.0998,
+          "first_entry_date": "2022-03-24"
+        },
+        {
+          "phase": "$5M-$20M",
+          "n": 743,
+          "wins": 456,
+          "wr": 61.4,
+          "pnl": 16993490.0,
+          "avg_slip_pct": 0.1907,
+          "first_entry_date": "2022-07-18"
+        },
+        {
+          "phase": ">$20M",
+          "n": 2209,
+          "wins": 1226,
+          "wr": 55.5,
+          "pnl": 25375066.0,
+          "avg_slip_pct": 0.2414,
+          "first_entry_date": "2024-03-22"
+        }
+      ]
+    },
+    "10.0x (\ubb34\ud55c)": {
+      "multiplier": 10.0,
+      "final_balance": 92860003.96,
+      "net_profit": 92843503.96,
+      "max_dd": 41.0,
+      "trades": 4709,
+      "win_rate": 60.8,
+      "liquidity_skipped": 223,
+      "funding_paid": 1757794.74,
+      "phase_stats": [
+        {
+          "phase": "$10k-$50k",
+          "n": 377,
+          "wins": 218,
+          "wr": 57.8,
+          "pnl": 34086.0,
+          "avg_slip_pct": 0.0615,
+          "first_entry_date": "2020-05-05"
+        },
+        {
+          "phase": "$50k-$200k",
+          "n": 447,
+          "wins": 310,
+          "wr": 69.4,
+          "pnl": 154553.0,
+          "avg_slip_pct": 0.0697,
+          "first_entry_date": "2021-04-13"
+        },
+        {
+          "phase": "$200k-$1M",
+          "n": 502,
+          "wins": 337,
+          "wr": 67.1,
+          "pnl": 819403.0,
+          "avg_slip_pct": 0.0688,
+          "first_entry_date": "2021-10-06"
+        },
+        {
+          "phase": "$1M-$5M",
+          "n": 316,
+          "wins": 232,
+          "wr": 73.4,
+          "pnl": 4094854.0,
+          "avg_slip_pct": 0.074,
+          "first_entry_date": "2022-03-24"
+        },
+        {
+          "phase": "$5M-$20M",
+          "n": 689,
+          "wins": 420,
+          "wr": 61.0,
+          "pnl": 15738368.0,
+          "avg_slip_pct": 0.1549,
+          "first_entry_date": "2022-06-30"
+        },
+        {
+          "phase": ">$20M",
+          "n": 2378,
+          "wins": 1344,
+          "wr": 56.5,
+          "pnl": 73761738.0,
+          "avg_slip_pct": 0.231,
+          "first_entry_date": "2024-02-11"
+        }
+      ]
+    }
+  }
+}

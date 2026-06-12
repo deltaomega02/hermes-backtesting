@@ -1,0 +1,4049 @@
+{
+  "timestamp": "2026-04-14T21:28:26.235821",
+  "n_simulations": 500,
+  "block_size_hours": 24,
+  "seed": 580.0,
+  "slippage": 0.05,
+  "config": "full package (4코인, 3pos, lev7, TP6, ADX30, trailing 1.2/0.1)",
+  "baseline_real_data": {
+    "net_profit": 468682.57,
+    "max_dd": 28.9,
+    "final_balance": 469262.57,
+    "total_trades": 4171,
+    "win_rate": 57.4,
+    "ruined": false
+  },
+  "n_ruined": 0,
+  "ruin_rate_pct": 0.0,
+  "n_profitable": 496,
+  "profitable_rate_pct": 99.2,
+  "stats": {
+    "net_profit": {
+      "mean": 1833600782904.4822,
+      "median": 533547890808.0,
+      "std": 4808403622068.521,
+      "p5": 24621005910.79,
+      "p25": 182713721531.14,
+      "p75": 1467713338764.83,
+      "p95": 7713254480093.57,
+      "min": -25873735971726.85,
+      "max": 49565909994635.77
+    },
+    "max_dd": {
+      "mean": 27.433,
+      "median": 26.8,
+      "p5": 21.1,
+      "p95": 36.8,
+      "min": 17.5,
+      "max": 43.8
+    },
+    "win_rate": {
+      "mean": 50.9196,
+      "median": 50.9,
+      "p5": 49.7,
+      "p95": 52.2
+    }
+  },
+  "all_results": [
+    {
+      "net_profit": 7720133165.19,
+      "max_dd": 27.8,
+      "final_balance": 7720133745.19,
+      "total_trades": 4388,
+      "win_rate": 49.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 131213438746.8,
+      "max_dd": 31.2,
+      "final_balance": 131213439326.8,
+      "total_trades": 4419,
+      "win_rate": 49.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 580206685098.26,
+      "max_dd": 28.1,
+      "final_balance": 580206685678.26,
+      "total_trades": 4361,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 886771892149.16,
+      "max_dd": 22.1,
+      "final_balance": 886771892729.16,
+      "total_trades": 4413,
+      "win_rate": 51.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 7342525621.0,
+      "max_dd": 41.1,
+      "final_balance": 7342526201.0,
+      "total_trades": 4381,
+      "win_rate": 49.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 439245378818.4,
+      "max_dd": 37.4,
+      "final_balance": 439245379398.4,
+      "total_trades": 4448,
+      "win_rate": 50.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 6086288988805.49,
+      "max_dd": 23.3,
+      "final_balance": 6086288989385.49,
+      "total_trades": 4481,
+      "win_rate": 52.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 702609313725.72,
+      "max_dd": 20.0,
+      "final_balance": 702609314305.72,
+      "total_trades": 4298,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 2631154793086.22,
+      "max_dd": 25.0,
+      "final_balance": 2631154793666.22,
+      "total_trades": 4407,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 207747296371.96,
+      "max_dd": 25.7,
+      "final_balance": 207747296951.96,
+      "total_trades": 4485,
+      "win_rate": 51.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 149015680736.02,
+      "max_dd": 26.1,
+      "final_balance": 149015681316.02,
+      "total_trades": 4387,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 1306747602639.0,
+      "max_dd": 27.0,
+      "final_balance": 1306747603219.0,
+      "total_trades": 4463,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 299020906466.31,
+      "max_dd": 33.3,
+      "final_balance": 299020907046.31,
+      "total_trades": 4434,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 950387536454.87,
+      "max_dd": 23.1,
+      "final_balance": 950387537034.87,
+      "total_trades": 4365,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 342847132878.32,
+      "max_dd": 21.5,
+      "final_balance": 342847133458.32,
+      "total_trades": 4471,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 55662081559.66,
+      "max_dd": 31.1,
+      "final_balance": 55662082139.66,
+      "total_trades": 4290,
+      "win_rate": 49.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 909817044937.31,
+      "max_dd": 28.3,
+      "final_balance": 909817045517.31,
+      "total_trades": 4347,
+      "win_rate": 51.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 216753916155.87,
+      "max_dd": 29.3,
+      "final_balance": 216753916735.87,
+      "total_trades": 4477,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 1205387396055.0,
+      "max_dd": 25.5,
+      "final_balance": 1205387396635.0,
+      "total_trades": 4431,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 245227779871.33,
+      "max_dd": 27.3,
+      "final_balance": 245227780451.33,
+      "total_trades": 4441,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 2968101382866.62,
+      "max_dd": 24.3,
+      "final_balance": 2968101383446.62,
+      "total_trades": 4421,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 32132597598019.28,
+      "max_dd": 23.5,
+      "final_balance": 32132597598599.28,
+      "total_trades": 4413,
+      "win_rate": 52.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 92723111951.41,
+      "max_dd": 34.5,
+      "final_balance": 92723112531.41,
+      "total_trades": 4401,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 23042927004579.98,
+      "max_dd": 21.7,
+      "final_balance": 23042927005159.98,
+      "total_trades": 4452,
+      "win_rate": 53.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 521036655618.75,
+      "max_dd": 30.2,
+      "final_balance": 521036656198.75,
+      "total_trades": 4479,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 1181881372835.88,
+      "max_dd": 24.7,
+      "final_balance": 1181881373415.88,
+      "total_trades": 4530,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 23249090642.84,
+      "max_dd": 28.6,
+      "final_balance": 23249091222.84,
+      "total_trades": 4338,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 525761035018.83,
+      "max_dd": 28.7,
+      "final_balance": 525761035598.83,
+      "total_trades": 4459,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 3068594280512.37,
+      "max_dd": 29.0,
+      "final_balance": 3068594281092.37,
+      "total_trades": 4509,
+      "win_rate": 51.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 355447469487.26,
+      "max_dd": 22.6,
+      "final_balance": 355447470067.26,
+      "total_trades": 4384,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 63518229871.17,
+      "max_dd": 23.5,
+      "final_balance": 63518230451.17,
+      "total_trades": 4348,
+      "win_rate": 50.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 2096141613994.99,
+      "max_dd": 27.9,
+      "final_balance": 2096141614574.99,
+      "total_trades": 4360,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 3752526673261.61,
+      "max_dd": 21.2,
+      "final_balance": 3752526673841.61,
+      "total_trades": 4433,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 1822620183011.91,
+      "max_dd": 27.5,
+      "final_balance": 1822620183591.91,
+      "total_trades": 4388,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 108788973088.61,
+      "max_dd": 27.2,
+      "final_balance": 108788973668.61,
+      "total_trades": 4450,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 433401688955.21,
+      "max_dd": 27.2,
+      "final_balance": 433401689535.21,
+      "total_trades": 4379,
+      "win_rate": 51.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 249680818788.46,
+      "max_dd": 31.7,
+      "final_balance": 249680819368.46,
+      "total_trades": 4457,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 248327528480.93,
+      "max_dd": 24.5,
+      "final_balance": 248327529060.93,
+      "total_trades": 4429,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 28684764103.3,
+      "max_dd": 26.7,
+      "final_balance": 28684764683.3,
+      "total_trades": 4456,
+      "win_rate": 50.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 1592776642823.52,
+      "max_dd": 23.6,
+      "final_balance": 1592776643403.52,
+      "total_trades": 4407,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 691403693164.59,
+      "max_dd": 26.5,
+      "final_balance": 691403693744.59,
+      "total_trades": 4425,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 4731140347692.13,
+      "max_dd": 24.9,
+      "final_balance": 4731140348272.13,
+      "total_trades": 4334,
+      "win_rate": 51.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 3830485720650.42,
+      "max_dd": 24.6,
+      "final_balance": 3830485721230.42,
+      "total_trades": 4422,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 3108379086011.62,
+      "max_dd": 28.2,
+      "final_balance": 3108379086591.62,
+      "total_trades": 4491,
+      "win_rate": 51.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 379436469217.33,
+      "max_dd": 23.6,
+      "final_balance": 379436469797.33,
+      "total_trades": 4419,
+      "win_rate": 51.8,
+      "ruined": false
+    },
+    {
+      "net_profit": -272704873617.6,
+      "max_dd": 22.0,
+      "final_balance": -272704873037.6,
+      "total_trades": 4409,
+      "win_rate": 49.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 612530494917.59,
+      "max_dd": 23.7,
+      "final_balance": 612530495497.59,
+      "total_trades": 4359,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 580698238692.61,
+      "max_dd": 26.9,
+      "final_balance": 580698239272.61,
+      "total_trades": 4374,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 432547641694.63,
+      "max_dd": 26.9,
+      "final_balance": 432547642274.63,
+      "total_trades": 4460,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 170296220293.29,
+      "max_dd": 34.5,
+      "final_balance": 170296220873.29,
+      "total_trades": 4377,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 68552259736.19,
+      "max_dd": 35.6,
+      "final_balance": 68552260316.19,
+      "total_trades": 4400,
+      "win_rate": 50.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 24109626857.05,
+      "max_dd": 26.0,
+      "final_balance": 24109627437.05,
+      "total_trades": 4455,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 4500730531198.43,
+      "max_dd": 32.9,
+      "final_balance": 4500730531778.43,
+      "total_trades": 4365,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 124735965020.92,
+      "max_dd": 24.9,
+      "final_balance": 124735965600.92,
+      "total_trades": 4446,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 1917063658492.93,
+      "max_dd": 23.4,
+      "final_balance": 1917063659072.93,
+      "total_trades": 4494,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 49565909994635.77,
+      "max_dd": 25.0,
+      "final_balance": 49565909995215.77,
+      "total_trades": 4446,
+      "win_rate": 52.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 388801276529.89,
+      "max_dd": 26.4,
+      "final_balance": 388801277109.89,
+      "total_trades": 4375,
+      "win_rate": 50.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 24977449026.28,
+      "max_dd": 24.7,
+      "final_balance": 24977449606.28,
+      "total_trades": 4367,
+      "win_rate": 49.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 88886741181.75,
+      "max_dd": 21.6,
+      "final_balance": 88886741761.75,
+      "total_trades": 4397,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 42973803642.82,
+      "max_dd": 26.2,
+      "final_balance": 42973804222.82,
+      "total_trades": 4326,
+      "win_rate": 49.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 931833283639.73,
+      "max_dd": 22.7,
+      "final_balance": 931833284219.73,
+      "total_trades": 4386,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 1020670960937.78,
+      "max_dd": 26.9,
+      "final_balance": 1020670961517.78,
+      "total_trades": 4365,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 4320964540776.99,
+      "max_dd": 23.4,
+      "final_balance": 4320964541356.99,
+      "total_trades": 4449,
+      "win_rate": 52.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 1657204772254.61,
+      "max_dd": 21.8,
+      "final_balance": 1657204772834.61,
+      "total_trades": 4327,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 919059710420.68,
+      "max_dd": 27.1,
+      "final_balance": 919059711000.68,
+      "total_trades": 4377,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 52504844359.28,
+      "max_dd": 32.9,
+      "final_balance": 52504844939.28,
+      "total_trades": 4381,
+      "win_rate": 50.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 2832140911180.07,
+      "max_dd": 21.1,
+      "final_balance": 2832140911760.07,
+      "total_trades": 4458,
+      "win_rate": 52.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 201271981213.95,
+      "max_dd": 24.0,
+      "final_balance": 201271981793.95,
+      "total_trades": 4500,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 310760480624.84,
+      "max_dd": 27.8,
+      "final_balance": 310760481204.84,
+      "total_trades": 4429,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 135271442972.6,
+      "max_dd": 25.0,
+      "final_balance": 135271443552.6,
+      "total_trades": 4511,
+      "win_rate": 50.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 442854281522.48,
+      "max_dd": 21.7,
+      "final_balance": 442854282102.48,
+      "total_trades": 4389,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 21431291870.73,
+      "max_dd": 30.4,
+      "final_balance": 21431292450.73,
+      "total_trades": 4375,
+      "win_rate": 49.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 131114232607.94,
+      "max_dd": 29.9,
+      "final_balance": 131114233187.94,
+      "total_trades": 4452,
+      "win_rate": 50.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 70608044637.35,
+      "max_dd": 27.6,
+      "final_balance": 70608045217.35,
+      "total_trades": 4387,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 185373220688.87,
+      "max_dd": 36.7,
+      "final_balance": 185373221268.87,
+      "total_trades": 4400,
+      "win_rate": 51.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 215978611223.81,
+      "max_dd": 39.3,
+      "final_balance": 215978611803.81,
+      "total_trades": 4445,
+      "win_rate": 51.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 641815812110.93,
+      "max_dd": 25.5,
+      "final_balance": 641815812690.93,
+      "total_trades": 4436,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 1088430038844.67,
+      "max_dd": 25.5,
+      "final_balance": 1088430039424.67,
+      "total_trades": 4371,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 1467713338764.83,
+      "max_dd": 23.1,
+      "final_balance": 1467713339344.83,
+      "total_trades": 4443,
+      "win_rate": 50.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 81660720847.31,
+      "max_dd": 32.2,
+      "final_balance": 81660721427.31,
+      "total_trades": 4327,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 190747904314.63,
+      "max_dd": 28.2,
+      "final_balance": 190747904894.63,
+      "total_trades": 4396,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 1092194383363.28,
+      "max_dd": 30.2,
+      "final_balance": 1092194383943.28,
+      "total_trades": 4481,
+      "win_rate": 51.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 1640230183206.64,
+      "max_dd": 26.6,
+      "final_balance": 1640230183786.64,
+      "total_trades": 4466,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 214353650548.66,
+      "max_dd": 23.1,
+      "final_balance": 214353651128.66,
+      "total_trades": 4476,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 1276251962252.35,
+      "max_dd": 23.8,
+      "final_balance": 1276251962832.35,
+      "total_trades": 4434,
+      "win_rate": 50.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 743993049666.79,
+      "max_dd": 23.3,
+      "final_balance": 743993050246.79,
+      "total_trades": 4406,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 476983110960.53,
+      "max_dd": 27.6,
+      "final_balance": 476983111540.53,
+      "total_trades": 4372,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 7410356631179.35,
+      "max_dd": 33.9,
+      "final_balance": 7410356631759.35,
+      "total_trades": 4483,
+      "win_rate": 52.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 482201461006.79,
+      "max_dd": 23.1,
+      "final_balance": 482201461586.79,
+      "total_trades": 4355,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 861187078670.96,
+      "max_dd": 24.6,
+      "final_balance": 861187079250.96,
+      "total_trades": 4455,
+      "win_rate": 51.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 370959240610.7,
+      "max_dd": 26.5,
+      "final_balance": 370959241190.7,
+      "total_trades": 4452,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 709234366709.79,
+      "max_dd": 32.5,
+      "final_balance": 709234367289.79,
+      "total_trades": 4489,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 136793267279.4,
+      "max_dd": 28.5,
+      "final_balance": 136793267859.4,
+      "total_trades": 4325,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 4877196945435.47,
+      "max_dd": 27.3,
+      "final_balance": 4877196946015.47,
+      "total_trades": 4389,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 722785739343.08,
+      "max_dd": 25.8,
+      "final_balance": 722785739923.08,
+      "total_trades": 4421,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 305270295480.29,
+      "max_dd": 24.7,
+      "final_balance": 305270296060.29,
+      "total_trades": 4406,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 11645483672381.24,
+      "max_dd": 26.0,
+      "final_balance": 11645483672961.24,
+      "total_trades": 4447,
+      "win_rate": 51.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 1143778126549.46,
+      "max_dd": 26.6,
+      "final_balance": 1143778127129.46,
+      "total_trades": 4481,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 247457420978.21,
+      "max_dd": 26.1,
+      "final_balance": 247457421558.21,
+      "total_trades": 4414,
+      "win_rate": 51.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 447498914401.48,
+      "max_dd": 35.2,
+      "final_balance": 447498914981.48,
+      "total_trades": 4402,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 147585349586.8,
+      "max_dd": 21.5,
+      "final_balance": 147585350166.8,
+      "total_trades": 4411,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 3576369248729.78,
+      "max_dd": 27.4,
+      "final_balance": 3576369249309.78,
+      "total_trades": 4326,
+      "win_rate": 52.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 74825460022.33,
+      "max_dd": 33.1,
+      "final_balance": 74825460602.33,
+      "total_trades": 4336,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 7104293819363.67,
+      "max_dd": 29.1,
+      "final_balance": 7104293819943.67,
+      "total_trades": 4455,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 7011999339.94,
+      "max_dd": 37.8,
+      "final_balance": 7011999919.94,
+      "total_trades": 4386,
+      "win_rate": 48.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 699104894662.72,
+      "max_dd": 25.1,
+      "final_balance": 699104895242.72,
+      "total_trades": 4336,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 204037376016.99,
+      "max_dd": 27.6,
+      "final_balance": 204037376596.99,
+      "total_trades": 4451,
+      "win_rate": 49.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 73031307453.65,
+      "max_dd": 24.7,
+      "final_balance": 73031308033.65,
+      "total_trades": 4437,
+      "win_rate": 49.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 3835103668083.21,
+      "max_dd": 29.4,
+      "final_balance": 3835103668663.21,
+      "total_trades": 4439,
+      "win_rate": 51.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 14773512192306.12,
+      "max_dd": 22.8,
+      "final_balance": 14773512192886.12,
+      "total_trades": 4412,
+      "win_rate": 52.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 2199120462924.21,
+      "max_dd": 29.9,
+      "final_balance": 2199120463504.21,
+      "total_trades": 4338,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 64283893178.6,
+      "max_dd": 26.5,
+      "final_balance": 64283893758.6,
+      "total_trades": 4422,
+      "win_rate": 50.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 578208772455.49,
+      "max_dd": 41.2,
+      "final_balance": 578208773035.49,
+      "total_trades": 4376,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 734124280201.21,
+      "max_dd": 28.4,
+      "final_balance": 734124280781.21,
+      "total_trades": 4396,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 92994591354.99,
+      "max_dd": 26.1,
+      "final_balance": 92994591934.99,
+      "total_trades": 4394,
+      "win_rate": 50.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 7039889054149.17,
+      "max_dd": 22.7,
+      "final_balance": 7039889054729.17,
+      "total_trades": 4461,
+      "win_rate": 52.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 1344048912709.62,
+      "max_dd": 23.1,
+      "final_balance": 1344048913289.62,
+      "total_trades": 4370,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 1101909253436.02,
+      "max_dd": 20.7,
+      "final_balance": 1101909254016.02,
+      "total_trades": 4398,
+      "win_rate": 52.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 370894434783.85,
+      "max_dd": 26.9,
+      "final_balance": 370894435363.85,
+      "total_trades": 4390,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 8048105880087.88,
+      "max_dd": 25.1,
+      "final_balance": 8048105880667.88,
+      "total_trades": 4438,
+      "win_rate": 52.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 145697679311.65,
+      "max_dd": 34.0,
+      "final_balance": 145697679891.65,
+      "total_trades": 4433,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 429775877579.28,
+      "max_dd": 23.8,
+      "final_balance": 429775878159.28,
+      "total_trades": 4358,
+      "win_rate": 50.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 248943798023.46,
+      "max_dd": 26.0,
+      "final_balance": 248943798603.46,
+      "total_trades": 4482,
+      "win_rate": 49.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 233046954046.87,
+      "max_dd": 24.5,
+      "final_balance": 233046954626.87,
+      "total_trades": 4359,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 203515691874.86,
+      "max_dd": 20.7,
+      "final_balance": 203515692454.86,
+      "total_trades": 4432,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 1185014001639.14,
+      "max_dd": 26.2,
+      "final_balance": 1185014002219.14,
+      "total_trades": 4431,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 6560192807789.16,
+      "max_dd": 28.9,
+      "final_balance": 6560192808369.16,
+      "total_trades": 4409,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 1092681115644.02,
+      "max_dd": 27.2,
+      "final_balance": 1092681116224.02,
+      "total_trades": 4365,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 572840453192.3,
+      "max_dd": 22.3,
+      "final_balance": 572840453772.3,
+      "total_trades": 4389,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 6497318913668.12,
+      "max_dd": 28.6,
+      "final_balance": 6497318914248.12,
+      "total_trades": 4428,
+      "win_rate": 52.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 1095607194887.38,
+      "max_dd": 42.0,
+      "final_balance": 1095607195467.38,
+      "total_trades": 4420,
+      "win_rate": 51.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 41817356504.21,
+      "max_dd": 23.7,
+      "final_balance": 41817357084.21,
+      "total_trades": 4486,
+      "win_rate": 49.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 869837344988.09,
+      "max_dd": 29.6,
+      "final_balance": 869837345568.09,
+      "total_trades": 4454,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 645191956912.35,
+      "max_dd": 32.5,
+      "final_balance": 645191957492.35,
+      "total_trades": 4432,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": -2618797097722.32,
+      "max_dd": 26.8,
+      "final_balance": -2618797097142.32,
+      "total_trades": 4446,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 112703694149.83,
+      "max_dd": 22.0,
+      "final_balance": 112703694729.83,
+      "total_trades": 4367,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 2542796439985.23,
+      "max_dd": 26.5,
+      "final_balance": 2542796440565.23,
+      "total_trades": 4426,
+      "win_rate": 52.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 1260747204099.08,
+      "max_dd": 33.7,
+      "final_balance": 1260747204679.08,
+      "total_trades": 4444,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 897540115648.3,
+      "max_dd": 26.0,
+      "final_balance": 897540116228.3,
+      "total_trades": 4460,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 148635918295.05,
+      "max_dd": 28.3,
+      "final_balance": 148635918875.05,
+      "total_trades": 4391,
+      "win_rate": 49.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 53506513475.78,
+      "max_dd": 41.6,
+      "final_balance": 53506514055.78,
+      "total_trades": 4438,
+      "win_rate": 49.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 664979731897.91,
+      "max_dd": 23.7,
+      "final_balance": 664979732477.91,
+      "total_trades": 4346,
+      "win_rate": 52.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 415534270124.83,
+      "max_dd": 24.7,
+      "final_balance": 415534270704.83,
+      "total_trades": 4396,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 182713721531.14,
+      "max_dd": 34.5,
+      "final_balance": 182713722111.14,
+      "total_trades": 4452,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 71263447279.57,
+      "max_dd": 30.0,
+      "final_balance": 71263447859.57,
+      "total_trades": 4423,
+      "win_rate": 50.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 1047117085311.29,
+      "max_dd": 26.7,
+      "final_balance": 1047117085891.29,
+      "total_trades": 4453,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 1135503336770.32,
+      "max_dd": 25.6,
+      "final_balance": 1135503337350.32,
+      "total_trades": 4411,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 392806252750.23,
+      "max_dd": 28.2,
+      "final_balance": 392806253330.23,
+      "total_trades": 4376,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 1814920242483.73,
+      "max_dd": 20.1,
+      "final_balance": 1814920243063.73,
+      "total_trades": 4409,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 255058468955.54,
+      "max_dd": 24.7,
+      "final_balance": 255058469535.54,
+      "total_trades": 4482,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 515825501482.56,
+      "max_dd": 25.1,
+      "final_balance": 515825502062.56,
+      "total_trades": 4337,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 495433571506.4,
+      "max_dd": 25.8,
+      "final_balance": 495433572086.4,
+      "total_trades": 4466,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 462394780741.36,
+      "max_dd": 25.8,
+      "final_balance": 462394781321.36,
+      "total_trades": 4346,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 577991041773.89,
+      "max_dd": 25.7,
+      "final_balance": 577991042353.89,
+      "total_trades": 4380,
+      "win_rate": 51.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 199666662086.58,
+      "max_dd": 28.5,
+      "final_balance": 199666662666.58,
+      "total_trades": 4413,
+      "win_rate": 50.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 4824705878234.32,
+      "max_dd": 23.2,
+      "final_balance": 4824705878814.32,
+      "total_trades": 4413,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 306871368203.41,
+      "max_dd": 29.9,
+      "final_balance": 306871368783.41,
+      "total_trades": 4345,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": -538938852806.6,
+      "max_dd": 33.6,
+      "final_balance": -538938852226.6,
+      "total_trades": 4424,
+      "win_rate": 51.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 103567433250.59,
+      "max_dd": 22.9,
+      "final_balance": 103567433830.59,
+      "total_trades": 4435,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 83943881988.09,
+      "max_dd": 28.6,
+      "final_balance": 83943882568.09,
+      "total_trades": 4384,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 201126057740.08,
+      "max_dd": 27.8,
+      "final_balance": 201126058320.08,
+      "total_trades": 4457,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 1093627477898.99,
+      "max_dd": 25.1,
+      "final_balance": 1093627478478.99,
+      "total_trades": 4407,
+      "win_rate": 51.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 933416278711.97,
+      "max_dd": 24.4,
+      "final_balance": 933416279291.97,
+      "total_trades": 4464,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 745774845716.87,
+      "max_dd": 31.4,
+      "final_balance": 745774846296.87,
+      "total_trades": 4438,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 312058724699.99,
+      "max_dd": 26.3,
+      "final_balance": 312058725279.99,
+      "total_trades": 4464,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 143854616622.42,
+      "max_dd": 34.0,
+      "final_balance": 143854617202.42,
+      "total_trades": 4443,
+      "win_rate": 49.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 1495226520154.66,
+      "max_dd": 27.7,
+      "final_balance": 1495226520734.66,
+      "total_trades": 4417,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 5991294359303.96,
+      "max_dd": 18.2,
+      "final_balance": 5991294359883.96,
+      "total_trades": 4435,
+      "win_rate": 52.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 120104834303.56,
+      "max_dd": 26.7,
+      "final_balance": 120104834883.56,
+      "total_trades": 4375,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 214564062539.44,
+      "max_dd": 22.3,
+      "final_balance": 214564063119.44,
+      "total_trades": 4418,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 985766308741.29,
+      "max_dd": 31.5,
+      "final_balance": 985766309321.29,
+      "total_trades": 4408,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 1762831764293.25,
+      "max_dd": 25.0,
+      "final_balance": 1762831764873.25,
+      "total_trades": 4501,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 3945598055586.9,
+      "max_dd": 24.0,
+      "final_balance": 3945598056166.9,
+      "total_trades": 4404,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 96627676858.55,
+      "max_dd": 30.5,
+      "final_balance": 96627677438.55,
+      "total_trades": 4414,
+      "win_rate": 51.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 6961045134683.32,
+      "max_dd": 21.8,
+      "final_balance": 6961045135263.32,
+      "total_trades": 4379,
+      "win_rate": 52.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 38947132477.26,
+      "max_dd": 22.9,
+      "final_balance": 38947133057.26,
+      "total_trades": 4380,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 867510719601.14,
+      "max_dd": 29.1,
+      "final_balance": 867510720181.14,
+      "total_trades": 4355,
+      "win_rate": 52.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 1855287558983.05,
+      "max_dd": 36.3,
+      "final_balance": 1855287559563.05,
+      "total_trades": 4299,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 1112108086767.01,
+      "max_dd": 23.3,
+      "final_balance": 1112108087347.01,
+      "total_trades": 4455,
+      "win_rate": 52.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 201988154473.62,
+      "max_dd": 26.6,
+      "final_balance": 201988155053.62,
+      "total_trades": 4394,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 1732653442297.23,
+      "max_dd": 24.1,
+      "final_balance": 1732653442877.23,
+      "total_trades": 4480,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 261918638816.44,
+      "max_dd": 20.4,
+      "final_balance": 261918639396.44,
+      "total_trades": 4417,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 2190917463139.42,
+      "max_dd": 18.3,
+      "final_balance": 2190917463719.42,
+      "total_trades": 4452,
+      "win_rate": 52.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 4804339976223.9,
+      "max_dd": 26.2,
+      "final_balance": 4804339976803.9,
+      "total_trades": 4432,
+      "win_rate": 52.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 631299588353.31,
+      "max_dd": 37.6,
+      "final_balance": 631299588933.31,
+      "total_trades": 4406,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 2622272108177.17,
+      "max_dd": 22.0,
+      "final_balance": 2622272108757.17,
+      "total_trades": 4389,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 359084190426.35,
+      "max_dd": 34.9,
+      "final_balance": 359084191006.35,
+      "total_trades": 4375,
+      "win_rate": 50.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 91667606039.8,
+      "max_dd": 30.7,
+      "final_balance": 91667606619.8,
+      "total_trades": 4404,
+      "win_rate": 49.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 13924241166590.82,
+      "max_dd": 21.2,
+      "final_balance": 13924241167170.82,
+      "total_trades": 4330,
+      "win_rate": 51.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 181243889119.35,
+      "max_dd": 28.4,
+      "final_balance": 181243889699.35,
+      "total_trades": 4491,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 1634655253770.26,
+      "max_dd": 25.8,
+      "final_balance": 1634655254350.26,
+      "total_trades": 4432,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 512752648498.33,
+      "max_dd": 27.0,
+      "final_balance": 512752649078.33,
+      "total_trades": 4362,
+      "win_rate": 50.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 691839592052.76,
+      "max_dd": 36.8,
+      "final_balance": 691839592632.76,
+      "total_trades": 4397,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 61860370143.01,
+      "max_dd": 31.5,
+      "final_balance": 61860370723.01,
+      "total_trades": 4486,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 919069381507.95,
+      "max_dd": 23.5,
+      "final_balance": 919069382087.95,
+      "total_trades": 4478,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 115274086891.5,
+      "max_dd": 35.6,
+      "final_balance": 115274087471.5,
+      "total_trades": 4424,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 611604031303.63,
+      "max_dd": 23.4,
+      "final_balance": 611604031883.63,
+      "total_trades": 4429,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 4177385451296.95,
+      "max_dd": 33.9,
+      "final_balance": 4177385451876.95,
+      "total_trades": 4383,
+      "win_rate": 51.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 303592904582.13,
+      "max_dd": 26.7,
+      "final_balance": 303592905162.13,
+      "total_trades": 4450,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 72093263446.86,
+      "max_dd": 28.7,
+      "final_balance": 72093264026.86,
+      "total_trades": 4372,
+      "win_rate": 49.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 1496800679379.04,
+      "max_dd": 28.4,
+      "final_balance": 1496800679959.04,
+      "total_trades": 4398,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 254757938236.84,
+      "max_dd": 28.8,
+      "final_balance": 254757938816.84,
+      "total_trades": 4405,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 192597410217.79,
+      "max_dd": 20.7,
+      "final_balance": 192597410797.79,
+      "total_trades": 4465,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 844728601265.63,
+      "max_dd": 27.2,
+      "final_balance": 844728601845.63,
+      "total_trades": 4381,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 227527955090.92,
+      "max_dd": 26.9,
+      "final_balance": 227527955670.92,
+      "total_trades": 4360,
+      "win_rate": 49.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 512484166754.1,
+      "max_dd": 25.6,
+      "final_balance": 512484167334.1,
+      "total_trades": 4453,
+      "win_rate": 51.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 2441075847007.87,
+      "max_dd": 24.8,
+      "final_balance": 2441075847587.87,
+      "total_trades": 4482,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 1041729549205.22,
+      "max_dd": 23.5,
+      "final_balance": 1041729549785.22,
+      "total_trades": 4393,
+      "win_rate": 51.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 58044508669.97,
+      "max_dd": 28.5,
+      "final_balance": 58044509249.97,
+      "total_trades": 4472,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 1021888700368.18,
+      "max_dd": 27.3,
+      "final_balance": 1021888700948.18,
+      "total_trades": 4412,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 170386912996.85,
+      "max_dd": 25.0,
+      "final_balance": 170386913576.85,
+      "total_trades": 4492,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 8672131889.55,
+      "max_dd": 42.5,
+      "final_balance": 8672132469.55,
+      "total_trades": 4481,
+      "win_rate": 49.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 1423536829215.13,
+      "max_dd": 23.0,
+      "final_balance": 1423536829795.13,
+      "total_trades": 4398,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 27577614591.89,
+      "max_dd": 24.8,
+      "final_balance": 27577615171.89,
+      "total_trades": 4382,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 18704412809479.65,
+      "max_dd": 29.0,
+      "final_balance": 18704412810059.65,
+      "total_trades": 4410,
+      "win_rate": 51.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 1984723825318.36,
+      "max_dd": 22.1,
+      "final_balance": 1984723825898.36,
+      "total_trades": 4407,
+      "win_rate": 51.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 845858674415.27,
+      "max_dd": 28.8,
+      "final_balance": 845858674995.27,
+      "total_trades": 4394,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 1948449775796.52,
+      "max_dd": 23.0,
+      "final_balance": 1948449776376.52,
+      "total_trades": 4391,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 216540032637.32,
+      "max_dd": 22.0,
+      "final_balance": 216540033217.32,
+      "total_trades": 4450,
+      "win_rate": 50.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 280681280161.76,
+      "max_dd": 22.8,
+      "final_balance": 280681280741.76,
+      "total_trades": 4437,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 1265722894208.82,
+      "max_dd": 29.1,
+      "final_balance": 1265722894788.82,
+      "total_trades": 4399,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 141744502839.89,
+      "max_dd": 24.8,
+      "final_balance": 141744503419.89,
+      "total_trades": 4333,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 240126635974.44,
+      "max_dd": 24.6,
+      "final_balance": 240126636554.44,
+      "total_trades": 4429,
+      "win_rate": 50.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 893870753368.66,
+      "max_dd": 27.1,
+      "final_balance": 893870753948.66,
+      "total_trades": 4470,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 196775076789.51,
+      "max_dd": 25.5,
+      "final_balance": 196775077369.51,
+      "total_trades": 4325,
+      "win_rate": 50.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 1275488377500.21,
+      "max_dd": 26.3,
+      "final_balance": 1275488378080.21,
+      "total_trades": 4428,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 3849536994.47,
+      "max_dd": 27.9,
+      "final_balance": 3849537574.47,
+      "total_trades": 4421,
+      "win_rate": 49.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 973798020545.2,
+      "max_dd": 26.4,
+      "final_balance": 973798021125.2,
+      "total_trades": 4469,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 1736736416943.79,
+      "max_dd": 29.7,
+      "final_balance": 1736736417523.79,
+      "total_trades": 4424,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 28542507503.79,
+      "max_dd": 25.6,
+      "final_balance": 28542508083.79,
+      "total_trades": 4408,
+      "win_rate": 50.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 207106018289.51,
+      "max_dd": 26.8,
+      "final_balance": 207106018869.51,
+      "total_trades": 4343,
+      "win_rate": 49.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 936111518030.32,
+      "max_dd": 31.5,
+      "final_balance": 936111518610.32,
+      "total_trades": 4358,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 317252028969.72,
+      "max_dd": 43.3,
+      "final_balance": 317252029549.72,
+      "total_trades": 4414,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 337780555505.13,
+      "max_dd": 25.3,
+      "final_balance": 337780556085.13,
+      "total_trades": 4531,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 587213973788.37,
+      "max_dd": 22.1,
+      "final_balance": 587213974368.37,
+      "total_trades": 4358,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 77937708112.37,
+      "max_dd": 31.1,
+      "final_balance": 77937708692.37,
+      "total_trades": 4406,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 230247278202.7,
+      "max_dd": 27.9,
+      "final_balance": 230247278782.7,
+      "total_trades": 4390,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 1447019497048.65,
+      "max_dd": 25.8,
+      "final_balance": 1447019497628.65,
+      "total_trades": 4367,
+      "win_rate": 51.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 421872628356.61,
+      "max_dd": 27.0,
+      "final_balance": 421872628936.61,
+      "total_trades": 4456,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 56306465176.69,
+      "max_dd": 23.5,
+      "final_balance": 56306465756.69,
+      "total_trades": 4379,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 2061794630879.14,
+      "max_dd": 28.8,
+      "final_balance": 2061794631459.14,
+      "total_trades": 4525,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 618406783831.75,
+      "max_dd": 22.1,
+      "final_balance": 618406784411.75,
+      "total_trades": 4374,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 1067091643567.67,
+      "max_dd": 31.9,
+      "final_balance": 1067091644147.67,
+      "total_trades": 4481,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 360006029789.68,
+      "max_dd": 20.3,
+      "final_balance": 360006030369.68,
+      "total_trades": 4431,
+      "win_rate": 50.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 5296560409624.85,
+      "max_dd": 33.8,
+      "final_balance": 5296560410204.85,
+      "total_trades": 4383,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 2717996773709.65,
+      "max_dd": 20.5,
+      "final_balance": 2717996774289.65,
+      "total_trades": 4405,
+      "win_rate": 52.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 239698569996.69,
+      "max_dd": 26.1,
+      "final_balance": 239698570576.69,
+      "total_trades": 4396,
+      "win_rate": 50.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 1620087954111.74,
+      "max_dd": 25.1,
+      "final_balance": 1620087954691.74,
+      "total_trades": 4433,
+      "win_rate": 51.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 335094039534.72,
+      "max_dd": 24.5,
+      "final_balance": 335094040114.72,
+      "total_trades": 4365,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 516855747547.58,
+      "max_dd": 21.9,
+      "final_balance": 516855748127.58,
+      "total_trades": 4468,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 1870878000793.07,
+      "max_dd": 26.0,
+      "final_balance": 1870878001373.07,
+      "total_trades": 4415,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 666438897902.94,
+      "max_dd": 29.9,
+      "final_balance": 666438898482.94,
+      "total_trades": 4383,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 899527791474.03,
+      "max_dd": 28.0,
+      "final_balance": 899527792054.03,
+      "total_trades": 4370,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 183171973058.1,
+      "max_dd": 23.4,
+      "final_balance": 183171973638.1,
+      "total_trades": 4350,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 10603314125370.44,
+      "max_dd": 22.8,
+      "final_balance": 10603314125950.44,
+      "total_trades": 4376,
+      "win_rate": 52.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 628478811713.59,
+      "max_dd": 28.2,
+      "final_balance": 628478812293.59,
+      "total_trades": 4455,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 1170166317658.98,
+      "max_dd": 25.0,
+      "final_balance": 1170166318238.98,
+      "total_trades": 4429,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 219254564211.35,
+      "max_dd": 40.6,
+      "final_balance": 219254564791.35,
+      "total_trades": 4485,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 221146901624.23,
+      "max_dd": 32.6,
+      "final_balance": 221146902204.23,
+      "total_trades": 4495,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 43751152271.78,
+      "max_dd": 30.2,
+      "final_balance": 43751152851.78,
+      "total_trades": 4377,
+      "win_rate": 49.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 22712520866487.3,
+      "max_dd": 32.6,
+      "final_balance": 22712520867067.3,
+      "total_trades": 4552,
+      "win_rate": 51.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 1763122524908.11,
+      "max_dd": 24.2,
+      "final_balance": 1763122525488.11,
+      "total_trades": 4479,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 1383959652619.78,
+      "max_dd": 19.0,
+      "final_balance": 1383959653199.78,
+      "total_trades": 4410,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 555517596915.86,
+      "max_dd": 31.2,
+      "final_balance": 555517597495.86,
+      "total_trades": 4339,
+      "win_rate": 49.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 781874755298.58,
+      "max_dd": 24.8,
+      "final_balance": 781874755878.58,
+      "total_trades": 4389,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 426173585300.88,
+      "max_dd": 31.4,
+      "final_balance": 426173585880.88,
+      "total_trades": 4446,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 439000112100.24,
+      "max_dd": 23.1,
+      "final_balance": 439000112680.24,
+      "total_trades": 4439,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 89076155059.06,
+      "max_dd": 29.0,
+      "final_balance": 89076155639.06,
+      "total_trades": 4469,
+      "win_rate": 49.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 176593792406.71,
+      "max_dd": 26.9,
+      "final_balance": 176593792986.71,
+      "total_trades": 4384,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 228010325861.67,
+      "max_dd": 26.4,
+      "final_balance": 228010326441.67,
+      "total_trades": 4399,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 370178799352.43,
+      "max_dd": 36.4,
+      "final_balance": 370178799932.43,
+      "total_trades": 4359,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 52135519838.85,
+      "max_dd": 30.9,
+      "final_balance": 52135520418.85,
+      "total_trades": 4389,
+      "win_rate": 49.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 24621005910.79,
+      "max_dd": 32.1,
+      "final_balance": 24621006490.79,
+      "total_trades": 4369,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 136211080563.49,
+      "max_dd": 30.5,
+      "final_balance": 136211081143.49,
+      "total_trades": 4497,
+      "win_rate": 50.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 2614614167621.81,
+      "max_dd": 35.7,
+      "final_balance": 2614614168201.81,
+      "total_trades": 4399,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 1370201922618.07,
+      "max_dd": 27.0,
+      "final_balance": 1370201923198.07,
+      "total_trades": 4403,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 2949064317326.92,
+      "max_dd": 28.0,
+      "final_balance": 2949064317906.92,
+      "total_trades": 4441,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 45980511467.97,
+      "max_dd": 35.2,
+      "final_balance": 45980512047.97,
+      "total_trades": 4395,
+      "win_rate": 50.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 154669728522.21,
+      "max_dd": 22.4,
+      "final_balance": 154669729102.21,
+      "total_trades": 4392,
+      "win_rate": 50.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 132833245178.62,
+      "max_dd": 38.8,
+      "final_balance": 132833245758.62,
+      "total_trades": 4309,
+      "win_rate": 50.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 35060748872.94,
+      "max_dd": 23.0,
+      "final_balance": 35060749452.94,
+      "total_trades": 4386,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 756390193351.87,
+      "max_dd": 23.8,
+      "final_balance": 756390193931.87,
+      "total_trades": 4432,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 65268017848.48,
+      "max_dd": 29.7,
+      "final_balance": 65268018428.48,
+      "total_trades": 4452,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 631705632190.45,
+      "max_dd": 28.6,
+      "final_balance": 631705632770.45,
+      "total_trades": 4384,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 490002155765.85,
+      "max_dd": 20.9,
+      "final_balance": 490002156345.85,
+      "total_trades": 4494,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 461000943333.86,
+      "max_dd": 33.1,
+      "final_balance": 461000943913.86,
+      "total_trades": 4484,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 32203537281772.52,
+      "max_dd": 25.2,
+      "final_balance": 32203537282352.52,
+      "total_trades": 4469,
+      "win_rate": 52.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 3221130222195.91,
+      "max_dd": 19.3,
+      "final_balance": 3221130222775.91,
+      "total_trades": 4396,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 1666586191486.23,
+      "max_dd": 21.0,
+      "final_balance": 1666586192066.23,
+      "total_trades": 4401,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 3210534397231.41,
+      "max_dd": 20.8,
+      "final_balance": 3210534397811.41,
+      "total_trades": 4426,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 29958388528.54,
+      "max_dd": 26.6,
+      "final_balance": 29958389108.54,
+      "total_trades": 4452,
+      "win_rate": 49.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 20515097257.46,
+      "max_dd": 34.9,
+      "final_balance": 20515097837.46,
+      "total_trades": 4390,
+      "win_rate": 49.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 3898846136404.27,
+      "max_dd": 25.4,
+      "final_balance": 3898846136984.27,
+      "total_trades": 4461,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 514636039188.71,
+      "max_dd": 25.6,
+      "final_balance": 514636039768.71,
+      "total_trades": 4423,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 87025008244.14,
+      "max_dd": 24.9,
+      "final_balance": 87025008824.14,
+      "total_trades": 4395,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 6575961300.99,
+      "max_dd": 31.3,
+      "final_balance": 6575961880.99,
+      "total_trades": 4353,
+      "win_rate": 50.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 163460654738.5,
+      "max_dd": 32.7,
+      "final_balance": 163460655318.5,
+      "total_trades": 4368,
+      "win_rate": 49.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 1519603843422.47,
+      "max_dd": 31.1,
+      "final_balance": 1519603844002.47,
+      "total_trades": 4532,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 60967727326.55,
+      "max_dd": 29.9,
+      "final_balance": 60967727906.55,
+      "total_trades": 4327,
+      "win_rate": 49.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 103216846614.73,
+      "max_dd": 27.3,
+      "final_balance": 103216847194.73,
+      "total_trades": 4445,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 776703045152.17,
+      "max_dd": 28.2,
+      "final_balance": 776703045732.17,
+      "total_trades": 4423,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 21144949223.25,
+      "max_dd": 24.9,
+      "final_balance": 21144949803.25,
+      "total_trades": 4497,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 3134442652838.48,
+      "max_dd": 21.6,
+      "final_balance": 3134442653418.48,
+      "total_trades": 4390,
+      "win_rate": 52.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 643785484473.34,
+      "max_dd": 28.7,
+      "final_balance": 643785485053.34,
+      "total_trades": 4350,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 44672929488.76,
+      "max_dd": 33.4,
+      "final_balance": 44672930068.76,
+      "total_trades": 4415,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 573054903608.2,
+      "max_dd": 30.6,
+      "final_balance": 573054904188.2,
+      "total_trades": 4349,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 14207144401280.16,
+      "max_dd": 28.1,
+      "final_balance": 14207144401860.16,
+      "total_trades": 4384,
+      "win_rate": 52.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 2794667663535.48,
+      "max_dd": 28.8,
+      "final_balance": 2794667664115.48,
+      "total_trades": 4434,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 116351857995.2,
+      "max_dd": 29.7,
+      "final_balance": 116351858575.2,
+      "total_trades": 4376,
+      "win_rate": 49.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 45028072807.34,
+      "max_dd": 28.7,
+      "final_balance": 45028073387.34,
+      "total_trades": 4386,
+      "win_rate": 49.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 63181823101.06,
+      "max_dd": 39.1,
+      "final_balance": 63181823681.06,
+      "total_trades": 4374,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 326574613631.5,
+      "max_dd": 27.1,
+      "final_balance": 326574614211.5,
+      "total_trades": 4395,
+      "win_rate": 49.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 536829576773.86,
+      "max_dd": 29.0,
+      "final_balance": 536829577353.86,
+      "total_trades": 4476,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 7045899850331.49,
+      "max_dd": 21.7,
+      "final_balance": 7045899850911.49,
+      "total_trades": 4382,
+      "win_rate": 52.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 5350581904620.19,
+      "max_dd": 22.1,
+      "final_balance": 5350581905200.19,
+      "total_trades": 4484,
+      "win_rate": 51.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 1508155054477.86,
+      "max_dd": 32.4,
+      "final_balance": 1508155055057.86,
+      "total_trades": 4453,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 7713254480093.57,
+      "max_dd": 26.9,
+      "final_balance": 7713254480673.57,
+      "total_trades": 4414,
+      "win_rate": 52.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 121621318901.27,
+      "max_dd": 29.4,
+      "final_balance": 121621319481.27,
+      "total_trades": 4424,
+      "win_rate": 50.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 362931984859.14,
+      "max_dd": 25.6,
+      "final_balance": 362931985439.14,
+      "total_trades": 4378,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 27126472440801.34,
+      "max_dd": 21.8,
+      "final_balance": 27126472441381.34,
+      "total_trades": 4543,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 1045565310984.83,
+      "max_dd": 26.3,
+      "final_balance": 1045565311564.83,
+      "total_trades": 4499,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 2311581106074.79,
+      "max_dd": 27.7,
+      "final_balance": 2311581106654.79,
+      "total_trades": 4496,
+      "win_rate": 51.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 10283862265854.31,
+      "max_dd": 17.6,
+      "final_balance": 10283862266434.31,
+      "total_trades": 4431,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 1285861219917.72,
+      "max_dd": 34.3,
+      "final_balance": 1285861220497.72,
+      "total_trades": 4393,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 639262698642.14,
+      "max_dd": 29.4,
+      "final_balance": 639262699222.14,
+      "total_trades": 4406,
+      "win_rate": 51.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 79995282287.41,
+      "max_dd": 30.7,
+      "final_balance": 79995282867.41,
+      "total_trades": 4487,
+      "win_rate": 49.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 1177403473401.35,
+      "max_dd": 38.4,
+      "final_balance": 1177403473981.35,
+      "total_trades": 4507,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": -25873735971726.85,
+      "max_dd": 24.5,
+      "final_balance": -25873735971146.85,
+      "total_trades": 4497,
+      "win_rate": 51.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 67738340205.15,
+      "max_dd": 40.4,
+      "final_balance": 67738340785.15,
+      "total_trades": 4426,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 227488304289.5,
+      "max_dd": 30.2,
+      "final_balance": 227488304869.5,
+      "total_trades": 4419,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 565851516418.51,
+      "max_dd": 26.5,
+      "final_balance": 565851516998.51,
+      "total_trades": 4472,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 916659712693.52,
+      "max_dd": 20.4,
+      "final_balance": 916659713273.52,
+      "total_trades": 4399,
+      "win_rate": 51.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 11268880353.22,
+      "max_dd": 38.5,
+      "final_balance": 11268880933.22,
+      "total_trades": 4387,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 159999364461.68,
+      "max_dd": 30.8,
+      "final_balance": 159999365041.68,
+      "total_trades": 4399,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 1394376293021.79,
+      "max_dd": 28.4,
+      "final_balance": 1394376293601.79,
+      "total_trades": 4483,
+      "win_rate": 51.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 462346344949.8,
+      "max_dd": 29.1,
+      "final_balance": 462346345529.8,
+      "total_trades": 4448,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 208081288215.26,
+      "max_dd": 27.9,
+      "final_balance": 208081288795.26,
+      "total_trades": 4424,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 316438860584.95,
+      "max_dd": 24.4,
+      "final_balance": 316438861164.95,
+      "total_trades": 4363,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 1244400836792.79,
+      "max_dd": 28.7,
+      "final_balance": 1244400837372.79,
+      "total_trades": 4445,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 12073897864.9,
+      "max_dd": 35.9,
+      "final_balance": 12073898444.9,
+      "total_trades": 4411,
+      "win_rate": 50.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 318930847236.04,
+      "max_dd": 26.2,
+      "final_balance": 318930847816.04,
+      "total_trades": 4364,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 24119083058.07,
+      "max_dd": 20.9,
+      "final_balance": 24119083638.07,
+      "total_trades": 4354,
+      "win_rate": 50.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 1621893002692.17,
+      "max_dd": 25.5,
+      "final_balance": 1621893003272.17,
+      "total_trades": 4409,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 1663242091789.18,
+      "max_dd": 23.2,
+      "final_balance": 1663242092369.18,
+      "total_trades": 4469,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 476866337296.48,
+      "max_dd": 34.1,
+      "final_balance": 476866337876.48,
+      "total_trades": 4526,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 1086059592312.35,
+      "max_dd": 26.0,
+      "final_balance": 1086059592892.35,
+      "total_trades": 4461,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 1124312520613.56,
+      "max_dd": 29.5,
+      "final_balance": 1124312521193.56,
+      "total_trades": 4398,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 34476966007.12,
+      "max_dd": 40.4,
+      "final_balance": 34476966587.12,
+      "total_trades": 4343,
+      "win_rate": 50.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 2405969602359.9,
+      "max_dd": 23.3,
+      "final_balance": 2405969602939.9,
+      "total_trades": 4472,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 293649313304.33,
+      "max_dd": 29.3,
+      "final_balance": 293649313884.33,
+      "total_trades": 4451,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 392636028540.57,
+      "max_dd": 33.2,
+      "final_balance": 392636029120.57,
+      "total_trades": 4390,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 291221555619.3,
+      "max_dd": 34.0,
+      "final_balance": 291221556199.3,
+      "total_trades": 4401,
+      "win_rate": 51.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 2216077886811.13,
+      "max_dd": 25.9,
+      "final_balance": 2216077887391.13,
+      "total_trades": 4427,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 41202680936.39,
+      "max_dd": 28.0,
+      "final_balance": 41202681516.39,
+      "total_trades": 4333,
+      "win_rate": 49.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 1343607761727.25,
+      "max_dd": 31.5,
+      "final_balance": 1343607762307.25,
+      "total_trades": 4428,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 1517808642048.37,
+      "max_dd": 28.2,
+      "final_balance": 1517808642628.37,
+      "total_trades": 4374,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 245068430113.73,
+      "max_dd": 36.8,
+      "final_balance": 245068430693.73,
+      "total_trades": 4442,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 661460872211.67,
+      "max_dd": 33.4,
+      "final_balance": 661460872791.67,
+      "total_trades": 4470,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 1335766876072.96,
+      "max_dd": 22.0,
+      "final_balance": 1335766876652.96,
+      "total_trades": 4515,
+      "win_rate": 51.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 2130823129526.96,
+      "max_dd": 26.9,
+      "final_balance": 2130823130106.96,
+      "total_trades": 4462,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 209038284721.13,
+      "max_dd": 38.0,
+      "final_balance": 209038285301.13,
+      "total_trades": 4357,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 13690992724.39,
+      "max_dd": 29.4,
+      "final_balance": 13690993304.39,
+      "total_trades": 4487,
+      "win_rate": 49.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 12539370552871.8,
+      "max_dd": 20.2,
+      "final_balance": 12539370553451.8,
+      "total_trades": 4454,
+      "win_rate": 51.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 284076061093.01,
+      "max_dd": 25.7,
+      "final_balance": 284076061673.01,
+      "total_trades": 4425,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 607747597587.51,
+      "max_dd": 24.0,
+      "final_balance": 607747598167.51,
+      "total_trades": 4455,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 372786131843.51,
+      "max_dd": 25.6,
+      "final_balance": 372786132423.51,
+      "total_trades": 4520,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 7138593842956.76,
+      "max_dd": 21.6,
+      "final_balance": 7138593843536.76,
+      "total_trades": 4403,
+      "win_rate": 53.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 1420928547916.31,
+      "max_dd": 28.1,
+      "final_balance": 1420928548496.31,
+      "total_trades": 4411,
+      "win_rate": 51.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 209741772727.21,
+      "max_dd": 28.4,
+      "final_balance": 209741773307.21,
+      "total_trades": 4340,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 333706391756.02,
+      "max_dd": 29.0,
+      "final_balance": 333706392336.02,
+      "total_trades": 4437,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 10002025214825.33,
+      "max_dd": 25.3,
+      "final_balance": 10002025215405.33,
+      "total_trades": 4309,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 289755637359.46,
+      "max_dd": 31.2,
+      "final_balance": 289755637939.46,
+      "total_trades": 4331,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 19861175546.97,
+      "max_dd": 25.9,
+      "final_balance": 19861176126.97,
+      "total_trades": 4363,
+      "win_rate": 49.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 7616275527313.3,
+      "max_dd": 23.5,
+      "final_balance": 7616275527893.3,
+      "total_trades": 4421,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 25895908274.15,
+      "max_dd": 22.8,
+      "final_balance": 25895908854.15,
+      "total_trades": 4348,
+      "win_rate": 49.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 483068910320.76,
+      "max_dd": 27.0,
+      "final_balance": 483068910900.76,
+      "total_trades": 4327,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 8598665423157.48,
+      "max_dd": 21.2,
+      "final_balance": 8598665423737.48,
+      "total_trades": 4410,
+      "win_rate": 52.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 1365786616776.19,
+      "max_dd": 27.9,
+      "final_balance": 1365786617356.19,
+      "total_trades": 4374,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 236917829401.4,
+      "max_dd": 29.5,
+      "final_balance": 236917829981.4,
+      "total_trades": 4398,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 217485834060.95,
+      "max_dd": 30.4,
+      "final_balance": 217485834640.95,
+      "total_trades": 4456,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 409949883590.56,
+      "max_dd": 23.1,
+      "final_balance": 409949884170.56,
+      "total_trades": 4399,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 520649649654.31,
+      "max_dd": 26.7,
+      "final_balance": 520649650234.31,
+      "total_trades": 4405,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 730295351832.89,
+      "max_dd": 28.6,
+      "final_balance": 730295352412.89,
+      "total_trades": 4448,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 77879206386.57,
+      "max_dd": 22.7,
+      "final_balance": 77879206966.57,
+      "total_trades": 4356,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 567173531736.48,
+      "max_dd": 31.8,
+      "final_balance": 567173532316.48,
+      "total_trades": 4398,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 5559163999763.74,
+      "max_dd": 21.2,
+      "final_balance": 5559164000343.74,
+      "total_trades": 4413,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 131912671457.18,
+      "max_dd": 26.6,
+      "final_balance": 131912672037.18,
+      "total_trades": 4494,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 2635333521763.14,
+      "max_dd": 37.6,
+      "final_balance": 2635333522343.14,
+      "total_trades": 4456,
+      "win_rate": 51.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 251542646667.09,
+      "max_dd": 24.5,
+      "final_balance": 251542647247.09,
+      "total_trades": 4347,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 507757863583.32,
+      "max_dd": 33.7,
+      "final_balance": 507757864163.32,
+      "total_trades": 4404,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 1172034068592.72,
+      "max_dd": 23.2,
+      "final_balance": 1172034069172.72,
+      "total_trades": 4472,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 457373523297.63,
+      "max_dd": 32.6,
+      "final_balance": 457373523877.63,
+      "total_trades": 4408,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 159136576985.13,
+      "max_dd": 30.8,
+      "final_balance": 159136577565.13,
+      "total_trades": 4420,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 319465312088.94,
+      "max_dd": 28.0,
+      "final_balance": 319465312668.94,
+      "total_trades": 4346,
+      "win_rate": 51.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 3040055534804.32,
+      "max_dd": 24.2,
+      "final_balance": 3040055535384.32,
+      "total_trades": 4470,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 32541574472.53,
+      "max_dd": 30.2,
+      "final_balance": 32541575052.53,
+      "total_trades": 4440,
+      "win_rate": 49.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 18164453172923.37,
+      "max_dd": 25.6,
+      "final_balance": 18164453173503.37,
+      "total_trades": 4489,
+      "win_rate": 51.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 2573190488408.52,
+      "max_dd": 22.9,
+      "final_balance": 2573190488988.52,
+      "total_trades": 4484,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 3658834260969.14,
+      "max_dd": 22.6,
+      "final_balance": 3658834261549.14,
+      "total_trades": 4424,
+      "win_rate": 51.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 202258556046.4,
+      "max_dd": 29.6,
+      "final_balance": 202258556626.4,
+      "total_trades": 4365,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 804214478403.54,
+      "max_dd": 21.0,
+      "final_balance": 804214478983.54,
+      "total_trades": 4368,
+      "win_rate": 52.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 14538267846390.68,
+      "max_dd": 21.2,
+      "final_balance": 14538267846970.68,
+      "total_trades": 4394,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 4014551039905.21,
+      "max_dd": 24.2,
+      "final_balance": 4014551040485.21,
+      "total_trades": 4417,
+      "win_rate": 52.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 908565517655.12,
+      "max_dd": 27.5,
+      "final_balance": 908565518235.12,
+      "total_trades": 4463,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 720007252386.47,
+      "max_dd": 30.7,
+      "final_balance": 720007252966.47,
+      "total_trades": 4333,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 2984058897006.69,
+      "max_dd": 22.7,
+      "final_balance": 2984058897586.69,
+      "total_trades": 4478,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 1201385944358.95,
+      "max_dd": 21.4,
+      "final_balance": 1201385944938.95,
+      "total_trades": 4398,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 93605416651.94,
+      "max_dd": 28.3,
+      "final_balance": 93605417231.94,
+      "total_trades": 4311,
+      "win_rate": 49.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 44967413754.17,
+      "max_dd": 25.7,
+      "final_balance": 44967414334.17,
+      "total_trades": 4379,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 408012690479.69,
+      "max_dd": 26.2,
+      "final_balance": 408012691059.69,
+      "total_trades": 4477,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 2268617337062.79,
+      "max_dd": 30.4,
+      "final_balance": 2268617337642.79,
+      "total_trades": 4440,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 533547890808.0,
+      "max_dd": 26.9,
+      "final_balance": 533547891388.0,
+      "total_trades": 4477,
+      "win_rate": 51.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 321544569066.72,
+      "max_dd": 30.9,
+      "final_balance": 321544569646.72,
+      "total_trades": 4386,
+      "win_rate": 50.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 387370741840.62,
+      "max_dd": 28.0,
+      "final_balance": 387370742420.62,
+      "total_trades": 4432,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 168455934400.64,
+      "max_dd": 27.0,
+      "final_balance": 168455934980.64,
+      "total_trades": 4422,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 1486846901615.11,
+      "max_dd": 25.7,
+      "final_balance": 1486846902195.11,
+      "total_trades": 4453,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 1508310068626.13,
+      "max_dd": 19.9,
+      "final_balance": 1508310069206.13,
+      "total_trades": 4465,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 209449353284.78,
+      "max_dd": 24.0,
+      "final_balance": 209449353864.78,
+      "total_trades": 4381,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 582562511532.55,
+      "max_dd": 33.0,
+      "final_balance": 582562512112.55,
+      "total_trades": 4376,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 68622352888.93,
+      "max_dd": 29.8,
+      "final_balance": 68622353468.93,
+      "total_trades": 4379,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 124023349988.45,
+      "max_dd": 36.3,
+      "final_balance": 124023350568.45,
+      "total_trades": 4438,
+      "win_rate": 49.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 2617353060939.85,
+      "max_dd": 22.8,
+      "final_balance": 2617353061519.85,
+      "total_trades": 4459,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 34555302374586.92,
+      "max_dd": 22.6,
+      "final_balance": 34555302375166.92,
+      "total_trades": 4464,
+      "win_rate": 52.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 887566870930.56,
+      "max_dd": 23.2,
+      "final_balance": 887566871510.56,
+      "total_trades": 4293,
+      "win_rate": 51.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 983353075213.37,
+      "max_dd": 29.6,
+      "final_balance": 983353075793.37,
+      "total_trades": 4389,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 19699122671569.48,
+      "max_dd": 21.6,
+      "final_balance": 19699122672149.48,
+      "total_trades": 4399,
+      "win_rate": 51.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 239369802447.67,
+      "max_dd": 43.8,
+      "final_balance": 239369803027.67,
+      "total_trades": 4321,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 555306704203.57,
+      "max_dd": 23.4,
+      "final_balance": 555306704783.57,
+      "total_trades": 4417,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 52574023451.41,
+      "max_dd": 25.3,
+      "final_balance": 52574024031.41,
+      "total_trades": 4388,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 4138149372067.4,
+      "max_dd": 22.9,
+      "final_balance": 4138149372647.4,
+      "total_trades": 4395,
+      "win_rate": 51.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 2870771668914.98,
+      "max_dd": 25.1,
+      "final_balance": 2870771669494.98,
+      "total_trades": 4374,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 2378384876644.64,
+      "max_dd": 23.1,
+      "final_balance": 2378384877224.64,
+      "total_trades": 4484,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 75549575738.95,
+      "max_dd": 25.6,
+      "final_balance": 75549576318.95,
+      "total_trades": 4439,
+      "win_rate": 49.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 1572772970681.46,
+      "max_dd": 22.7,
+      "final_balance": 1572772971261.46,
+      "total_trades": 4364,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 1015835367358.24,
+      "max_dd": 20.3,
+      "final_balance": 1015835367938.24,
+      "total_trades": 4453,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 817311588831.55,
+      "max_dd": 29.7,
+      "final_balance": 817311589411.55,
+      "total_trades": 4321,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 663323833900.28,
+      "max_dd": 23.6,
+      "final_balance": 663323834480.28,
+      "total_trades": 4426,
+      "win_rate": 51.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 22095017746.09,
+      "max_dd": 27.2,
+      "final_balance": 22095018326.09,
+      "total_trades": 4402,
+      "win_rate": 49.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 54053904615.13,
+      "max_dd": 36.2,
+      "final_balance": 54053905195.13,
+      "total_trades": 4349,
+      "win_rate": 50.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 50833754482.28,
+      "max_dd": 29.4,
+      "final_balance": 50833755062.28,
+      "total_trades": 4380,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 574126653225.53,
+      "max_dd": 21.8,
+      "final_balance": 574126653805.53,
+      "total_trades": 4408,
+      "win_rate": 50.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 543587237682.27,
+      "max_dd": 29.8,
+      "final_balance": 543587238262.27,
+      "total_trades": 4402,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 55380896850.64,
+      "max_dd": 34.4,
+      "final_balance": 55380897430.64,
+      "total_trades": 4452,
+      "win_rate": 50.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 255930841789.49,
+      "max_dd": 31.7,
+      "final_balance": 255930842369.49,
+      "total_trades": 4403,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 76063888356.88,
+      "max_dd": 23.6,
+      "final_balance": 76063888936.88,
+      "total_trades": 4462,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 354235091623.27,
+      "max_dd": 37.8,
+      "final_balance": 354235092203.27,
+      "total_trades": 4468,
+      "win_rate": 49.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 1785640274417.66,
+      "max_dd": 17.7,
+      "final_balance": 1785640274997.66,
+      "total_trades": 4388,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 1024802965033.31,
+      "max_dd": 25.3,
+      "final_balance": 1024802965613.31,
+      "total_trades": 4396,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 5101058152415.9,
+      "max_dd": 23.5,
+      "final_balance": 5101058152995.9,
+      "total_trades": 4444,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 1928227851005.99,
+      "max_dd": 17.5,
+      "final_balance": 1928227851585.99,
+      "total_trades": 4349,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 54532341698.1,
+      "max_dd": 26.4,
+      "final_balance": 54532342278.1,
+      "total_trades": 4386,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 454876645602.29,
+      "max_dd": 25.7,
+      "final_balance": 454876646182.29,
+      "total_trades": 4439,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 24486905402.22,
+      "max_dd": 25.2,
+      "final_balance": 24486905982.22,
+      "total_trades": 4405,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 88786555105.28,
+      "max_dd": 30.1,
+      "final_balance": 88786555685.28,
+      "total_trades": 4334,
+      "win_rate": 50.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 553509790790.69,
+      "max_dd": 28.5,
+      "final_balance": 553509791370.69,
+      "total_trades": 4369,
+      "win_rate": 51.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 1136799186888.53,
+      "max_dd": 25.0,
+      "final_balance": 1136799187468.53,
+      "total_trades": 4408,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 2015959222288.03,
+      "max_dd": 22.3,
+      "final_balance": 2015959222868.03,
+      "total_trades": 4504,
+      "win_rate": 51.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 60760554753.04,
+      "max_dd": 32.8,
+      "final_balance": 60760555333.04,
+      "total_trades": 4455,
+      "win_rate": 49.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 87207393991.83,
+      "max_dd": 23.3,
+      "final_balance": 87207394571.83,
+      "total_trades": 4358,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 22352855383819.28,
+      "max_dd": 21.9,
+      "final_balance": 22352855384399.28,
+      "total_trades": 4353,
+      "win_rate": 52.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 20430268020.74,
+      "max_dd": 22.7,
+      "final_balance": 20430268600.74,
+      "total_trades": 4460,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 1160439323085.13,
+      "max_dd": 22.7,
+      "final_balance": 1160439323665.13,
+      "total_trades": 4386,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 801298888062.14,
+      "max_dd": 31.0,
+      "final_balance": 801298888642.14,
+      "total_trades": 4450,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 472769713623.37,
+      "max_dd": 25.2,
+      "final_balance": 472769714203.37,
+      "total_trades": 4423,
+      "win_rate": 52.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 8952284691827.69,
+      "max_dd": 22.0,
+      "final_balance": 8952284692407.69,
+      "total_trades": 4441,
+      "win_rate": 51.6,
+      "ruined": false
+    },
+    {
+      "net_profit": 114128808489.34,
+      "max_dd": 27.6,
+      "final_balance": 114128809069.34,
+      "total_trades": 4441,
+      "win_rate": 51.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 796637045645.32,
+      "max_dd": 30.9,
+      "final_balance": 796637046225.32,
+      "total_trades": 4427,
+      "win_rate": 51.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 735522084664.39,
+      "max_dd": 24.3,
+      "final_balance": 735522085244.39,
+      "total_trades": 4414,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 493969817396.87,
+      "max_dd": 27.8,
+      "final_balance": 493969817976.87,
+      "total_trades": 4426,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 1282329726132.45,
+      "max_dd": 23.5,
+      "final_balance": 1282329726712.45,
+      "total_trades": 4355,
+      "win_rate": 51.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 999259414240.3,
+      "max_dd": 23.9,
+      "final_balance": 999259414820.3,
+      "total_trades": 4432,
+      "win_rate": 51.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 589992264251.29,
+      "max_dd": 36.0,
+      "final_balance": 589992264831.29,
+      "total_trades": 4324,
+      "win_rate": 51.1,
+      "ruined": false
+    },
+    {
+      "net_profit": 121750968173.86,
+      "max_dd": 23.0,
+      "final_balance": 121750968753.86,
+      "total_trades": 4356,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 107848748280.98,
+      "max_dd": 43.1,
+      "final_balance": 107848748860.98,
+      "total_trades": 4397,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 2256129675621.4,
+      "max_dd": 23.9,
+      "final_balance": 2256129676201.4,
+      "total_trades": 4445,
+      "win_rate": 51.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 407656117436.09,
+      "max_dd": 27.3,
+      "final_balance": 407656118016.09,
+      "total_trades": 4402,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 3548662671587.44,
+      "max_dd": 28.4,
+      "final_balance": 3548662672167.44,
+      "total_trades": 4458,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 490325063416.38,
+      "max_dd": 28.1,
+      "final_balance": 490325063996.38,
+      "total_trades": 4386,
+      "win_rate": 50.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 68186925008.63,
+      "max_dd": 31.0,
+      "final_balance": 68186925588.63,
+      "total_trades": 4349,
+      "win_rate": 49.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 22449103756.17,
+      "max_dd": 32.7,
+      "final_balance": 22449104336.17,
+      "total_trades": 4415,
+      "win_rate": 49.9,
+      "ruined": false
+    },
+    {
+      "net_profit": 2883043300841.34,
+      "max_dd": 26.9,
+      "final_balance": 2883043301421.34,
+      "total_trades": 4408,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 571903915163.63,
+      "max_dd": 29.0,
+      "final_balance": 571903915743.63,
+      "total_trades": 4432,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 2384843287917.27,
+      "max_dd": 26.2,
+      "final_balance": 2384843288497.27,
+      "total_trades": 4399,
+      "win_rate": 51.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 261805369700.0,
+      "max_dd": 33.2,
+      "final_balance": 261805370280.0,
+      "total_trades": 4380,
+      "win_rate": 50.3,
+      "ruined": false
+    },
+    {
+      "net_profit": 187074774970.89,
+      "max_dd": 26.8,
+      "final_balance": 187074775550.89,
+      "total_trades": 4373,
+      "win_rate": 50.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 4659983140437.92,
+      "max_dd": 22.1,
+      "final_balance": 4659983141017.92,
+      "total_trades": 4439,
+      "win_rate": 51.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 366577026161.21,
+      "max_dd": 32.6,
+      "final_balance": 366577026741.21,
+      "total_trades": 4436,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 1963820664587.22,
+      "max_dd": 34.2,
+      "final_balance": 1963820665167.22,
+      "total_trades": 4382,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 18476188521081.12,
+      "max_dd": 28.1,
+      "final_balance": 18476188521661.12,
+      "total_trades": 4442,
+      "win_rate": 52.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 296609871219.13,
+      "max_dd": 29.8,
+      "final_balance": 296609871799.13,
+      "total_trades": 4379,
+      "win_rate": 51.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 814754899257.06,
+      "max_dd": 42.2,
+      "final_balance": 814754899837.06,
+      "total_trades": 4400,
+      "win_rate": 50.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 175858743955.23,
+      "max_dd": 29.9,
+      "final_balance": 175858744535.23,
+      "total_trades": 4332,
+      "win_rate": 50.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 6135345910.87,
+      "max_dd": 26.6,
+      "final_balance": 6135346490.87,
+      "total_trades": 4414,
+      "win_rate": 49.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 73476827549.86,
+      "max_dd": 28.3,
+      "final_balance": 73476828129.86,
+      "total_trades": 4272,
+      "win_rate": 49.8,
+      "ruined": false
+    },
+    {
+      "net_profit": 443395560815.38,
+      "max_dd": 27.0,
+      "final_balance": 443395561395.38,
+      "total_trades": 4356,
+      "win_rate": 50.0,
+      "ruined": false
+    },
+    {
+      "net_profit": 825022918508.72,
+      "max_dd": 32.3,
+      "final_balance": 825022919088.72,
+      "total_trades": 4518,
+      "win_rate": 51.5,
+      "ruined": false
+    },
+    {
+      "net_profit": 1291615871125.01,
+      "max_dd": 20.1,
+      "final_balance": 1291615871705.01,
+      "total_trades": 4436,
+      "win_rate": 51.4,
+      "ruined": false
+    },
+    {
+      "net_profit": 233090102783.4,
+      "max_dd": 36.5,
+      "final_balance": 233090103363.4,
+      "total_trades": 4386,
+      "win_rate": 50.7,
+      "ruined": false
+    },
+    {
+      "net_profit": 286718834696.27,
+      "max_dd": 34.6,
+      "final_balance": 286718835276.27,
+      "total_trades": 4344,
+      "win_rate": 50.2,
+      "ruined": false
+    },
+    {
+      "net_profit": 1919366548529.12,
+      "max_dd": 23.7,
+      "final_balance": 1919366549109.12,
+      "total_trades": 4429,
+      "win_rate": 51.3,
+      "ruined": false
+    }
+  ]
+}

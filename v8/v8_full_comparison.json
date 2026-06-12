@@ -1,0 +1,749 @@
+{
+  "timestamp": "2026-04-15T19:02:05.851932",
+  "seed": 580.0,
+  "slippage": 0.05,
+  "configurations": [
+    {
+      "label": "v3 원본 (trail 1.5/0.3, lev5, TP4, ADX35, 3코인 2pos)",
+      "kw": "{'trailing_activation': 1.5, 'trailing_distance': 0.3, 'params': {'ema_fast': 5, 'ema_slow': 18, 'rsi_period': 14, 'rsi_oversold': 35, 'rsi_overbought': 65, 'pullback_ema_dist_pct': 1.5, 'sl_atr_mult': 1.5, 'tp_rr_ratio': 4.0, 'entry_score_threshold': 40, 'adx_enter_trending': 35, 'adx_exit_trending': 20, 'atr_high_vol_percentile': 85, 'orderbook_imbalance_min': 0.55, 'funding_bias_threshold': 0.0005}, 'enabled_symbols': ['BTCUSDT', 'ETHUSDT', 'SOLUSDT'], 'max_simultaneous': 2, 'max_leverage': 5}"
+    },
+    {
+      "label": "v5 (trail 1.2/0.1만 변경, 나머지 v3)",
+      "kw": "{'trailing_activation': 1.2, 'trailing_distance': 0.1, 'params': {'ema_fast': 5, 'ema_slow': 18, 'rsi_period': 14, 'rsi_oversold': 35, 'rsi_overbought': 65, 'pullback_ema_dist_pct': 1.5, 'sl_atr_mult': 1.5, 'tp_rr_ratio': 4.0, 'entry_score_threshold': 40, 'adx_enter_trending': 35, 'adx_exit_trending': 20, 'atr_high_vol_percentile': 85, 'orderbook_imbalance_min': 0.55, 'funding_bias_threshold': 0.0005}, 'enabled_symbols': ['BTCUSDT', 'ETHUSDT', 'SOLUSDT'], 'max_simultaneous': 2, 'max_leverage': 5}"
+    },
+    {
+      "label": "v5 + lev7만",
+      "kw": "{'trailing_activation': 1.2, 'trailing_distance': 0.1, 'params': {'ema_fast': 5, 'ema_slow': 18, 'rsi_period': 14, 'rsi_oversold': 35, 'rsi_overbought': 65, 'pullback_ema_dist_pct': 1.5, 'sl_atr_mult': 1.5, 'tp_rr_ratio': 4.0, 'entry_score_threshold': 40, 'adx_enter_trending': 35, 'adx_exit_trending': 20, 'atr_high_vol_percentile': 85, 'orderbook_imbalance_min': 0.55, 'funding_bias_threshold': 0.0005}, 'enabled_symbols': ['BTCUSDT', 'ETHUSDT', 'SOLUSDT'], 'max_simultaneous': 2, 'max_leverage': 7}"
+    },
+    {
+      "label": "v5 + TP6만",
+      "kw": "{'trailing_activation': 1.2, 'trailing_distance': 0.1, 'params': {'ema_fast': 5, 'ema_slow': 18, 'rsi_period': 14, 'rsi_oversold': 35, 'rsi_overbought': 65, 'pullback_ema_dist_pct': 1.5, 'sl_atr_mult': 1.5, 'tp_rr_ratio': 6.0, 'entry_score_threshold': 40, 'adx_enter_trending': 35, 'adx_exit_trending': 20, 'atr_high_vol_percentile': 85, 'orderbook_imbalance_min': 0.55, 'funding_bias_threshold': 0.0005}, 'enabled_symbols': ['BTCUSDT', 'ETHUSDT', 'SOLUSDT'], 'max_simultaneous': 2, 'max_leverage': 5}"
+    },
+    {
+      "label": "v5 + ADX30만",
+      "kw": "{'trailing_activation': 1.2, 'trailing_distance': 0.1, 'params': {'ema_fast': 5, 'ema_slow': 18, 'rsi_period': 14, 'rsi_oversold': 35, 'rsi_overbought': 65, 'pullback_ema_dist_pct': 1.5, 'sl_atr_mult': 1.5, 'tp_rr_ratio': 4.0, 'entry_score_threshold': 40, 'adx_enter_trending': 30, 'adx_exit_trending': 20, 'atr_high_vol_percentile': 85, 'orderbook_imbalance_min': 0.55, 'funding_bias_threshold': 0.0005}, 'enabled_symbols': ['BTCUSDT', 'ETHUSDT', 'SOLUSDT'], 'max_simultaneous': 2, 'max_leverage': 5}"
+    },
+    {
+      "label": "v5 + 3pos만",
+      "kw": "{'trailing_activation': 1.2, 'trailing_distance': 0.1, 'params': {'ema_fast': 5, 'ema_slow': 18, 'rsi_period': 14, 'rsi_oversold': 35, 'rsi_overbought': 65, 'pullback_ema_dist_pct': 1.5, 'sl_atr_mult': 1.5, 'tp_rr_ratio': 4.0, 'entry_score_threshold': 40, 'adx_enter_trending': 35, 'adx_exit_trending': 20, 'atr_high_vol_percentile': 85, 'orderbook_imbalance_min': 0.55, 'funding_bias_threshold': 0.0005}, 'enabled_symbols': ['BTCUSDT', 'ETHUSDT', 'SOLUSDT'], 'max_simultaneous': 3, 'max_leverage': 5}"
+    },
+    {
+      "label": "v5 + XRP만 (4코인 2pos)",
+      "kw": "{'trailing_activation': 1.2, 'trailing_distance': 0.1, 'params': {'ema_fast': 5, 'ema_slow': 18, 'rsi_period': 14, 'rsi_oversold': 35, 'rsi_overbought': 65, 'pullback_ema_dist_pct': 1.5, 'sl_atr_mult': 1.5, 'tp_rr_ratio': 4.0, 'entry_score_threshold': 40, 'adx_enter_trending': 35, 'adx_exit_trending': 20, 'atr_high_vol_percentile': 85, 'orderbook_imbalance_min': 0.55, 'funding_bias_threshold': 0.0005}, 'enabled_symbols': ['BTCUSDT', 'ETHUSDT', 'SOLUSDT', 'XRPUSDT'], 'max_simultaneous': 2, 'max_leverage': 5}"
+    },
+    {
+      "label": "v5 + lev7 + TP6",
+      "kw": "{'trailing_activation': 1.2, 'trailing_distance': 0.1, 'params': {'ema_fast': 5, 'ema_slow': 18, 'rsi_period': 14, 'rsi_oversold': 35, 'rsi_overbought': 65, 'pullback_ema_dist_pct': 1.5, 'sl_atr_mult': 1.5, 'tp_rr_ratio': 6.0, 'entry_score_threshold': 40, 'adx_enter_trending': 35, 'adx_exit_trending': 20, 'atr_high_vol_percentile': 85, 'orderbook_imbalance_min': 0.55, 'funding_bias_threshold': 0.0005}, 'enabled_symbols': ['BTCUSDT', 'ETHUSDT', 'SOLUSDT'], 'max_simultaneous': 2, 'max_leverage': 7}"
+    },
+    {
+      "label": "v5 + lev7 + TP6 + ADX30 (안전, 3코인 2pos)",
+      "kw": "{'trailing_activation': 1.2, 'trailing_distance': 0.1, 'params': {'ema_fast': 5, 'ema_slow': 18, 'rsi_period': 14, 'rsi_oversold': 35, 'rsi_overbought': 65, 'pullback_ema_dist_pct': 1.5, 'sl_atr_mult': 1.5, 'tp_rr_ratio': 6.0, 'entry_score_threshold': 40, 'adx_enter_trending': 30, 'adx_exit_trending': 20, 'atr_high_vol_percentile': 85, 'orderbook_imbalance_min': 0.55, 'funding_bias_threshold': 0.0005}, 'enabled_symbols': ['BTCUSDT', 'ETHUSDT', 'SOLUSDT'], 'max_simultaneous': 2, 'max_leverage': 7}"
+    },
+    {
+      "label": "안전 + XRP (4코인 2pos)",
+      "kw": "{'trailing_activation': 1.2, 'trailing_distance': 0.1, 'params': {'ema_fast': 5, 'ema_slow': 18, 'rsi_period': 14, 'rsi_oversold': 35, 'rsi_overbought': 65, 'pullback_ema_dist_pct': 1.5, 'sl_atr_mult': 1.5, 'tp_rr_ratio': 6.0, 'entry_score_threshold': 40, 'adx_enter_trending': 30, 'adx_exit_trending': 20, 'atr_high_vol_percentile': 85, 'orderbook_imbalance_min': 0.55, 'funding_bias_threshold': 0.0005}, 'enabled_symbols': ['BTCUSDT', 'ETHUSDT', 'SOLUSDT', 'XRPUSDT'], 'max_simultaneous': 2, 'max_leverage': 7}"
+    },
+    {
+      "label": "v6 풀 패키지 (4코인 3pos, 현재 GCP 운영)",
+      "kw": "{'trailing_activation': 1.2, 'trailing_distance': 0.1, 'params': {'ema_fast': 5, 'ema_slow': 18, 'rsi_period': 14, 'rsi_oversold': 35, 'rsi_overbought': 65, 'pullback_ema_dist_pct': 1.5, 'sl_atr_mult': 1.5, 'tp_rr_ratio': 6.0, 'entry_score_threshold': 40, 'adx_enter_trending': 30, 'adx_exit_trending': 20, 'atr_high_vol_percentile': 85, 'orderbook_imbalance_min': 0.55, 'funding_bias_threshold': 0.0005}, 'enabled_symbols': ['BTCUSDT', 'ETHUSDT', 'SOLUSDT', 'XRPUSDT'], 'max_simultaneous': 3, 'max_leverage': 7}"
+    },
+    {
+      "label": "v6 풀 + 4pos (오버피팅 체크)",
+      "kw": "{'trailing_activation': 1.2, 'trailing_distance': 0.1, 'params': {'ema_fast': 5, 'ema_slow': 18, 'rsi_period': 14, 'rsi_oversold': 35, 'rsi_overbought': 65, 'pullback_ema_dist_pct': 1.5, 'sl_atr_mult': 1.5, 'tp_rr_ratio': 6.0, 'entry_score_threshold': 40, 'adx_enter_trending': 30, 'adx_exit_trending': 20, 'atr_high_vol_percentile': 85, 'orderbook_imbalance_min': 0.55, 'funding_bias_threshold': 0.0005}, 'enabled_symbols': ['BTCUSDT', 'ETHUSDT', 'SOLUSDT', 'XRPUSDT'], 'max_simultaneous': 4, 'max_leverage': 7}"
+    },
+    {
+      "label": "v6 풀 - 3코인으로 (XRP 없음)",
+      "kw": "{'trailing_activation': 1.2, 'trailing_distance': 0.1, 'params': {'ema_fast': 5, 'ema_slow': 18, 'rsi_period': 14, 'rsi_oversold': 35, 'rsi_overbought': 65, 'pullback_ema_dist_pct': 1.5, 'sl_atr_mult': 1.5, 'tp_rr_ratio': 6.0, 'entry_score_threshold': 40, 'adx_enter_trending': 30, 'adx_exit_trending': 20, 'atr_high_vol_percentile': 85, 'orderbook_imbalance_min': 0.55, 'funding_bias_threshold': 0.0005}, 'enabled_symbols': ['BTCUSDT', 'ETHUSDT', 'SOLUSDT'], 'max_simultaneous': 3, 'max_leverage': 7}"
+    },
+    {
+      "label": "v6 풀 + risk 1.0% (보수)",
+      "kw": "{'trailing_activation': 1.2, 'trailing_distance': 0.1, 'params': {'ema_fast': 5, 'ema_slow': 18, 'rsi_period': 14, 'rsi_oversold': 35, 'rsi_overbought': 65, 'pullback_ema_dist_pct': 1.5, 'sl_atr_mult': 1.5, 'tp_rr_ratio': 6.0, 'entry_score_threshold': 40, 'adx_enter_trending': 30, 'adx_exit_trending': 20, 'atr_high_vol_percentile': 85, 'orderbook_imbalance_min': 0.55, 'funding_bias_threshold': 0.0005}, 'enabled_symbols': ['BTCUSDT', 'ETHUSDT', 'SOLUSDT', 'XRPUSDT'], 'max_simultaneous': 3, 'max_leverage': 7, 'risk_per_trade': 0.01}"
+    }
+  ],
+  "results": {
+    "config_0": {
+      "label": "v3 원본 (trail 1.5/0.3, lev5, TP4, ADX35, 3코인 2pos)",
+      "net_profit": -1741.13,
+      "max_dd": 97.4,
+      "final_balance": -1161.13,
+      "total_trades": 943,
+      "win_rate": 50.8,
+      "ruined": true,
+      "avg_win": 3.35,
+      "avg_loss": -3.49,
+      "profit_factor": 0.99,
+      "max_consec_loss": 9,
+      "calmar": -18.0,
+      "yearly": {
+        "2020": {
+          "trades": 264,
+          "wins": 112,
+          "pnl": -21.427900000000047
+        },
+        "2021": {
+          "trades": 564,
+          "wins": 297,
+          "pnl": 5.425400000000007
+        },
+        "2022": {
+          "trades": 115,
+          "wins": 70,
+          "pnl": 2.9991999999999996
+        }
+      }
+    },
+    "config_1": {
+      "label": "v5 (trail 1.2/0.1만 변경, 나머지 v3)",
+      "net_profit": 2821.15,
+      "max_dd": 63.3,
+      "final_balance": 3401.15,
+      "total_trades": 3747,
+      "win_rate": 55.8,
+      "ruined": false,
+      "avg_win": 13.36,
+      "avg_loss": -14.12,
+      "profit_factor": 1.19,
+      "max_consec_loss": 10,
+      "calmar": 45.0,
+      "yearly": {
+        "2020": {
+          "trades": 305,
+          "wins": 143,
+          "pnl": 109.0887
+        },
+        "2021": {
+          "trades": 622,
+          "wins": 358,
+          "pnl": 81.32640000000006
+        },
+        "2022": {
+          "trades": 860,
+          "wins": 517,
+          "pnl": 742.715699999999
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -7.098
+        },
+        "2024": {
+          "trades": 884,
+          "wins": 504,
+          "pnl": 1457.5160999999998
+        },
+        "2025": {
+          "trades": 799,
+          "wins": 418,
+          "pnl": 698.6850000000006
+        },
+        "2026": {
+          "trades": 276,
+          "wins": 151,
+          "pnl": 1467.0454999999997
+        }
+      }
+    },
+    "config_2": {
+      "label": "v5 + lev7만",
+      "net_profit": 4399.0,
+      "max_dd": 60.5,
+      "final_balance": 4979.0,
+      "total_trades": 3747,
+      "win_rate": 55.8,
+      "ruined": false,
+      "avg_win": 18.02,
+      "avg_loss": -19.05,
+      "profit_factor": 1.19,
+      "max_consec_loss": 10,
+      "calmar": 73.0,
+      "yearly": {
+        "2020": {
+          "trades": 305,
+          "wins": 143,
+          "pnl": 123.36080000000003
+        },
+        "2021": {
+          "trades": 622,
+          "wins": 358,
+          "pnl": 85.33540000000009
+        },
+        "2022": {
+          "trades": 860,
+          "wins": 517,
+          "pnl": 824.3804999999998
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -11.3095
+        },
+        "2024": {
+          "trades": 884,
+          "wins": 504,
+          "pnl": 1886.2478000000012
+        },
+        "2025": {
+          "trades": 799,
+          "wins": 418,
+          "pnl": 1049.7892000000033
+        },
+        "2026": {
+          "trades": 276,
+          "wins": 151,
+          "pnl": 2169.3304
+        }
+      }
+    },
+    "config_3": {
+      "label": "v5 + TP6만",
+      "net_profit": 9095.72,
+      "max_dd": 56.8,
+      "final_balance": 9675.72,
+      "total_trades": 3747,
+      "win_rate": 55.8,
+      "ruined": false,
+      "avg_win": 29.61,
+      "avg_loss": -30.86,
+      "profit_factor": 1.21,
+      "max_consec_loss": 10,
+      "calmar": 160.0,
+      "yearly": {
+        "2020": {
+          "trades": 305,
+          "wins": 143,
+          "pnl": 142.3813
+        },
+        "2021": {
+          "trades": 622,
+          "wins": 358,
+          "pnl": 90.67919999999991
+        },
+        "2022": {
+          "trades": 860,
+          "wins": 517,
+          "pnl": 1020.9278999999991
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -10.2447
+        },
+        "2024": {
+          "trades": 884,
+          "wins": 504,
+          "pnl": 3130.3954000000017
+        },
+        "2025": {
+          "trades": 799,
+          "wins": 418,
+          "pnl": 1908.135299999998
+        },
+        "2026": {
+          "trades": 276,
+          "wins": 151,
+          "pnl": 4541.576199999996
+        }
+      }
+    },
+    "config_4": {
+      "label": "v5 + ADX30만",
+      "net_profit": 13723.68,
+      "max_dd": 56.2,
+      "final_balance": 14303.68,
+      "total_trades": 4111,
+      "win_rate": 55.9,
+      "ruined": false,
+      "avg_win": 44.37,
+      "avg_loss": -47.82,
+      "profit_factor": 1.18,
+      "max_consec_loss": 10,
+      "calmar": 244.0,
+      "yearly": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 80.98299999999993
+        },
+        "2021": {
+          "trades": 682,
+          "wins": 399,
+          "pnl": 161.8682999999999
+        },
+        "2022": {
+          "trades": 971,
+          "wins": 586,
+          "pnl": 1354.2649000000006
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -13.6097
+        },
+        "2024": {
+          "trades": 957,
+          "wins": 542,
+          "pnl": 5062.458099999996
+        },
+        "2025": {
+          "trades": 879,
+          "wins": 460,
+          "pnl": 2726.738899999995
+        },
+        "2026": {
+          "trades": 282,
+          "wins": 155,
+          "pnl": 6079.102600000002
+        }
+      }
+    },
+    "config_5": {
+      "label": "v5 + 3pos만",
+      "net_profit": -1188.9,
+      "max_dd": 97.5,
+      "final_balance": -608.9,
+      "total_trades": 1941,
+      "win_rate": 56.9,
+      "ruined": true,
+      "avg_win": 3.81,
+      "avg_loss": -4.38,
+      "profit_factor": 1.15,
+      "max_consec_loss": 8,
+      "calmar": -12.0,
+      "yearly": {
+        "2020": {
+          "trades": 305,
+          "wins": 143,
+          "pnl": 80.77419999999994
+        },
+        "2021": {
+          "trades": 622,
+          "wins": 358,
+          "pnl": 59.85820000000003
+        },
+        "2022": {
+          "trades": 931,
+          "wins": 556,
+          "pnl": 396.7427000000002
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -2.1446
+        },
+        "2024": {
+          "trades": 82,
+          "wins": 47,
+          "pnl": 3.9918000000000005
+        }
+      }
+    },
+    "config_6": {
+      "label": "v5 + XRP만 (4코인 2pos)",
+      "net_profit": 13456.02,
+      "max_dd": 60.3,
+      "final_balance": 14036.02,
+      "total_trades": 4643,
+      "win_rate": 55.9,
+      "ruined": false,
+      "avg_win": 41.3,
+      "avg_loss": -44.92,
+      "profit_factor": 1.17,
+      "max_consec_loss": 12,
+      "calmar": 223.0,
+      "yearly": {
+        "2020": {
+          "trades": 305,
+          "wins": 143,
+          "pnl": 109.0887
+        },
+        "2021": {
+          "trades": 778,
+          "wins": 448,
+          "pnl": 81.3235
+        },
+        "2022": {
+          "trades": 1088,
+          "wins": 648,
+          "pnl": 1166.8117000000013
+        },
+        "2023": {
+          "trades": 2,
+          "wins": 1,
+          "pnl": 15.932800000000002
+        },
+        "2024": {
+          "trades": 1095,
+          "wins": 614,
+          "pnl": 4485.4025999999985
+        },
+        "2025": {
+          "trades": 1074,
+          "wins": 577,
+          "pnl": 3063.810400000007
+        },
+        "2026": {
+          "trades": 301,
+          "wins": 164,
+          "pnl": 6261.7771
+        }
+      }
+    },
+    "config_7": {
+      "label": "v5 + lev7 + TP6",
+      "net_profit": 13075.31,
+      "max_dd": 51.7,
+      "final_balance": 13655.31,
+      "total_trades": 3747,
+      "win_rate": 55.8,
+      "ruined": false,
+      "avg_win": 40.15,
+      "avg_loss": -41.76,
+      "profit_factor": 1.21,
+      "max_consec_loss": 10,
+      "calmar": 253.0,
+      "yearly": {
+        "2020": {
+          "trades": 305,
+          "wins": 143,
+          "pnl": 168.44380000000004
+        },
+        "2021": {
+          "trades": 622,
+          "wins": 358,
+          "pnl": 97.99850000000016
+        },
+        "2022": {
+          "trades": 860,
+          "wins": 517,
+          "pnl": 1187.5774999999992
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -17.0889
+        },
+        "2024": {
+          "trades": 884,
+          "wins": 504,
+          "pnl": 4019.7614000000003
+        },
+        "2025": {
+          "trades": 799,
+          "wins": 418,
+          "pnl": 2836.1927000000055
+        },
+        "2026": {
+          "trades": 276,
+          "wins": 151,
+          "pnl": 6510.555000000004
+        }
+      }
+    },
+    "config_8": {
+      "label": "v5 + lev7 + TP6 + ADX30 (안전, 3코인 2pos)",
+      "net_profit": 30841.58,
+      "max_dd": 46.2,
+      "final_balance": 31421.58,
+      "total_trades": 4111,
+      "win_rate": 55.9,
+      "ruined": false,
+      "avg_win": 85.47,
+      "avg_loss": -90.56,
+      "profit_factor": 1.2,
+      "max_consec_loss": 10,
+      "calmar": 668.0,
+      "yearly": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 131.14450000000002
+        },
+        "2021": {
+          "trades": 682,
+          "wins": 399,
+          "pnl": 190.64460000000003
+        },
+        "2022": {
+          "trades": 971,
+          "wins": 586,
+          "pnl": 1916.2185999999997
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -27.8528
+        },
+        "2024": {
+          "trades": 957,
+          "wins": 542,
+          "pnl": 8739.330300000005
+        },
+        "2025": {
+          "trades": 879,
+          "wins": 460,
+          "pnl": 6840.5152
+        },
+        "2026": {
+          "trades": 282,
+          "wins": 155,
+          "pnl": 14779.710699999996
+        }
+      }
+    },
+    "config_9": {
+      "label": "안전 + XRP (4코인 2pos)",
+      "net_profit": 100499.74,
+      "max_dd": 46.5,
+      "final_balance": 101079.74,
+      "total_trades": 4969,
+      "win_rate": 56.4,
+      "ruined": false,
+      "avg_win": 228.83,
+      "avg_loss": -248.71,
+      "profit_factor": 1.19,
+      "max_consec_loss": 12,
+      "calmar": 2161.0,
+      "yearly": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 131.14450000000002
+        },
+        "2021": {
+          "trades": 845,
+          "wins": 494,
+          "pnl": 184.92990000000015
+        },
+        "2022": {
+          "trades": 1175,
+          "wins": 712,
+          "pnl": 3480.4912999999992
+        },
+        "2023": {
+          "trades": 2,
+          "wins": 1,
+          "pnl": 35.7199
+        },
+        "2024": {
+          "trades": 1163,
+          "wins": 651,
+          "pnl": 21414.695599999977
+        },
+        "2025": {
+          "trades": 1134,
+          "wins": 616,
+          "pnl": 24034.182199999974
+        },
+        "2026": {
+          "trades": 311,
+          "wins": 170,
+          "pnl": 52946.706699999944
+        }
+      }
+    },
+    "config_10": {
+      "label": "v6 풀 패키지 (4코인 3pos, 현재 GCP 운영)",
+      "net_profit": 198255.81,
+      "max_dd": 51.7,
+      "final_balance": 198835.81,
+      "total_trades": 5406,
+      "win_rate": 56.8,
+      "ruined": false,
+      "avg_win": 317.79,
+      "avg_loss": -332.87,
+      "profit_factor": 1.26,
+      "max_consec_loss": 11,
+      "calmar": 3835.0,
+      "yearly": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 103.25980000000006
+        },
+        "2021": {
+          "trades": 888,
+          "wins": 526,
+          "pnl": 202.67180000000005
+        },
+        "2022": {
+          "trades": 1299,
+          "wins": 783,
+          "pnl": 2880.2874000000056
+        },
+        "2023": {
+          "trades": 2,
+          "wins": 1,
+          "pnl": 38.5653
+        },
+        "2024": {
+          "trades": 1271,
+          "wins": 714,
+          "pnl": 22636.43929999997
+        },
+        "2025": {
+          "trades": 1256,
+          "wins": 688,
+          "pnl": 37543.421100000036
+        },
+        "2026": {
+          "trades": 351,
+          "wins": 203,
+          "pnl": 136579.29969999992
+        }
+      }
+    },
+    "config_11": {
+      "label": "v6 풀 + 4pos (오버피팅 체크)",
+      "net_profit": 203702.48,
+      "max_dd": 52.7,
+      "final_balance": 204282.48,
+      "total_trades": 5486,
+      "win_rate": 56.7,
+      "ruined": false,
+      "avg_win": 353.9,
+      "avg_loss": -376.45,
+      "profit_factor": 1.23,
+      "max_consec_loss": 11,
+      "calmar": 3865.0,
+      "yearly": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 72.74620000000004
+        },
+        "2021": {
+          "trades": 888,
+          "wins": 526,
+          "pnl": 244.27679999999975
+        },
+        "2022": {
+          "trades": 1324,
+          "wins": 794,
+          "pnl": 3549.0610999999994
+        },
+        "2023": {
+          "trades": 2,
+          "wins": 1,
+          "pnl": 35.52969999999999
+        },
+        "2024": {
+          "trades": 1292,
+          "wins": 724,
+          "pnl": 27304.1267
+        },
+        "2025": {
+          "trades": 1277,
+          "wins": 696,
+          "pnl": 39893.24359999999
+        },
+        "2026": {
+          "trades": 364,
+          "wins": 210,
+          "pnl": 134331.6257000001
+        }
+      }
+    },
+    "config_12": {
+      "label": "v6 풀 - 3코인으로 (XRP 없음)",
+      "net_profit": 36008.48,
+      "max_dd": 52.7,
+      "final_balance": 36588.48,
+      "total_trades": 4310,
+      "win_rate": 56.2,
+      "ruined": false,
+      "avg_win": 87.2,
+      "avg_loss": -92.06,
+      "profit_factor": 1.22,
+      "max_consec_loss": 9,
+      "calmar": 683.0,
+      "yearly": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 103.25980000000006
+        },
+        "2021": {
+          "trades": 682,
+          "wins": 399,
+          "pnl": 158.9361000000002
+        },
+        "2022": {
+          "trades": 1047,
+          "wins": 632,
+          "pnl": 1543.632499999997
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -14.6127
+        },
+        "2024": {
+          "trades": 1011,
+          "wins": 581,
+          "pnl": 9786.734299999993
+        },
+        "2025": {
+          "trades": 923,
+          "wins": 481,
+          "pnl": 5635.921799999995
+        },
+        "2026": {
+          "trades": 307,
+          "wins": 173,
+          "pnl": 20522.741400000006
+        }
+      }
+    },
+    "config_13": {
+      "label": "v6 풀 + risk 1.0% (보수)",
+      "net_profit": 5778.47,
+      "max_dd": 54.0,
+      "final_balance": 6358.47,
+      "total_trades": 5406,
+      "win_rate": 56.8,
+      "ruined": false,
+      "avg_win": 11.86,
+      "avg_loss": -12.41,
+      "profit_factor": 1.26,
+      "max_consec_loss": 11,
+      "calmar": 107.0,
+      "yearly": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 90.98210000000003
+        },
+        "2021": {
+          "trades": 888,
+          "wins": 526,
+          "pnl": 131.44789999999998
+        },
+        "2022": {
+          "trades": 1299,
+          "wins": 783,
+          "pnl": 821.3028999999996
+        },
+        "2023": {
+          "trades": 2,
+          "wins": 1,
+          "pnl": 5.5389
+        },
+        "2024": {
+          "trades": 1271,
+          "wins": 714,
+          "pnl": 1451.7782999999988
+        },
+        "2025": {
+          "trades": 1256,
+          "wins": 688,
+          "pnl": 1406.4232000000022
+        },
+        "2026": {
+          "trades": 351,
+          "wins": 203,
+          "pnl": 3599.1218999999996
+        }
+      }
+    }
+  }
+}

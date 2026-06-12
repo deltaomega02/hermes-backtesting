@@ -1,0 +1,81 @@
+{
+  "timestamp": "2026-04-14T21:56:04.866919",
+  "num_hours": 17520,
+  "seed": 580.0,
+  "slippage": 0.05,
+  "config": "full package (4코인, 3pos, lev7, TP6, ADX30, trailing 1.2/0.1)",
+  "scenarios": {
+    "low_vol_sideways": {
+      "net_profit": -993.82,
+      "max_dd": 97.5,
+      "final_balance": -413.82,
+      "total_trades": 172,
+      "win_rate": 14.5,
+      "ruined": true
+    },
+    "flash_crash": {
+      "net_profit": -957.79,
+      "max_dd": 97.3,
+      "final_balance": -377.79,
+      "total_trades": 282,
+      "win_rate": 30.5,
+      "ruined": true
+    },
+    "sustained_downtrend": {
+      "net_profit": -917.16,
+      "max_dd": 97.4,
+      "final_balance": -337.16,
+      "total_trades": 490,
+      "win_rate": 39.8,
+      "ruined": true
+    },
+    "sustained_uptrend": {
+      "net_profit": -963.41,
+      "max_dd": 97.4,
+      "final_balance": -383.41,
+      "total_trades": 452,
+      "win_rate": 37.4,
+      "ruined": true
+    },
+    "whipsaw": {
+      "net_profit": -969.01,
+      "max_dd": 97.4,
+      "final_balance": -389.01,
+      "total_trades": 268,
+      "win_rate": 28.7,
+      "ruined": true
+    },
+    "whipsaw_strong": {
+      "net_profit": 5409.61,
+      "max_dd": 17.7,
+      "final_balance": 5989.61,
+      "total_trades": 2874,
+      "win_rate": 66.9,
+      "ruined": false
+    },
+    "vol_explosion": {
+      "net_profit": -892.83,
+      "max_dd": 97.4,
+      "final_balance": -312.83,
+      "total_trades": 1089,
+      "win_rate": 49.4,
+      "ruined": true
+    },
+    "vol_extreme": {
+      "net_profit": -156.22,
+      "max_dd": 46.3,
+      "final_balance": 423.78,
+      "total_trades": 2757,
+      "win_rate": 57.7,
+      "ruined": false
+    },
+    "crash_then_lowvol": {
+      "net_profit": -940.69,
+      "max_dd": 97.6,
+      "final_balance": -360.69,
+      "total_trades": 535,
+      "win_rate": 41.1,
+      "ruined": true
+    }
+  }
+}

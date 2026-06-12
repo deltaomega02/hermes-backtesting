@@ -1,0 +1,235 @@
+{
+  "timestamp": "2026-04-14T19:40:45.019832",
+  "seed": 580.0,
+  "slippage": 0.05,
+  "results": {
+    "p1": {
+      "baseline_XRP 양방향": {
+        "net_profit": -536.87,
+        "max_dd": 94.6,
+        "final_balance": 43.13,
+        "total_trades": 1398,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "baseline_XRP LONG만": {
+        "net_profit": -1153.38,
+        "max_dd": 97.3,
+        "final_balance": -573.38,
+        "total_trades": 206,
+        "win_rate": 53.4,
+        "ruined": true
+      },
+      "baseline_XRP SHORT만": {
+        "net_profit": -598.41,
+        "max_dd": 97.9,
+        "final_balance": -18.41,
+        "total_trades": 806,
+        "win_rate": 60.5,
+        "ruined": true
+      },
+      "safe pkg_XRP 양방향": {
+        "net_profit": -83.37,
+        "max_dd": 56.1,
+        "final_balance": 496.63,
+        "total_trades": 1506,
+        "win_rate": 57.5,
+        "ruined": false
+      },
+      "safe pkg_XRP LONG만": {
+        "net_profit": -1126.47,
+        "max_dd": 97.4,
+        "final_balance": -546.47,
+        "total_trades": 249,
+        "win_rate": 55.0,
+        "ruined": true
+      },
+      "safe pkg_XRP SHORT만": {
+        "net_profit": -170.55,
+        "max_dd": 57.1,
+        "final_balance": 409.45,
+        "total_trades": 874,
+        "win_rate": 60.4,
+        "ruined": false
+      }
+    },
+    "p2": {
+      "3코인 현재v5 2pos": {
+        "net_profit": 37723.45,
+        "max_dd": 27.8,
+        "final_balance": 38303.45,
+        "total_trades": 2827,
+        "win_rate": 56.7,
+        "ruined": false
+      },
+      "3코인 현재v5 3pos": {
+        "net_profit": 39390.84,
+        "max_dd": 29.8,
+        "final_balance": 39970.84,
+        "total_trades": 3008,
+        "win_rate": 57.0,
+        "ruined": false
+      },
+      "3코인 안전pkg 2pos": {
+        "net_profit": 74584.41,
+        "max_dd": 26.7,
+        "final_balance": 75164.41,
+        "total_trades": 3094,
+        "win_rate": 56.6,
+        "ruined": false
+      },
+      "3코인 안전pkg 3pos": {
+        "net_profit": 121901.17,
+        "max_dd": 31.3,
+        "final_balance": 122481.17,
+        "total_trades": 3290,
+        "win_rate": 57.1,
+        "ruined": false
+      },
+      "4코인 현재v5 2pos (XRP 양방)": {
+        "net_profit": 76721.25,
+        "max_dd": 28.4,
+        "final_balance": 77301.25,
+        "total_trades": 3559,
+        "win_rate": 56.4,
+        "ruined": false
+      },
+      "4코인 현재v5 3pos (XRP 양방)": {
+        "net_profit": 158194.4,
+        "max_dd": 26.5,
+        "final_balance": 158774.4,
+        "total_trades": 3886,
+        "win_rate": 57.2,
+        "ruined": false
+      },
+      "4코인 현재v5 4pos (XRP 양방)": {
+        "net_profit": 94374.7,
+        "max_dd": 27.7,
+        "final_balance": 94954.7,
+        "total_trades": 3949,
+        "win_rate": 57.1,
+        "ruined": false
+      },
+      "4코인 안전pkg 2pos (XRP 양방)": {
+        "net_profit": 214102.16,
+        "max_dd": 28.6,
+        "final_balance": 214682.16,
+        "total_trades": 3782,
+        "win_rate": 56.9,
+        "ruined": false
+      },
+      "4코인 안전pkg 3pos (XRP 양방)": {
+        "net_profit": 468682.57,
+        "max_dd": 28.9,
+        "final_balance": 469262.57,
+        "total_trades": 4171,
+        "win_rate": 57.4,
+        "ruined": false
+      },
+      "4코인 안전pkg 4pos (XRP 양방)": {
+        "net_profit": 448766.23,
+        "max_dd": 32.5,
+        "final_balance": 449346.23,
+        "total_trades": 4245,
+        "win_rate": 57.1,
+        "ruined": false
+      },
+      "4코인 현재v5 2pos (XRP SHORT만)": {
+        "net_profit": 65243.21,
+        "max_dd": 27.4,
+        "final_balance": 65823.21,
+        "total_trades": 3213,
+        "win_rate": 56.6,
+        "ruined": false
+      },
+      "4코인 현재v5 3pos (XRP SHORT만)": {
+        "net_profit": 147791.39,
+        "max_dd": 29.9,
+        "final_balance": 148371.39,
+        "total_trades": 3452,
+        "win_rate": 57.6,
+        "ruined": false
+      },
+      "4코인 현재v5 4pos (XRP SHORT만)": {
+        "net_profit": 81817.12,
+        "max_dd": 28.4,
+        "final_balance": 82397.12,
+        "total_trades": 3516,
+        "win_rate": 57.4,
+        "ruined": false
+      },
+      "4코인 안전pkg 2pos (XRP SHORT만)": {
+        "net_profit": 153278.77,
+        "max_dd": 27.0,
+        "final_balance": 153858.77,
+        "total_trades": 3449,
+        "win_rate": 56.8,
+        "ruined": false
+      },
+      "4코인 안전pkg 3pos (XRP SHORT만)": {
+        "net_profit": 409566.22,
+        "max_dd": 31.1,
+        "final_balance": 410146.22,
+        "total_trades": 3717,
+        "win_rate": 57.6,
+        "ruined": false
+      },
+      "4코인 안전pkg 4pos (XRP SHORT만)": {
+        "net_profit": 367356.82,
+        "max_dd": 31.3,
+        "final_balance": 367936.82,
+        "total_trades": 3789,
+        "win_rate": 57.4,
+        "ruined": false
+      },
+      "4코인 현재v5 2pos (XRP LONG만)": {
+        "net_profit": 47468.51,
+        "max_dd": 27.4,
+        "final_balance": 48048.51,
+        "total_trades": 3193,
+        "win_rate": 56.5,
+        "ruined": false
+      },
+      "4코인 현재v5 3pos (XRP LONG만)": {
+        "net_profit": 50892.09,
+        "max_dd": 31.0,
+        "final_balance": 51472.09,
+        "total_trades": 3472,
+        "win_rate": 56.7,
+        "ruined": false
+      },
+      "4코인 현재v5 4pos (XRP LONG만)": {
+        "net_profit": 35916.24,
+        "max_dd": 29.2,
+        "final_balance": 36496.24,
+        "total_trades": 3476,
+        "win_rate": 56.8,
+        "ruined": false
+      },
+      "4코인 안전pkg 2pos (XRP LONG만)": {
+        "net_profit": 104764.35,
+        "max_dd": 27.5,
+        "final_balance": 105344.35,
+        "total_trades": 3448,
+        "win_rate": 56.7,
+        "ruined": false
+      },
+      "4코인 안전pkg 3pos (XRP LONG만)": {
+        "net_profit": 162218.12,
+        "max_dd": 30.8,
+        "final_balance": 162798.12,
+        "total_trades": 3772,
+        "win_rate": 56.9,
+        "ruined": false
+      },
+      "4코인 안전pkg 4pos (XRP LONG만)": {
+        "net_profit": 171558.78,
+        "max_dd": 31.1,
+        "final_balance": 172138.78,
+        "total_trades": 3778,
+        "win_rate": 57.0,
+        "ruined": false
+      }
+    }
+  }
+}

@@ -1,0 +1,2486 @@
+{
+  "timestamp": "2026-04-14T22:36:14.923312",
+  "seed": 580.0,
+  "slippage": 0.05,
+  "data_ranges": {
+    "BTCUSDT": {
+      "first": "2020-03-25",
+      "last": "2026-04-14",
+      "count": 53068
+    },
+    "ETHUSDT": {
+      "first": "2021-06-30",
+      "last": "2026-04-14",
+      "count": 41975
+    },
+    "SOLUSDT": {
+      "first": "2021-12-31",
+      "last": "2026-04-14",
+      "count": 37559
+    },
+    "XRPUSDT": {
+      "first": "2021-06-30",
+      "last": "2026-04-14",
+      "count": 41975
+    }
+  },
+  "results": {
+    "full_no_skip": {
+      "label": "전체 기간 (감독 없음)",
+      "net_profit": 359166.87,
+      "max_dd": 51.7,
+      "final_balance": 359746.87,
+      "total_trades": 6562,
+      "win_rate": 55.3,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 3702,
+          "wins": 2128,
+          "pnl": 322408.2118000003
+        },
+        "LONG": {
+          "trades": 2860,
+          "wins": 1499,
+          "pnl": 38486.793999999994
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 2161,
+          "wins": 1090,
+          "pnl": 78441.0791
+        },
+        "ETHUSDT": {
+          "trades": 1728,
+          "wins": 939,
+          "pnl": 97660.1801
+        },
+        "XRPUSDT": {
+          "trades": 1732,
+          "wins": 998,
+          "pnl": 114603.49440000008
+        },
+        "SOLUSDT": {
+          "trades": 941,
+          "wins": 600,
+          "pnl": 70190.2522
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 103.25980000000006
+        },
+        "2021": {
+          "trades": 888,
+          "wins": 526,
+          "pnl": 202.67180000000005
+        },
+        "2022": {
+          "trades": 1299,
+          "wins": 783,
+          "pnl": 2880.2874000000056
+        },
+        "2023": {
+          "trades": 1157,
+          "wins": 555,
+          "pnl": 2205.6163000000006
+        },
+        "2024": {
+          "trades": 1272,
+          "wins": 714,
+          "pnl": 40603.48640000001
+        },
+        "2025": {
+          "trades": 1256,
+          "wins": 688,
+          "pnl": 67821.4917
+        },
+        "2026": {
+          "trades": 351,
+          "wins": 203,
+          "pnl": 247078.1924000002
+        }
+      },
+      "by_reason": {
+        "SL": 2935,
+        "TRAILING": 3611,
+        "TP": 15,
+        "END": 1
+      }
+    },
+    "full_skip_2023": {
+      "label": "전체 기간 (2023 skip, 수동 감독)",
+      "net_profit": 198255.81,
+      "max_dd": 51.7,
+      "final_balance": 198835.81,
+      "total_trades": 5406,
+      "win_rate": 56.8,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 3026,
+          "wins": 1795,
+          "pnl": 178870.56800000003
+        },
+        "LONG": {
+          "trades": 2380,
+          "wins": 1278,
+          "pnl": 21113.376399999972
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 1847,
+          "wins": 961,
+          "pnl": 43839.21970000002
+        },
+        "ETHUSDT": {
+          "trades": 1382,
+          "wins": 793,
+          "pnl": 54425.97119999995
+        },
+        "XRPUSDT": {
+          "trades": 1431,
+          "wins": 834,
+          "pnl": 62775.592
+        },
+        "SOLUSDT": {
+          "trades": 746,
+          "wins": 485,
+          "pnl": 38943.16149999999
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 103.25980000000006
+        },
+        "2021": {
+          "trades": 888,
+          "wins": 526,
+          "pnl": 202.67180000000005
+        },
+        "2022": {
+          "trades": 1299,
+          "wins": 783,
+          "pnl": 2880.2874000000056
+        },
+        "2023": {
+          "trades": 2,
+          "wins": 1,
+          "pnl": 38.5653
+        },
+        "2024": {
+          "trades": 1271,
+          "wins": 714,
+          "pnl": 22636.43929999997
+        },
+        "2025": {
+          "trades": 1256,
+          "wins": 688,
+          "pnl": 37543.421100000036
+        },
+        "2026": {
+          "trades": 351,
+          "wins": 203,
+          "pnl": 136579.29969999992
+        }
+      },
+      "by_reason": {
+        "SL": 2333,
+        "TRAILING": 3063,
+        "TP": 9,
+        "END": 1
+      }
+    },
+    "full_skip_22_23": {
+      "label": "전체 기간 (2023+2022H2 skip)",
+      "net_profit": -1439.23,
+      "max_dd": 97.7,
+      "final_balance": -859.23,
+      "total_trades": 1230,
+      "win_rate": 55.6,
+      "ruined": true,
+      "by_direction": {
+        "SHORT": {
+          "trades": 564,
+          "wins": 313,
+          "pnl": -10.6722
+        },
+        "LONG": {
+          "trades": 666,
+          "wins": 371,
+          "pnl": 299.5743000000004
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 799,
+          "wins": 422,
+          "pnl": 171.73409999999998
+        },
+        "ETHUSDT": {
+          "trades": 191,
+          "wins": 115,
+          "pnl": 51.543800000000005
+        },
+        "XRPUSDT": {
+          "trades": 239,
+          "wins": 147,
+          "pnl": 70.88749999999999
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -5.2633
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 103.25980000000006
+        },
+        "2021": {
+          "trades": 888,
+          "wins": 526,
+          "pnl": 202.67180000000005
+        },
+        "2022": {
+          "trades": 3,
+          "wins": 0,
+          "pnl": -17.0295
+        }
+      },
+      "by_reason": {
+        "SL": 546,
+        "TRAILING": 682,
+        "TP": 2
+      }
+    },
+    "year_2020 (COVID + 회복)": {
+      "label": "2020 (COVID + 회복)",
+      "net_profit": -115.01,
+      "max_dd": 39.8,
+      "final_balance": 464.99,
+      "total_trades": 339,
+      "win_rate": 46.6,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 132,
+          "wins": 51,
+          "pnl": -141.62609999999995
+        },
+        "LONG": {
+          "trades": 207,
+          "wins": 107,
+          "pnl": 244.8859000000001
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 103.25980000000006
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 103.25980000000006
+        }
+      },
+      "by_reason": {
+        "SL": 181,
+        "TRAILING": 156,
+        "TP": 2
+      }
+    },
+    "year_2021 (Bull: $30k→$69k)": {
+      "label": "2021 (Bull: $30k→$69k)",
+      "net_profit": 5.2,
+      "max_dd": 27.6,
+      "final_balance": 585.2,
+      "total_trades": 913,
+      "win_rate": 59.4,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 438,
+          "wins": 269,
+          "pnl": 226.13459999999992
+        },
+        "LONG": {
+          "trades": 475,
+          "wins": 273,
+          "pnl": 63.03940000000003
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 485,
+          "wins": 280,
+          "pnl": 99.53200000000005
+        },
+        "ETHUSDT": {
+          "trades": 190,
+          "wins": 115,
+          "pnl": 80.93789999999993
+        },
+        "XRPUSDT": {
+          "trades": 238,
+          "wins": 147,
+          "pnl": 108.7040999999999
+        }
+      },
+      "by_year": {
+        "2021": {
+          "trades": 913,
+          "wins": 542,
+          "pnl": 289.1739999999999
+        }
+      },
+      "by_reason": {
+        "SL": 371,
+        "TRAILING": 542
+      }
+    },
+    "year_2022 (Crash: -70%)": {
+      "label": "2022 (Crash: -70%)",
+      "net_profit": 5188.28,
+      "max_dd": 24.9,
+      "final_balance": 5768.28,
+      "total_trades": 1301,
+      "win_rate": 60.6,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 819,
+          "wins": 510,
+          "pnl": 4620.0311
+        },
+        "LONG": {
+          "trades": 482,
+          "wins": 278,
+          "pnl": 852.2239999999989
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 315,
+          "wins": 173,
+          "pnl": 535.5631000000004
+        },
+        "XRPUSDT": {
+          "trades": 356,
+          "wins": 207,
+          "pnl": 1537.8094000000006
+        },
+        "SOLUSDT": {
+          "trades": 262,
+          "wins": 181,
+          "pnl": 1744.0079999999998
+        },
+        "ETHUSDT": {
+          "trades": 368,
+          "wins": 227,
+          "pnl": 1654.8746000000008
+        }
+      },
+      "by_year": {
+        "2022": {
+          "trades": 1301,
+          "wins": 788,
+          "pnl": 5472.2550999999985
+        }
+      },
+      "by_reason": {
+        "SL": 513,
+        "TRAILING": 786,
+        "TP": 2
+      }
+    },
+    "year_2023 (저변동 지옥)": {
+      "label": "2023 (저변동 지옥)",
+      "net_profit": 250.06,
+      "max_dd": 57.6,
+      "final_balance": 830.06,
+      "total_trades": 1170,
+      "win_rate": 48.8,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 674,
+          "wins": 333,
+          "pnl": 226.43399999999994
+        },
+        "LONG": {
+          "trades": 496,
+          "wins": 238,
+          "pnl": 307.6093999999998
+        }
+      },
+      "by_coin": {
+        "XRPUSDT": {
+          "trades": 301,
+          "wins": 166,
+          "pnl": 357.24289999999996
+        },
+        "SOLUSDT": {
+          "trades": 194,
+          "wins": 115,
+          "pnl": 125.14850000000004
+        },
+        "BTCUSDT": {
+          "trades": 320,
+          "wins": 136,
+          "pnl": -1.4629999999999797
+        },
+        "ETHUSDT": {
+          "trades": 355,
+          "wins": 154,
+          "pnl": 53.114999999999824
+        }
+      },
+      "by_year": {
+        "2023": {
+          "trades": 1170,
+          "wins": 571,
+          "pnl": 534.0433999999995
+        }
+      },
+      "by_reason": {
+        "TRAILING": 565,
+        "SL": 599,
+        "TP": 6
+      }
+    },
+    "year_2024 (ETF Bull)": {
+      "label": "2024 (ETF Bull)",
+      "net_profit": 3839.98,
+      "max_dd": 21.6,
+      "final_balance": 4419.98,
+      "total_trades": 1265,
+      "win_rate": 56.3,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 740,
+          "wins": 441,
+          "pnl": 2720.200099999998
+        },
+        "LONG": {
+          "trades": 525,
+          "wins": 271,
+          "pnl": 1404.5428000000002
+        }
+      },
+      "by_coin": {
+        "SOLUSDT": {
+          "trades": 222,
+          "wins": 146,
+          "pnl": 851.7679999999999
+        },
+        "BTCUSDT": {
+          "trades": 354,
+          "wins": 185,
+          "pnl": 1400.6400999999996
+        },
+        "ETHUSDT": {
+          "trades": 362,
+          "wins": 206,
+          "pnl": 1531.8052999999998
+        },
+        "XRPUSDT": {
+          "trades": 327,
+          "wins": 175,
+          "pnl": 340.5294999999999
+        }
+      },
+      "by_year": {
+        "2024": {
+          "trades": 1265,
+          "wins": 712,
+          "pnl": 4124.742900000005
+        }
+      },
+      "by_reason": {
+        "TRAILING": 711,
+        "SL": 553,
+        "TP": 1
+      }
+    },
+    "year_2025 (Consolidation)": {
+      "label": "2025 (Consolidation)",
+      "net_profit": 364.37,
+      "max_dd": 31.5,
+      "final_balance": 944.37,
+      "total_trades": 1255,
+      "win_rate": 54.7,
+      "ruined": false,
+      "by_direction": {
+        "LONG": {
+          "trades": 554,
+          "wins": 278,
+          "pnl": 71.09790000000004
+        },
+        "SHORT": {
+          "trades": 701,
+          "wins": 409,
+          "pnl": 577.254
+        }
+      },
+      "by_coin": {
+        "ETHUSDT": {
+          "trades": 362,
+          "wins": 194,
+          "pnl": 208.70940000000004
+        },
+        "BTCUSDT": {
+          "trades": 283,
+          "wins": 132,
+          "pnl": 127.89910000000002
+        },
+        "XRPUSDT": {
+          "trades": 413,
+          "wins": 241,
+          "pnl": 167.44709999999992
+        },
+        "SOLUSDT": {
+          "trades": 197,
+          "wins": 120,
+          "pnl": 144.29629999999997
+        }
+      },
+      "by_year": {
+        "2025": {
+          "trades": 1255,
+          "wins": 687,
+          "pnl": 648.3518999999991
+        }
+      },
+      "by_reason": {
+        "SL": 568,
+        "TRAILING": 685,
+        "TP": 2
+      }
+    },
+    "year_2026 YTD": {
+      "label": "2026 YTD",
+      "net_profit": 1027.38,
+      "max_dd": 15.8,
+      "final_balance": 1607.38,
+      "total_trades": 359,
+      "win_rate": 57.7,
+      "ruined": false,
+      "by_direction": {
+        "LONG": {
+          "trades": 139,
+          "wins": 66,
+          "pnl": -44.05930000000002
+        },
+        "SHORT": {
+          "trades": 220,
+          "wins": 141,
+          "pnl": 1151.2325999999998
+        }
+      },
+      "by_coin": {
+        "ETHUSDT": {
+          "trades": 110,
+          "wins": 61,
+          "pnl": 262.94859999999994
+        },
+        "XRPUSDT": {
+          "trades": 81,
+          "wins": 53,
+          "pnl": 425.60130000000015
+        },
+        "BTCUSDT": {
+          "trades": 103,
+          "wins": 54,
+          "pnl": 217.37259999999998
+        },
+        "SOLUSDT": {
+          "trades": 65,
+          "wins": 39,
+          "pnl": 201.25080000000003
+        }
+      },
+      "by_year": {
+        "2026": {
+          "trades": 359,
+          "wins": 207,
+          "pnl": 1107.1732999999995
+        }
+      },
+      "by_reason": {
+        "SL": 152,
+        "TRAILING": 204,
+        "TP": 2,
+        "END": 1
+      }
+    },
+    "WF1 train 20-22 / test 23-26_train": {
+      "label": "WF1 train 20-22 / test 23-26 [TRAIN]",
+      "net_profit": 2396.86,
+      "max_dd": 51.7,
+      "final_balance": 2976.86,
+      "total_trades": 2526,
+      "win_rate": 58.1,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 1375,
+          "wins": 815,
+          "pnl": 2407.193599999999
+        },
+        "LONG": {
+          "trades": 1151,
+          "wins": 652,
+          "pnl": 779.0253999999999
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 1113,
+          "wins": 594,
+          "pnl": 469.7280999999997
+        },
+        "ETHUSDT": {
+          "trades": 555,
+          "wins": 338,
+          "pnl": 928.1980000000008
+        },
+        "XRPUSDT": {
+          "trades": 598,
+          "wins": 357,
+          "pnl": 888.1083000000001
+        },
+        "SOLUSDT": {
+          "trades": 260,
+          "wins": 178,
+          "pnl": 900.1845999999997
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 103.25980000000006
+        },
+        "2021": {
+          "trades": 888,
+          "wins": 526,
+          "pnl": 202.67180000000005
+        },
+        "2022": {
+          "trades": 1299,
+          "wins": 783,
+          "pnl": 2880.2874000000056
+        }
+      },
+      "by_reason": {
+        "SL": 1059,
+        "TRAILING": 1463,
+        "TP": 4
+      }
+    },
+    "WF1 train 20-22 / test 23-26_test": {
+      "label": "WF1 train 20-22 / test 23-26 [TEST]",
+      "net_profit": 54913.42,
+      "max_dd": 57.6,
+      "final_balance": 55493.42,
+      "total_trades": 4050,
+      "win_rate": 53.8,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 2325,
+          "wins": 1313,
+          "pnl": 49795.85559999995
+        },
+        "LONG": {
+          "trades": 1725,
+          "wins": 864,
+          "pnl": 6054.778599999992
+        }
+      },
+      "by_coin": {
+        "XRPUSDT": {
+          "trades": 1134,
+          "wins": 643,
+          "pnl": 17742.709099999985
+        },
+        "SOLUSDT": {
+          "trades": 680,
+          "wins": 422,
+          "pnl": 10817.392600000006
+        },
+        "BTCUSDT": {
+          "trades": 1053,
+          "wins": 503,
+          "pnl": 12207.536799999993
+        },
+        "ETHUSDT": {
+          "trades": 1183,
+          "wins": 609,
+          "pnl": 15082.995699999994
+        }
+      },
+      "by_year": {
+        "2023": {
+          "trades": 1171,
+          "wins": 572,
+          "pnl": 578.8716999999995
+        },
+        "2024": {
+          "trades": 1272,
+          "wins": 714,
+          "pnl": 6555.624699999991
+        },
+        "2025": {
+          "trades": 1256,
+          "wins": 688,
+          "pnl": 10571.185399999984
+        },
+        "2026": {
+          "trades": 351,
+          "wins": 203,
+          "pnl": 38144.9524
+        }
+      },
+      "by_reason": {
+        "TRAILING": 2165,
+        "SL": 1873,
+        "TP": 11,
+        "END": 1
+      }
+    },
+    "WF2 train 20-23 / test 24-26_train": {
+      "label": "WF2 train 20-23 / test 24-26 [TRAIN]",
+      "net_profit": 4066.02,
+      "max_dd": 51.7,
+      "final_balance": 4646.02,
+      "total_trades": 3682,
+      "win_rate": 54.9,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 2051,
+          "wins": 1148,
+          "pnl": 3363.529999999999
+        },
+        "LONG": {
+          "trades": 1631,
+          "wins": 873,
+          "pnl": 1777.3929999999996
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 1428,
+          "wins": 723,
+          "pnl": 35.44449999999991
+        },
+        "ETHUSDT": {
+          "trades": 900,
+          "wins": 484,
+          "pnl": 1064.188900000001
+        },
+        "XRPUSDT": {
+          "trades": 899,
+          "wins": 521,
+          "pnl": 2596.974
+        },
+        "SOLUSDT": {
+          "trades": 455,
+          "wins": 293,
+          "pnl": 1444.3155999999992
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 103.25980000000006
+        },
+        "2021": {
+          "trades": 888,
+          "wins": 526,
+          "pnl": 202.67180000000005
+        },
+        "2022": {
+          "trades": 1299,
+          "wins": 783,
+          "pnl": 2880.2874000000056
+        },
+        "2023": {
+          "trades": 1156,
+          "wins": 554,
+          "pnl": 1954.7040000000004
+        }
+      },
+      "by_reason": {
+        "SL": 1661,
+        "TRAILING": 2011,
+        "TP": 10
+      }
+    },
+    "WF2 train 20-23 / test 24-26_test": {
+      "label": "WF2 train 20-23 / test 24-26 [TEST]",
+      "net_profit": 32544.45,
+      "max_dd": 29.1,
+      "final_balance": 33124.45,
+      "total_trades": 2873,
+      "win_rate": 55.8,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 1643,
+          "wins": 975,
+          "pnl": 29720.584600000013
+        },
+        "LONG": {
+          "trades": 1230,
+          "wins": 628,
+          "pnl": 3475.5269000000017
+        }
+      },
+      "by_coin": {
+        "SOLUSDT": {
+          "trades": 481,
+          "wins": 303,
+          "pnl": 6413.766
+        },
+        "BTCUSDT": {
+          "trades": 736,
+          "wins": 370,
+          "pnl": 7355.915400000002
+        },
+        "ETHUSDT": {
+          "trades": 829,
+          "wins": 457,
+          "pnl": 9036.200399999998
+        },
+        "XRPUSDT": {
+          "trades": 827,
+          "wins": 473,
+          "pnl": 10390.22970000001
+        }
+      },
+      "by_year": {
+        "2024": {
+          "trades": 1266,
+          "wins": 712,
+          "pnl": 4050.017900000005
+        },
+        "2025": {
+          "trades": 1256,
+          "wins": 688,
+          "pnl": 6362.092700000016
+        },
+        "2026": {
+          "trades": 351,
+          "wins": 203,
+          "pnl": 22784.00090000001
+        }
+      },
+      "by_reason": {
+        "TRAILING": 1597,
+        "SL": 1270,
+        "TP": 5,
+        "END": 1
+      }
+    },
+    "WF3 train 21-23 / test 24-26_train": {
+      "label": "WF3 train 21-23 / test 24-26 [TRAIN]",
+      "net_profit": 7592.36,
+      "max_dd": 50.9,
+      "final_balance": 8172.36,
+      "total_trades": 3368,
+      "win_rate": 55.8,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 1928,
+          "wins": 1104,
+          "pnl": 5857.561399999997
+        },
+        "LONG": {
+          "trades": 1440,
+          "wins": 775,
+          "pnl": 2589.863300000002
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 1114,
+          "wins": 581,
+          "pnl": -191.07170000000013
+        },
+        "ETHUSDT": {
+          "trades": 900,
+          "wins": 484,
+          "pnl": 1750.0402999999972
+        },
+        "XRPUSDT": {
+          "trades": 899,
+          "wins": 521,
+          "pnl": 4434.677099999999
+        },
+        "SOLUSDT": {
+          "trades": 455,
+          "wins": 293,
+          "pnl": 2453.7790000000027
+        }
+      },
+      "by_year": {
+        "2021": {
+          "trades": 913,
+          "wins": 542,
+          "pnl": 289.1739999999999
+        },
+        "2022": {
+          "trades": 1299,
+          "wins": 783,
+          "pnl": 4769.98
+        },
+        "2023": {
+          "trades": 1156,
+          "wins": 554,
+          "pnl": 3388.2707000000014
+        }
+      },
+      "by_reason": {
+        "SL": 1489,
+        "TRAILING": 1871,
+        "TP": 8
+      }
+    },
+    "WF3 train 21-23 / test 24-26_test": {
+      "label": "WF3 train 21-23 / test 24-26 [TEST]",
+      "net_profit": 32544.45,
+      "max_dd": 29.1,
+      "final_balance": 33124.45,
+      "total_trades": 2873,
+      "win_rate": 55.8,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 1643,
+          "wins": 975,
+          "pnl": 29720.584600000013
+        },
+        "LONG": {
+          "trades": 1230,
+          "wins": 628,
+          "pnl": 3475.5269000000017
+        }
+      },
+      "by_coin": {
+        "SOLUSDT": {
+          "trades": 481,
+          "wins": 303,
+          "pnl": 6413.766
+        },
+        "BTCUSDT": {
+          "trades": 736,
+          "wins": 370,
+          "pnl": 7355.915400000002
+        },
+        "ETHUSDT": {
+          "trades": 829,
+          "wins": 457,
+          "pnl": 9036.200399999998
+        },
+        "XRPUSDT": {
+          "trades": 827,
+          "wins": 473,
+          "pnl": 10390.22970000001
+        }
+      },
+      "by_year": {
+        "2024": {
+          "trades": 1266,
+          "wins": 712,
+          "pnl": 4050.017900000005
+        },
+        "2025": {
+          "trades": 1256,
+          "wins": 688,
+          "pnl": 6362.092700000016
+        },
+        "2026": {
+          "trades": 351,
+          "wins": 203,
+          "pnl": 22784.00090000001
+        }
+      },
+      "by_reason": {
+        "TRAILING": 1597,
+        "SL": 1270,
+        "TP": 5,
+        "END": 1
+      }
+    },
+    "WF4 train 20-24 / test 25-26_train": {
+      "label": "WF4 train 20-24 / test 25-26 [TRAIN]",
+      "net_profit": 45411.64,
+      "max_dd": 51.7,
+      "final_balance": 45991.64,
+      "total_trades": 4954,
+      "win_rate": 55.2,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 2799,
+          "wins": 1594,
+          "pnl": 30558.159900000002
+        },
+        "LONG": {
+          "trades": 2155,
+          "wins": 1142,
+          "pnl": 16214.704599999997
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 1779,
+          "wins": 905,
+          "pnl": 14188.969799999999
+        },
+        "ETHUSDT": {
+          "trades": 1261,
+          "wins": 688,
+          "pnl": 16471.579999999987
+        },
+        "XRPUSDT": {
+          "trades": 1232,
+          "wins": 700,
+          "pnl": 6115.579199999995
+        },
+        "SOLUSDT": {
+          "trades": 682,
+          "wins": 443,
+          "pnl": 9996.735500000006
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 103.25980000000006
+        },
+        "2021": {
+          "trades": 888,
+          "wins": 526,
+          "pnl": 202.67180000000005
+        },
+        "2022": {
+          "trades": 1299,
+          "wins": 783,
+          "pnl": 2880.2874000000056
+        },
+        "2023": {
+          "trades": 1157,
+          "wins": 555,
+          "pnl": 2205.6163000000006
+        },
+        "2024": {
+          "trades": 1271,
+          "wins": 714,
+          "pnl": 41381.02920000001
+        }
+      },
+      "by_reason": {
+        "SL": 2218,
+        "TRAILING": 2725,
+        "TP": 11
+      }
+    },
+    "WF4 train 20-24 / test 25-26_test": {
+      "label": "WF4 train 20-24 / test 25-26 [TEST]",
+      "net_profit": 2293.34,
+      "max_dd": 31.5,
+      "final_balance": 2873.34,
+      "total_trades": 1606,
+      "win_rate": 55.4,
+      "ruined": false,
+      "by_direction": {
+        "LONG": {
+          "trades": 695,
+          "wins": 349,
+          "pnl": 158.75929999999994
+        },
+        "SHORT": {
+          "trades": 911,
+          "wins": 541,
+          "pnl": 2499.9182
+        }
+      },
+      "by_coin": {
+        "ETHUSDT": {
+          "trades": 471,
+          "wins": 254,
+          "pnl": 697.7327000000001
+        },
+        "BTCUSDT": {
+          "trades": 380,
+          "wins": 183,
+          "pnl": 528.8089999999993
+        },
+        "XRPUSDT": {
+          "trades": 494,
+          "wins": 294,
+          "pnl": 916.8851000000005
+        },
+        "SOLUSDT": {
+          "trades": 261,
+          "wins": 159,
+          "pnl": 515.2506999999998
+        }
+      },
+      "by_year": {
+        "2025": {
+          "trades": 1255,
+          "wins": 687,
+          "pnl": 648.3518999999991
+        },
+        "2026": {
+          "trades": 351,
+          "wins": 203,
+          "pnl": 2010.325599999999
+        }
+      },
+      "by_reason": {
+        "SL": 716,
+        "TRAILING": 885,
+        "TP": 4,
+        "END": 1
+      }
+    },
+    "stress_COVID 크래시 2020-03~04": {
+      "label": "COVID 크래시 2020-03~04",
+      "net_profit": 15.75,
+      "max_dd": 10.2,
+      "final_balance": 595.75,
+      "total_trades": 50,
+      "win_rate": 56.0,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 14,
+          "wins": 6,
+          "pnl": -28.815299999999993
+        },
+        "LONG": {
+          "trades": 36,
+          "wins": 22,
+          "pnl": 71.1655
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 50,
+          "wins": 28,
+          "pnl": 42.35020000000001
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 50,
+          "wins": 28,
+          "pnl": 42.35020000000001
+        }
+      },
+      "by_reason": {
+        "SL": 22,
+        "TRAILING": 28
+      }
+    },
+    "stress_LUNA 붕괴 2022-05": {
+      "label": "LUNA 붕괴 2022-05",
+      "net_profit": 551.71,
+      "max_dd": 11.7,
+      "final_balance": 1131.71,
+      "total_trades": 195,
+      "win_rate": 67.7,
+      "ruined": false,
+      "by_direction": {
+        "LONG": {
+          "trades": 50,
+          "wins": 27,
+          "pnl": 71.80069999999999
+        },
+        "SHORT": {
+          "trades": 145,
+          "wins": 105,
+          "pnl": 526.0663000000001
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 45,
+          "wins": 27,
+          "pnl": 126.87910000000001
+        },
+        "ETHUSDT": {
+          "trades": 54,
+          "wins": 35,
+          "pnl": 203.48950000000005
+        },
+        "XRPUSDT": {
+          "trades": 45,
+          "wins": 30,
+          "pnl": 130.01229999999995
+        },
+        "SOLUSDT": {
+          "trades": 51,
+          "wins": 40,
+          "pnl": 137.48610000000002
+        }
+      },
+      "by_year": {
+        "2022": {
+          "trades": 195,
+          "wins": 132,
+          "pnl": 597.8670000000002
+        }
+      },
+      "by_reason": {
+        "TRAILING": 132,
+        "SL": 63
+      }
+    },
+    "stress_BTC 피크→크래시 2021-11~2022-06": {
+      "label": "BTC 피크→크래시 2021-11~2022-06",
+      "net_profit": 2296.98,
+      "max_dd": 28.3,
+      "final_balance": 2876.98,
+      "total_trades": 872,
+      "win_rate": 63.3,
+      "ruined": false,
+      "by_direction": {
+        "LONG": {
+          "trades": 331,
+          "wins": 205,
+          "pnl": 823.1011999999998
+        },
+        "SHORT": {
+          "trades": 541,
+          "wins": 347,
+          "pnl": 1661.6348000000007
+        }
+      },
+      "by_coin": {
+        "XRPUSDT": {
+          "trades": 262,
+          "wins": 161,
+          "pnl": 568.7532
+        },
+        "BTCUSDT": {
+          "trades": 244,
+          "wins": 145,
+          "pnl": 751.2560999999996
+        },
+        "ETHUSDT": {
+          "trades": 242,
+          "wins": 160,
+          "pnl": 867.7671
+        },
+        "SOLUSDT": {
+          "trades": 124,
+          "wins": 86,
+          "pnl": 296.9596
+        }
+      },
+      "by_year": {
+        "2021": {
+          "trades": 208,
+          "wins": 118,
+          "pnl": -30.305800000000023
+        },
+        "2022": {
+          "trades": 664,
+          "wins": 434,
+          "pnl": 2515.041799999999
+        }
+      },
+      "by_reason": {
+        "SL": 317,
+        "TRAILING": 551,
+        "TP": 1,
+        "END": 3
+      }
+    },
+    "stress_FTX 붕괴 2022-11": {
+      "label": "FTX 붕괴 2022-11",
+      "net_profit": 51.13,
+      "max_dd": 18.7,
+      "final_balance": 631.13,
+      "total_trades": 217,
+      "win_rate": 53.9,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 120,
+          "wins": 67,
+          "pnl": 55.95189999999995
+        },
+        "LONG": {
+          "trades": 97,
+          "wins": 50,
+          "pnl": 41.33630000000001
+        }
+      },
+      "by_coin": {
+        "XRPUSDT": {
+          "trades": 65,
+          "wins": 34,
+          "pnl": 25.455300000000012
+        },
+        "SOLUSDT": {
+          "trades": 38,
+          "wins": 26,
+          "pnl": 2.860000000000012
+        },
+        "ETHUSDT": {
+          "trades": 67,
+          "wins": 37,
+          "pnl": 74.20539999999998
+        },
+        "BTCUSDT": {
+          "trades": 47,
+          "wins": 20,
+          "pnl": -5.232500000000012
+        }
+      },
+      "by_year": {
+        "2022": {
+          "trades": 217,
+          "wins": 117,
+          "pnl": 97.28819999999995
+        }
+      },
+      "by_reason": {
+        "TRAILING": 116,
+        "SL": 99,
+        "END": 2
+      }
+    },
+    "stress_2023 저변동 6개월": {
+      "label": "2023 저변동 6개월",
+      "net_profit": -336.45,
+      "max_dd": 62.9,
+      "final_balance": 243.55,
+      "total_trades": 563,
+      "win_rate": 42.3,
+      "ruined": false,
+      "by_direction": {
+        "LONG": {
+          "trades": 215,
+          "wins": 84,
+          "pnl": -141.2237
+        },
+        "SHORT": {
+          "trades": 348,
+          "wins": 154,
+          "pnl": -53.624000000000066
+        }
+      },
+      "by_coin": {
+        "ETHUSDT": {
+          "trades": 161,
+          "wins": 52,
+          "pnl": -152.68050000000005
+        },
+        "XRPUSDT": {
+          "trades": 152,
+          "wins": 80,
+          "pnl": 39.02520000000001
+        },
+        "SOLUSDT": {
+          "trades": 94,
+          "wins": 51,
+          "pnl": 19.559600000000003
+        },
+        "BTCUSDT": {
+          "trades": 156,
+          "wins": 55,
+          "pnl": -100.75200000000001
+        }
+      },
+      "by_year": {
+        "2023": {
+          "trades": 563,
+          "wins": 238,
+          "pnl": -194.8477000000001
+        }
+      },
+      "by_reason": {
+        "TRAILING": 233,
+        "SL": 324,
+        "TP": 3,
+        "END": 3
+      }
+    },
+    "stress_2024 ETF 승인기 1~3월": {
+      "label": "2024 ETF 승인기 1~3월",
+      "net_profit": 258.53,
+      "max_dd": 20.7,
+      "final_balance": 838.53,
+      "total_trades": 302,
+      "win_rate": 57.3,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 186,
+          "wins": 115,
+          "pnl": 298.11330000000004
+        },
+        "LONG": {
+          "trades": 116,
+          "wins": 58,
+          "pnl": 30.04170000000008
+        }
+      },
+      "by_coin": {
+        "SOLUSDT": {
+          "trades": 60,
+          "wins": 38,
+          "pnl": 61.78950000000001
+        },
+        "BTCUSDT": {
+          "trades": 76,
+          "wins": 40,
+          "pnl": 27.55549999999999
+        },
+        "ETHUSDT": {
+          "trades": 74,
+          "wins": 46,
+          "pnl": 123.36550000000008
+        },
+        "XRPUSDT": {
+          "trades": 92,
+          "wins": 49,
+          "pnl": 115.44450000000003
+        }
+      },
+      "by_year": {
+        "2024": {
+          "trades": 302,
+          "wins": 173,
+          "pnl": 328.1549999999999
+        }
+      },
+      "by_reason": {
+        "TRAILING": 173,
+        "SL": 128,
+        "END": 1
+      }
+    },
+    "stress_2025-12 ~ 2026-01 (최근)": {
+      "label": "2025-12 ~ 2026-01 (최근)",
+      "net_profit": 174.17,
+      "max_dd": 25.9,
+      "final_balance": 754.17,
+      "total_trades": 167,
+      "win_rate": 52.7,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 113,
+          "wins": 61,
+          "pnl": 181.43749999999994
+        },
+        "LONG": {
+          "trades": 54,
+          "wins": 27,
+          "pnl": 39.67210000000001
+        }
+      },
+      "by_coin": {
+        "XRPUSDT": {
+          "trades": 37,
+          "wins": 20,
+          "pnl": 38.55160000000001
+        },
+        "SOLUSDT": {
+          "trades": 35,
+          "wins": 20,
+          "pnl": 94.446
+        },
+        "BTCUSDT": {
+          "trades": 41,
+          "wins": 21,
+          "pnl": 34.75779999999999
+        },
+        "ETHUSDT": {
+          "trades": 54,
+          "wins": 27,
+          "pnl": 53.35419999999999
+        }
+      },
+      "by_year": {
+        "2025": {
+          "trades": 74,
+          "wins": 33,
+          "pnl": -71.0192
+        },
+        "2026": {
+          "trades": 93,
+          "wins": 55,
+          "pnl": 292.12880000000007
+        }
+      },
+      "by_reason": {
+        "TRAILING": 88,
+        "SL": 79
+      }
+    },
+    "coins_3코인 (BTC+ETH+SOL)_2pos": {
+      "label": "3코인 (BTC+ETH+SOL) 2pos",
+      "net_profit": 30841.58,
+      "max_dd": 46.2,
+      "final_balance": 31421.58,
+      "total_trades": 4111,
+      "win_rate": 55.9,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 2316,
+          "wins": 1357,
+          "pnl": 30006.53049999998
+        },
+        "LONG": {
+          "trades": 1795,
+          "wins": 943,
+          "pnl": 2563.180599999996
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 1956,
+          "wins": 1025,
+          "pnl": 13850.58999999999
+        },
+        "ETHUSDT": {
+          "trades": 1509,
+          "wins": 859,
+          "pnl": 10679.811999999989
+        },
+        "SOLUSDT": {
+          "trades": 646,
+          "wins": 416,
+          "pnl": 8039.309100000002
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 131.14450000000002
+        },
+        "2021": {
+          "trades": 682,
+          "wins": 399,
+          "pnl": 190.64460000000003
+        },
+        "2022": {
+          "trades": 971,
+          "wins": 586,
+          "pnl": 1916.2185999999997
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -27.8528
+        },
+        "2024": {
+          "trades": 957,
+          "wins": 542,
+          "pnl": 8739.330300000005
+        },
+        "2025": {
+          "trades": 879,
+          "wins": 460,
+          "pnl": 6840.5152
+        },
+        "2026": {
+          "trades": 282,
+          "wins": 155,
+          "pnl": 14779.710699999996
+        }
+      },
+      "by_reason": {
+        "SL": 1811,
+        "TRAILING": 2291,
+        "TP": 8,
+        "END": 1
+      }
+    },
+    "coins_3코인 (BTC+ETH+SOL)_3pos": {
+      "label": "3코인 (BTC+ETH+SOL) 3pos",
+      "net_profit": 36008.48,
+      "max_dd": 52.7,
+      "final_balance": 36588.48,
+      "total_trades": 4310,
+      "win_rate": 56.2,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 2506,
+          "wins": 1477,
+          "pnl": 34882.53210000003
+        },
+        "LONG": {
+          "trades": 1804,
+          "wins": 947,
+          "pnl": 2854.081099999999
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 1954,
+          "wins": 1024,
+          "pnl": 15418.719800000008
+        },
+        "ETHUSDT": {
+          "trades": 1506,
+          "wins": 850,
+          "pnl": 10567.951699999998
+        },
+        "SOLUSDT": {
+          "trades": 850,
+          "wins": 550,
+          "pnl": 11749.941699999996
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 103.25980000000006
+        },
+        "2021": {
+          "trades": 682,
+          "wins": 399,
+          "pnl": 158.9361000000002
+        },
+        "2022": {
+          "trades": 1047,
+          "wins": 632,
+          "pnl": 1543.632499999997
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -14.6127
+        },
+        "2024": {
+          "trades": 1011,
+          "wins": 581,
+          "pnl": 9786.734299999993
+        },
+        "2025": {
+          "trades": 923,
+          "wins": 481,
+          "pnl": 5635.921799999995
+        },
+        "2026": {
+          "trades": 307,
+          "wins": 173,
+          "pnl": 20522.741400000006
+        }
+      },
+      "by_reason": {
+        "SL": 1886,
+        "TRAILING": 2415,
+        "TP": 8,
+        "END": 1
+      }
+    },
+    "coins_4코인 (BTC+ETH+SOL+XRP)_2pos": {
+      "label": "4코인 (BTC+ETH+SOL+XRP) 2pos",
+      "net_profit": 100499.74,
+      "max_dd": 46.5,
+      "final_balance": 101079.74,
+      "total_trades": 4969,
+      "win_rate": 56.4,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 2743,
+          "wins": 1610,
+          "pnl": 91853.3869
+        },
+        "LONG": {
+          "trades": 2226,
+          "wins": 1192,
+          "pnl": 10374.483199999995
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 1873,
+          "wins": 980,
+          "pnl": 37525.385899999994
+        },
+        "XRPUSDT": {
+          "trades": 1177,
+          "wins": 675,
+          "pnl": 20515.810800000003
+        },
+        "ETHUSDT": {
+          "trades": 1344,
+          "wins": 770,
+          "pnl": 28770.408500000016
+        },
+        "SOLUSDT": {
+          "trades": 575,
+          "wins": 377,
+          "pnl": 15416.264899999996
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 131.14450000000002
+        },
+        "2021": {
+          "trades": 845,
+          "wins": 494,
+          "pnl": 184.92990000000015
+        },
+        "2022": {
+          "trades": 1175,
+          "wins": 712,
+          "pnl": 3480.4912999999992
+        },
+        "2023": {
+          "trades": 2,
+          "wins": 1,
+          "pnl": 35.7199
+        },
+        "2024": {
+          "trades": 1163,
+          "wins": 651,
+          "pnl": 21414.695599999977
+        },
+        "2025": {
+          "trades": 1134,
+          "wins": 616,
+          "pnl": 24034.182199999974
+        },
+        "2026": {
+          "trades": 311,
+          "wins": 170,
+          "pnl": 52946.706699999944
+        }
+      },
+      "by_reason": {
+        "SL": 2167,
+        "TRAILING": 2793,
+        "TP": 8,
+        "END": 1
+      }
+    },
+    "coins_4코인 (BTC+ETH+SOL+XRP)_3pos": {
+      "label": "4코인 (BTC+ETH+SOL+XRP) 3pos",
+      "net_profit": 198255.81,
+      "max_dd": 51.7,
+      "final_balance": 198835.81,
+      "total_trades": 5406,
+      "win_rate": 56.8,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 3026,
+          "wins": 1795,
+          "pnl": 178870.56800000003
+        },
+        "LONG": {
+          "trades": 2380,
+          "wins": 1278,
+          "pnl": 21113.376399999972
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 1847,
+          "wins": 961,
+          "pnl": 43839.21970000002
+        },
+        "ETHUSDT": {
+          "trades": 1382,
+          "wins": 793,
+          "pnl": 54425.97119999995
+        },
+        "XRPUSDT": {
+          "trades": 1431,
+          "wins": 834,
+          "pnl": 62775.592
+        },
+        "SOLUSDT": {
+          "trades": 746,
+          "wins": 485,
+          "pnl": 38943.16149999999
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 103.25980000000006
+        },
+        "2021": {
+          "trades": 888,
+          "wins": 526,
+          "pnl": 202.67180000000005
+        },
+        "2022": {
+          "trades": 1299,
+          "wins": 783,
+          "pnl": 2880.2874000000056
+        },
+        "2023": {
+          "trades": 2,
+          "wins": 1,
+          "pnl": 38.5653
+        },
+        "2024": {
+          "trades": 1271,
+          "wins": 714,
+          "pnl": 22636.43929999997
+        },
+        "2025": {
+          "trades": 1256,
+          "wins": 688,
+          "pnl": 37543.421100000036
+        },
+        "2026": {
+          "trades": 351,
+          "wins": 203,
+          "pnl": 136579.29969999992
+        }
+      },
+      "by_reason": {
+        "SL": 2333,
+        "TRAILING": 3063,
+        "TP": 9,
+        "END": 1
+      }
+    },
+    "risk_기본 (risk 1.5, lev7, 3pos)": {
+      "label": "기본 (risk 1.5, lev7, 3pos)",
+      "net_profit": 198255.81,
+      "max_dd": 51.7,
+      "final_balance": 198835.81,
+      "total_trades": 5406,
+      "win_rate": 56.8,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 3026,
+          "wins": 1795,
+          "pnl": 178870.56800000003
+        },
+        "LONG": {
+          "trades": 2380,
+          "wins": 1278,
+          "pnl": 21113.376399999972
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 1847,
+          "wins": 961,
+          "pnl": 43839.21970000002
+        },
+        "ETHUSDT": {
+          "trades": 1382,
+          "wins": 793,
+          "pnl": 54425.97119999995
+        },
+        "XRPUSDT": {
+          "trades": 1431,
+          "wins": 834,
+          "pnl": 62775.592
+        },
+        "SOLUSDT": {
+          "trades": 746,
+          "wins": 485,
+          "pnl": 38943.16149999999
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 103.25980000000006
+        },
+        "2021": {
+          "trades": 888,
+          "wins": 526,
+          "pnl": 202.67180000000005
+        },
+        "2022": {
+          "trades": 1299,
+          "wins": 783,
+          "pnl": 2880.2874000000056
+        },
+        "2023": {
+          "trades": 2,
+          "wins": 1,
+          "pnl": 38.5653
+        },
+        "2024": {
+          "trades": 1271,
+          "wins": 714,
+          "pnl": 22636.43929999997
+        },
+        "2025": {
+          "trades": 1256,
+          "wins": 688,
+          "pnl": 37543.421100000036
+        },
+        "2026": {
+          "trades": 351,
+          "wins": 203,
+          "pnl": 136579.29969999992
+        }
+      },
+      "by_reason": {
+        "SL": 2333,
+        "TRAILING": 3063,
+        "TP": 9,
+        "END": 1
+      }
+    },
+    "risk_보수 risk 1.0% (유지: lev7, 3pos)": {
+      "label": "보수 risk 1.0% (유지: lev7, 3pos)",
+      "net_profit": 198255.81,
+      "max_dd": 51.7,
+      "final_balance": 198835.81,
+      "total_trades": 5406,
+      "win_rate": 56.8,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 3026,
+          "wins": 1795,
+          "pnl": 178870.56800000003
+        },
+        "LONG": {
+          "trades": 2380,
+          "wins": 1278,
+          "pnl": 21113.376399999972
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 1847,
+          "wins": 961,
+          "pnl": 43839.21970000002
+        },
+        "ETHUSDT": {
+          "trades": 1382,
+          "wins": 793,
+          "pnl": 54425.97119999995
+        },
+        "XRPUSDT": {
+          "trades": 1431,
+          "wins": 834,
+          "pnl": 62775.592
+        },
+        "SOLUSDT": {
+          "trades": 746,
+          "wins": 485,
+          "pnl": 38943.16149999999
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 103.25980000000006
+        },
+        "2021": {
+          "trades": 888,
+          "wins": 526,
+          "pnl": 202.67180000000005
+        },
+        "2022": {
+          "trades": 1299,
+          "wins": 783,
+          "pnl": 2880.2874000000056
+        },
+        "2023": {
+          "trades": 2,
+          "wins": 1,
+          "pnl": 38.5653
+        },
+        "2024": {
+          "trades": 1271,
+          "wins": 714,
+          "pnl": 22636.43929999997
+        },
+        "2025": {
+          "trades": 1256,
+          "wins": 688,
+          "pnl": 37543.421100000036
+        },
+        "2026": {
+          "trades": 351,
+          "wins": 203,
+          "pnl": 136579.29969999992
+        }
+      },
+      "by_reason": {
+        "SL": 2333,
+        "TRAILING": 3063,
+        "TP": 9,
+        "END": 1
+      }
+    },
+    "risk_보수 2pos (유지: risk 1.5, lev7)": {
+      "label": "보수 2pos (유지: risk 1.5, lev7)",
+      "net_profit": 100499.74,
+      "max_dd": 46.5,
+      "final_balance": 101079.74,
+      "total_trades": 4969,
+      "win_rate": 56.4,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 2743,
+          "wins": 1610,
+          "pnl": 91853.3869
+        },
+        "LONG": {
+          "trades": 2226,
+          "wins": 1192,
+          "pnl": 10374.483199999995
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 1873,
+          "wins": 980,
+          "pnl": 37525.385899999994
+        },
+        "XRPUSDT": {
+          "trades": 1177,
+          "wins": 675,
+          "pnl": 20515.810800000003
+        },
+        "ETHUSDT": {
+          "trades": 1344,
+          "wins": 770,
+          "pnl": 28770.408500000016
+        },
+        "SOLUSDT": {
+          "trades": 575,
+          "wins": 377,
+          "pnl": 15416.264899999996
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 131.14450000000002
+        },
+        "2021": {
+          "trades": 845,
+          "wins": 494,
+          "pnl": 184.92990000000015
+        },
+        "2022": {
+          "trades": 1175,
+          "wins": 712,
+          "pnl": 3480.4912999999992
+        },
+        "2023": {
+          "trades": 2,
+          "wins": 1,
+          "pnl": 35.7199
+        },
+        "2024": {
+          "trades": 1163,
+          "wins": 651,
+          "pnl": 21414.695599999977
+        },
+        "2025": {
+          "trades": 1134,
+          "wins": 616,
+          "pnl": 24034.182199999974
+        },
+        "2026": {
+          "trades": 311,
+          "wins": 170,
+          "pnl": 52946.706699999944
+        }
+      },
+      "by_reason": {
+        "SL": 2167,
+        "TRAILING": 2793,
+        "TP": 8,
+        "END": 1
+      }
+    },
+    "risk_보수 lev5 (유지: risk 1.5, 3pos)": {
+      "label": "보수 lev5 (유지: risk 1.5, 3pos)",
+      "net_profit": 106736.75,
+      "max_dd": 54.6,
+      "final_balance": 107316.75,
+      "total_trades": 5406,
+      "win_rate": 56.8,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 3026,
+          "wins": 1795,
+          "pnl": 98167.19109999997
+        },
+        "LONG": {
+          "trades": 2380,
+          "wins": 1278,
+          "pnl": 10297.68190000002
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 1847,
+          "wins": 961,
+          "pnl": 23310.00220000001
+        },
+        "ETHUSDT": {
+          "trades": 1382,
+          "wins": 793,
+          "pnl": 29722.330200000022
+        },
+        "XRPUSDT": {
+          "trades": 1431,
+          "wins": 834,
+          "pnl": 34054.8825
+        },
+        "SOLUSDT": {
+          "trades": 746,
+          "wins": 485,
+          "pnl": 21377.65809999999
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 76.77170000000002
+        },
+        "2021": {
+          "trades": 888,
+          "wins": 526,
+          "pnl": 185.45590000000027
+        },
+        "2022": {
+          "trades": 1299,
+          "wins": 783,
+          "pnl": 2404.822999999996
+        },
+        "2023": {
+          "trades": 2,
+          "wins": 1,
+          "pnl": 22.7425
+        },
+        "2024": {
+          "trades": 1271,
+          "wins": 714,
+          "pnl": 13998.982400000012
+        },
+        "2025": {
+          "trades": 1256,
+          "wins": 688,
+          "pnl": 22046.904500000015
+        },
+        "2026": {
+          "trades": 351,
+          "wins": 203,
+          "pnl": 69729.19300000001
+        }
+      },
+      "by_reason": {
+        "SL": 2333,
+        "TRAILING": 3063,
+        "TP": 9,
+        "END": 1
+      }
+    },
+    "risk_안전 risk1.0 + 2pos": {
+      "label": "안전 risk1.0 + 2pos",
+      "net_profit": 100499.74,
+      "max_dd": 46.5,
+      "final_balance": 101079.74,
+      "total_trades": 4969,
+      "win_rate": 56.4,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 2743,
+          "wins": 1610,
+          "pnl": 91853.3869
+        },
+        "LONG": {
+          "trades": 2226,
+          "wins": 1192,
+          "pnl": 10374.483199999995
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 1873,
+          "wins": 980,
+          "pnl": 37525.385899999994
+        },
+        "XRPUSDT": {
+          "trades": 1177,
+          "wins": 675,
+          "pnl": 20515.810800000003
+        },
+        "ETHUSDT": {
+          "trades": 1344,
+          "wins": 770,
+          "pnl": 28770.408500000016
+        },
+        "SOLUSDT": {
+          "trades": 575,
+          "wins": 377,
+          "pnl": 15416.264899999996
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 131.14450000000002
+        },
+        "2021": {
+          "trades": 845,
+          "wins": 494,
+          "pnl": 184.92990000000015
+        },
+        "2022": {
+          "trades": 1175,
+          "wins": 712,
+          "pnl": 3480.4912999999992
+        },
+        "2023": {
+          "trades": 2,
+          "wins": 1,
+          "pnl": 35.7199
+        },
+        "2024": {
+          "trades": 1163,
+          "wins": 651,
+          "pnl": 21414.695599999977
+        },
+        "2025": {
+          "trades": 1134,
+          "wins": 616,
+          "pnl": 24034.182199999974
+        },
+        "2026": {
+          "trades": 311,
+          "wins": 170,
+          "pnl": 52946.706699999944
+        }
+      },
+      "by_reason": {
+        "SL": 2167,
+        "TRAILING": 2793,
+        "TP": 8,
+        "END": 1
+      }
+    },
+    "risk_안전 risk1.0 + lev5": {
+      "label": "안전 risk1.0 + lev5",
+      "net_profit": 106736.75,
+      "max_dd": 54.6,
+      "final_balance": 107316.75,
+      "total_trades": 5406,
+      "win_rate": 56.8,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 3026,
+          "wins": 1795,
+          "pnl": 98167.19109999997
+        },
+        "LONG": {
+          "trades": 2380,
+          "wins": 1278,
+          "pnl": 10297.68190000002
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 1847,
+          "wins": 961,
+          "pnl": 23310.00220000001
+        },
+        "ETHUSDT": {
+          "trades": 1382,
+          "wins": 793,
+          "pnl": 29722.330200000022
+        },
+        "XRPUSDT": {
+          "trades": 1431,
+          "wins": 834,
+          "pnl": 34054.8825
+        },
+        "SOLUSDT": {
+          "trades": 746,
+          "wins": 485,
+          "pnl": 21377.65809999999
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 76.77170000000002
+        },
+        "2021": {
+          "trades": 888,
+          "wins": 526,
+          "pnl": 185.45590000000027
+        },
+        "2022": {
+          "trades": 1299,
+          "wins": 783,
+          "pnl": 2404.822999999996
+        },
+        "2023": {
+          "trades": 2,
+          "wins": 1,
+          "pnl": 22.7425
+        },
+        "2024": {
+          "trades": 1271,
+          "wins": 714,
+          "pnl": 13998.982400000012
+        },
+        "2025": {
+          "trades": 1256,
+          "wins": 688,
+          "pnl": 22046.904500000015
+        },
+        "2026": {
+          "trades": 351,
+          "wins": 203,
+          "pnl": 69729.19300000001
+        }
+      },
+      "by_reason": {
+        "SL": 2333,
+        "TRAILING": 3063,
+        "TP": 9,
+        "END": 1
+      }
+    },
+    "risk_극보수 risk1.0+2pos+lev5": {
+      "label": "극보수 risk1.0+2pos+lev5",
+      "net_profit": 88078.21,
+      "max_dd": 49.4,
+      "final_balance": 88658.21,
+      "total_trades": 4969,
+      "win_rate": 56.4,
+      "ruined": false,
+      "by_direction": {
+        "SHORT": {
+          "trades": 2743,
+          "wins": 1610,
+          "pnl": 80668.70240000013
+        },
+        "LONG": {
+          "trades": 2226,
+          "wins": 1192,
+          "pnl": 9137.637100000009
+        }
+      },
+      "by_coin": {
+        "BTCUSDT": {
+          "trades": 1873,
+          "wins": 980,
+          "pnl": 32405.665699999998
+        },
+        "XRPUSDT": {
+          "trades": 1177,
+          "wins": 675,
+          "pnl": 18627.770299999993
+        },
+        "ETHUSDT": {
+          "trades": 1344,
+          "wins": 770,
+          "pnl": 24995.403099999963
+        },
+        "SOLUSDT": {
+          "trades": 575,
+          "wins": 377,
+          "pnl": 13777.500399999999
+        }
+      },
+      "by_year": {
+        "2020": {
+          "trades": 339,
+          "wins": 158,
+          "pnl": 112.67150000000005
+        },
+        "2021": {
+          "trades": 845,
+          "wins": 494,
+          "pnl": 174.8897
+        },
+        "2022": {
+          "trades": 1175,
+          "wins": 712,
+          "pnl": 3152.1074999999973
+        },
+        "2023": {
+          "trades": 2,
+          "wins": 1,
+          "pnl": 44.83789999999999
+        },
+        "2024": {
+          "trades": 1163,
+          "wins": 651,
+          "pnl": 19816.671800000022
+        },
+        "2025": {
+          "trades": 1134,
+          "wins": 616,
+          "pnl": 20434.87169999998
+        },
+        "2026": {
+          "trades": 311,
+          "wins": 170,
+          "pnl": 46070.28939999997
+        }
+      },
+      "by_reason": {
+        "SL": 2167,
+        "TRAILING": 2793,
+        "TP": 8,
+        "END": 1
+      }
+    }
+  },
+  "elapsed_sec": 39.7
+}

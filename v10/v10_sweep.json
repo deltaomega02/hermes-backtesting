@@ -1,0 +1,7225 @@
+{
+  "timestamp": "2026-04-19T00:55:56.894152",
+  "results": [
+    {
+      "label": "V7 ref (5/18)",
+      "period": "Full 6y",
+      "profit": 221393.08,
+      "dd": 51.7,
+      "trades": 5422,
+      "wr": 56.8,
+      "ruined": false,
+      "long": {
+        "t": 2392,
+        "w": 1285,
+        "wr": 53.7
+      },
+      "short": {
+        "t": 3030,
+        "w": 1797,
+        "wr": 59.3
+      }
+    },
+    {
+      "label": "V7 ref (5/18)",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 57.94,
+      "dd": 4.9,
+      "trades": 24,
+      "wr": 54.2,
+      "ruined": false,
+      "long": {
+        "t": 16,
+        "w": 10,
+        "wr": 62.5
+      },
+      "short": {
+        "t": 8,
+        "w": 3,
+        "wr": 37.5
+      }
+    },
+    {
+      "label": "V7 ref (5/18)",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 54.03,
+      "dd": 11.8,
+      "trades": 37,
+      "wr": 54.1,
+      "ruined": false,
+      "long": {
+        "t": 29,
+        "w": 18,
+        "wr": 62.1
+      },
+      "short": {
+        "t": 8,
+        "w": 2,
+        "wr": 25.0
+      }
+    },
+    {
+      "label": "V7 ref (5/18)",
+      "period": "2026 YTD",
+      "profit": 1211.14,
+      "dd": 15.8,
+      "trades": 375,
+      "wr": 57.6,
+      "ruined": false,
+      "long": {
+        "t": 151,
+        "w": 73,
+        "wr": 48.3
+      },
+      "short": {
+        "t": 224,
+        "w": 143,
+        "wr": 63.8
+      }
+    },
+    {
+      "label": "V7 ref (5/18)",
+      "period": "2025",
+      "profit": 364.37,
+      "dd": 31.5,
+      "trades": 1255,
+      "wr": 54.7,
+      "ruined": false,
+      "long": {
+        "t": 554,
+        "w": 278,
+        "wr": 50.2
+      },
+      "short": {
+        "t": 701,
+        "w": 409,
+        "wr": 58.3
+      }
+    },
+    {
+      "label": "V7 ref (5/18)",
+      "period": "2024 Bull",
+      "profit": 3839.98,
+      "dd": 21.6,
+      "trades": 1265,
+      "wr": 56.3,
+      "ruined": false,
+      "long": {
+        "t": 525,
+        "w": 271,
+        "wr": 51.6
+      },
+      "short": {
+        "t": 740,
+        "w": 441,
+        "wr": 59.6
+      }
+    },
+    {
+      "label": "V7 ref (5/18)",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "V7 ref (5/18)",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 5188.28,
+      "dd": 24.9,
+      "trades": 1301,
+      "wr": 60.6,
+      "ruined": false,
+      "long": {
+        "t": 482,
+        "w": 278,
+        "wr": 57.7
+      },
+      "short": {
+        "t": 819,
+        "w": 510,
+        "wr": 62.3
+      }
+    },
+    {
+      "label": "V7 ref (5/18)",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 5.2,
+      "dd": 27.6,
+      "trades": 913,
+      "wr": 59.4,
+      "ruined": false,
+      "long": {
+        "t": 475,
+        "w": 273,
+        "wr": 57.5
+      },
+      "short": {
+        "t": 438,
+        "w": 269,
+        "wr": 61.4
+      }
+    },
+    {
+      "label": "V7 ref (5/18)",
+      "period": "2020 COVID",
+      "profit": -115.01,
+      "dd": 39.8,
+      "trades": 339,
+      "wr": 46.6,
+      "ruined": false,
+      "long": {
+        "t": 207,
+        "w": 107,
+        "wr": 51.7
+      },
+      "short": {
+        "t": 132,
+        "w": 51,
+        "wr": 38.6
+      }
+    },
+    {
+      "label": "V8 ref (3/15)",
+      "period": "Full 6y",
+      "profit": 2493374.4,
+      "dd": 43.1,
+      "trades": 5843,
+      "wr": 57.4,
+      "ruined": false,
+      "long": {
+        "t": 2593,
+        "w": 1392,
+        "wr": 53.7
+      },
+      "short": {
+        "t": 3250,
+        "w": 1961,
+        "wr": 60.3
+      }
+    },
+    {
+      "label": "V8 ref (3/15)",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 87.87,
+      "dd": 4.8,
+      "trades": 27,
+      "wr": 59.3,
+      "ruined": false,
+      "long": {
+        "t": 19,
+        "w": 13,
+        "wr": 68.4
+      },
+      "short": {
+        "t": 8,
+        "w": 3,
+        "wr": 37.5
+      }
+    },
+    {
+      "label": "V8 ref (3/15)",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 75.3,
+      "dd": 10.1,
+      "trades": 45,
+      "wr": 55.6,
+      "ruined": false,
+      "long": {
+        "t": 31,
+        "w": 20,
+        "wr": 64.5
+      },
+      "short": {
+        "t": 14,
+        "w": 5,
+        "wr": 35.7
+      }
+    },
+    {
+      "label": "V8 ref (3/15)",
+      "period": "2026 YTD",
+      "profit": 1116.81,
+      "dd": 20.3,
+      "trades": 400,
+      "wr": 57.0,
+      "ruined": false,
+      "long": {
+        "t": 153,
+        "w": 77,
+        "wr": 50.3
+      },
+      "short": {
+        "t": 247,
+        "w": 151,
+        "wr": 61.1
+      }
+    },
+    {
+      "label": "V8 ref (3/15)",
+      "period": "2025",
+      "profit": 1417.11,
+      "dd": 29.4,
+      "trades": 1341,
+      "wr": 55.3,
+      "ruined": false,
+      "long": {
+        "t": 588,
+        "w": 301,
+        "wr": 51.2
+      },
+      "short": {
+        "t": 753,
+        "w": 441,
+        "wr": 58.6
+      }
+    },
+    {
+      "label": "V8 ref (3/15)",
+      "period": "2024 Bull",
+      "profit": 6773.94,
+      "dd": 20.8,
+      "trades": 1351,
+      "wr": 57.2,
+      "ruined": false,
+      "long": {
+        "t": 566,
+        "w": 297,
+        "wr": 52.5
+      },
+      "short": {
+        "t": 785,
+        "w": 476,
+        "wr": 60.6
+      }
+    },
+    {
+      "label": "V8 ref (3/15)",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "V8 ref (3/15)",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 12050.06,
+      "dd": 25.6,
+      "trades": 1401,
+      "wr": 61.2,
+      "ruined": false,
+      "long": {
+        "t": 530,
+        "w": 289,
+        "wr": 54.5
+      },
+      "short": {
+        "t": 871,
+        "w": 568,
+        "wr": 65.2
+      }
+    },
+    {
+      "label": "V8 ref (3/15)",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 293.85,
+      "dd": 26.0,
+      "trades": 994,
+      "wr": 59.4,
+      "ruined": false,
+      "long": {
+        "t": 514,
+        "w": 297,
+        "wr": 57.8
+      },
+      "short": {
+        "t": 480,
+        "w": 293,
+        "wr": 61.0
+      }
+    },
+    {
+      "label": "V8 ref (3/15)",
+      "period": "2020 COVID",
+      "profit": -144.86,
+      "dd": 43.1,
+      "trades": 369,
+      "wr": 47.2,
+      "ruined": false,
+      "long": {
+        "t": 231,
+        "w": 119,
+        "wr": 51.5
+      },
+      "short": {
+        "t": 138,
+        "w": 55,
+        "wr": 39.9
+      }
+    },
+    {
+      "label": "V7 (5/18 no-filter)",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 87.87,
+      "dd": 4.8,
+      "trades": 27,
+      "wr": 59.3,
+      "ruined": false,
+      "long": {
+        "t": 19,
+        "w": 13,
+        "wr": 68.4
+      },
+      "short": {
+        "t": 8,
+        "w": 3,
+        "wr": 37.5
+      }
+    },
+    {
+      "label": "V7 (5/18 no-filter)",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 75.3,
+      "dd": 10.1,
+      "trades": 45,
+      "wr": 55.6,
+      "ruined": false,
+      "long": {
+        "t": 31,
+        "w": 20,
+        "wr": 64.5
+      },
+      "short": {
+        "t": 14,
+        "w": 5,
+        "wr": 35.7
+      }
+    },
+    {
+      "label": "Triple(3/5/15)",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 91.81,
+      "dd": 5.1,
+      "trades": 23,
+      "wr": 60.9,
+      "ruined": false,
+      "long": {
+        "t": 16,
+        "w": 12,
+        "wr": 75.0
+      },
+      "short": {
+        "t": 7,
+        "w": 2,
+        "wr": 28.6
+      }
+    },
+    {
+      "label": "Triple(3/5/15)",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 71.16,
+      "dd": 11.7,
+      "trades": 38,
+      "wr": 55.3,
+      "ruined": false,
+      "long": {
+        "t": 26,
+        "w": 18,
+        "wr": 69.2
+      },
+      "short": {
+        "t": 12,
+        "w": 3,
+        "wr": 25.0
+      }
+    },
+    {
+      "label": "V7 (5/18 no-filter)",
+      "period": "2020 COVID",
+      "profit": -144.86,
+      "dd": 43.1,
+      "trades": 369,
+      "wr": 47.2,
+      "ruined": false,
+      "long": {
+        "t": 231,
+        "w": 119,
+        "wr": 51.5
+      },
+      "short": {
+        "t": 138,
+        "w": 55,
+        "wr": 39.9
+      }
+    },
+    {
+      "label": "V7 (5/18 no-filter)",
+      "period": "2026 YTD",
+      "profit": 1116.81,
+      "dd": 20.3,
+      "trades": 400,
+      "wr": 57.0,
+      "ruined": false,
+      "long": {
+        "t": 153,
+        "w": 77,
+        "wr": 50.3
+      },
+      "short": {
+        "t": 247,
+        "w": 151,
+        "wr": 61.1
+      }
+    },
+    {
+      "label": "Triple(3/5/15)",
+      "period": "2026 YTD",
+      "profit": 631.9,
+      "dd": 19.3,
+      "trades": 368,
+      "wr": 54.9,
+      "ruined": false,
+      "long": {
+        "t": 142,
+        "w": 70,
+        "wr": 49.3
+      },
+      "short": {
+        "t": 226,
+        "w": 132,
+        "wr": 58.4
+      }
+    },
+    {
+      "label": "Triple(3/5/15)",
+      "period": "2020 COVID",
+      "profit": -186.74,
+      "dd": 43.7,
+      "trades": 329,
+      "wr": 45.6,
+      "ruined": false,
+      "long": {
+        "t": 200,
+        "w": 99,
+        "wr": 49.5
+      },
+      "short": {
+        "t": 129,
+        "w": 51,
+        "wr": 39.5
+      }
+    },
+    {
+      "label": "Triple(3/7/15)",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 98.18,
+      "dd": 5.1,
+      "trades": 24,
+      "wr": 62.5,
+      "ruined": false,
+      "long": {
+        "t": 17,
+        "w": 13,
+        "wr": 76.5
+      },
+      "short": {
+        "t": 7,
+        "w": 2,
+        "wr": 28.6
+      }
+    },
+    {
+      "label": "Triple(3/7/15)",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 77.33,
+      "dd": 11.7,
+      "trades": 39,
+      "wr": 56.4,
+      "ruined": false,
+      "long": {
+        "t": 27,
+        "w": 19,
+        "wr": 70.4
+      },
+      "short": {
+        "t": 12,
+        "w": 3,
+        "wr": 25.0
+      }
+    },
+    {
+      "label": "V7 (5/18 no-filter)",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 293.85,
+      "dd": 26.0,
+      "trades": 994,
+      "wr": 59.4,
+      "ruined": false,
+      "long": {
+        "t": 514,
+        "w": 297,
+        "wr": 57.8
+      },
+      "short": {
+        "t": 480,
+        "w": 293,
+        "wr": 61.0
+      }
+    },
+    {
+      "label": "Triple(3/5/15)",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 513.38,
+      "dd": 23.8,
+      "trades": 861,
+      "wr": 59.8,
+      "ruined": false,
+      "long": {
+        "t": 449,
+        "w": 258,
+        "wr": 57.5
+      },
+      "short": {
+        "t": 412,
+        "w": 257,
+        "wr": 62.4
+      }
+    },
+    {
+      "label": "V7 (5/18 no-filter)",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "Triple(3/7/15)",
+      "period": "2026 YTD",
+      "profit": 616.65,
+      "dd": 20.8,
+      "trades": 376,
+      "wr": 54.3,
+      "ruined": false,
+      "long": {
+        "t": 145,
+        "w": 70,
+        "wr": 48.3
+      },
+      "short": {
+        "t": 231,
+        "w": 134,
+        "wr": 58.0
+      }
+    },
+    {
+      "label": "Triple(3/5/15)",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "V7 (5/18 no-filter)",
+      "period": "2024 Bull",
+      "profit": 6773.94,
+      "dd": 20.8,
+      "trades": 1351,
+      "wr": 57.2,
+      "ruined": false,
+      "long": {
+        "t": 566,
+        "w": 297,
+        "wr": 52.5
+      },
+      "short": {
+        "t": 785,
+        "w": 476,
+        "wr": 60.6
+      }
+    },
+    {
+      "label": "V7 (5/18 no-filter)",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 12050.06,
+      "dd": 25.6,
+      "trades": 1401,
+      "wr": 61.2,
+      "ruined": false,
+      "long": {
+        "t": 530,
+        "w": 289,
+        "wr": 54.5
+      },
+      "short": {
+        "t": 871,
+        "w": 568,
+        "wr": 65.2
+      }
+    },
+    {
+      "label": "V7 (5/18 no-filter)",
+      "period": "2025",
+      "profit": 1417.11,
+      "dd": 29.4,
+      "trades": 1341,
+      "wr": 55.3,
+      "ruined": false,
+      "long": {
+        "t": 588,
+        "w": 301,
+        "wr": 51.2
+      },
+      "short": {
+        "t": 753,
+        "w": 441,
+        "wr": 58.6
+      }
+    },
+    {
+      "label": "Triple(3/8/15)",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 108.42,
+      "dd": 5.1,
+      "trades": 23,
+      "wr": 65.2,
+      "ruined": false,
+      "long": {
+        "t": 17,
+        "w": 13,
+        "wr": 76.5
+      },
+      "short": {
+        "t": 6,
+        "w": 2,
+        "wr": 33.3
+      }
+    },
+    {
+      "label": "Triple(3/5/15)",
+      "period": "2025",
+      "profit": 82.68,
+      "dd": 40.0,
+      "trades": 1211,
+      "wr": 52.5,
+      "ruined": false,
+      "long": {
+        "t": 528,
+        "w": 253,
+        "wr": 47.9
+      },
+      "short": {
+        "t": 683,
+        "w": 383,
+        "wr": 56.1
+      }
+    },
+    {
+      "label": "Triple(3/5/15)",
+      "period": "2024 Bull",
+      "profit": 3220.78,
+      "dd": 26.5,
+      "trades": 1228,
+      "wr": 56.2,
+      "ruined": false,
+      "long": {
+        "t": 500,
+        "w": 262,
+        "wr": 52.4
+      },
+      "short": {
+        "t": 728,
+        "w": 428,
+        "wr": 58.8
+      }
+    },
+    {
+      "label": "Triple(3/5/15)",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 7781.8,
+      "dd": 22.4,
+      "trades": 1288,
+      "wr": 60.5,
+      "ruined": false,
+      "long": {
+        "t": 488,
+        "w": 268,
+        "wr": 54.9
+      },
+      "short": {
+        "t": 800,
+        "w": 511,
+        "wr": 63.9
+      }
+    },
+    {
+      "label": "Triple(3/8/15)",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 77.66,
+      "dd": 13.1,
+      "trades": 39,
+      "wr": 56.4,
+      "ruined": false,
+      "long": {
+        "t": 28,
+        "w": 19,
+        "wr": 67.9
+      },
+      "short": {
+        "t": 11,
+        "w": 3,
+        "wr": 27.3
+      }
+    },
+    {
+      "label": "Triple(3/7/15)",
+      "period": "2020 COVID",
+      "profit": -170.1,
+      "dd": 42.1,
+      "trades": 331,
+      "wr": 46.5,
+      "ruined": false,
+      "long": {
+        "t": 202,
+        "w": 101,
+        "wr": 50.0
+      },
+      "short": {
+        "t": 129,
+        "w": 53,
+        "wr": 41.1
+      }
+    },
+    {
+      "label": "Triple(3/8/15)",
+      "period": "2026 YTD",
+      "profit": 677.21,
+      "dd": 21.9,
+      "trades": 378,
+      "wr": 54.8,
+      "ruined": false,
+      "long": {
+        "t": 149,
+        "w": 71,
+        "wr": 47.7
+      },
+      "short": {
+        "t": 229,
+        "w": 136,
+        "wr": 59.4
+      }
+    },
+    {
+      "label": "Triple(3/7/15)",
+      "period": "2025",
+      "profit": 192.5,
+      "dd": 39.1,
+      "trades": 1241,
+      "wr": 53.3,
+      "ruined": false,
+      "long": {
+        "t": 534,
+        "w": 259,
+        "wr": 48.5
+      },
+      "short": {
+        "t": 707,
+        "w": 402,
+        "wr": 56.9
+      }
+    },
+    {
+      "label": "Triple(3/7/15)",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 288.57,
+      "dd": 26.2,
+      "trades": 893,
+      "wr": 59.1,
+      "ruined": false,
+      "long": {
+        "t": 463,
+        "w": 263,
+        "wr": 56.8
+      },
+      "short": {
+        "t": 430,
+        "w": 265,
+        "wr": 61.6
+      }
+    },
+    {
+      "label": "Triple(3/7/15)",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "Triple(3/8/15)",
+      "period": "2020 COVID",
+      "profit": -150.12,
+      "dd": 40.8,
+      "trades": 336,
+      "wr": 46.7,
+      "ruined": false,
+      "long": {
+        "t": 206,
+        "w": 104,
+        "wr": 50.5
+      },
+      "short": {
+        "t": 130,
+        "w": 53,
+        "wr": 40.8
+      }
+    },
+    {
+      "label": "Triple(3/10/15)",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 99.25,
+      "dd": 4.8,
+      "trades": 26,
+      "wr": 61.5,
+      "ruined": false,
+      "long": {
+        "t": 19,
+        "w": 13,
+        "wr": 68.4
+      },
+      "short": {
+        "t": 7,
+        "w": 3,
+        "wr": 42.9
+      }
+    },
+    {
+      "label": "Triple(3/7/15)",
+      "period": "2024 Bull",
+      "profit": 3537.91,
+      "dd": 24.0,
+      "trades": 1243,
+      "wr": 56.5,
+      "ruined": false,
+      "long": {
+        "t": 518,
+        "w": 274,
+        "wr": 52.9
+      },
+      "short": {
+        "t": 725,
+        "w": 428,
+        "wr": 59.0
+      }
+    },
+    {
+      "label": "Triple(3/10/15)",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 82.69,
+      "dd": 12.1,
+      "trades": 42,
+      "wr": 57.1,
+      "ruined": false,
+      "long": {
+        "t": 31,
+        "w": 20,
+        "wr": 64.5
+      },
+      "short": {
+        "t": 11,
+        "w": 4,
+        "wr": 36.4
+      }
+    },
+    {
+      "label": "Triple(3/7/15)",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 10576.94,
+      "dd": 18.8,
+      "trades": 1300,
+      "wr": 61.2,
+      "ruined": false,
+      "long": {
+        "t": 485,
+        "w": 268,
+        "wr": 55.3
+      },
+      "short": {
+        "t": 815,
+        "w": 527,
+        "wr": 64.7
+      }
+    },
+    {
+      "label": "Triple(3/8/15)",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 251.47,
+      "dd": 24.3,
+      "trades": 902,
+      "wr": 58.8,
+      "ruined": false,
+      "long": {
+        "t": 468,
+        "w": 264,
+        "wr": 56.4
+      },
+      "short": {
+        "t": 434,
+        "w": 266,
+        "wr": 61.3
+      }
+    },
+    {
+      "label": "Triple(3/8/15)",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "Triple(3/8/15)",
+      "period": "2025",
+      "profit": 384.45,
+      "dd": 37.6,
+      "trades": 1237,
+      "wr": 53.8,
+      "ruined": false,
+      "long": {
+        "t": 532,
+        "w": 259,
+        "wr": 48.7
+      },
+      "short": {
+        "t": 705,
+        "w": 406,
+        "wr": 57.6
+      }
+    },
+    {
+      "label": "Triple(3/8/15)",
+      "period": "2024 Bull",
+      "profit": 3880.18,
+      "dd": 27.6,
+      "trades": 1256,
+      "wr": 56.7,
+      "ruined": false,
+      "long": {
+        "t": 524,
+        "w": 277,
+        "wr": 52.9
+      },
+      "short": {
+        "t": 732,
+        "w": 435,
+        "wr": 59.4
+      }
+    },
+    {
+      "label": "Triple(3/10/15)",
+      "period": "2026 YTD",
+      "profit": 700.24,
+      "dd": 18.3,
+      "trades": 376,
+      "wr": 55.1,
+      "ruined": false,
+      "long": {
+        "t": 147,
+        "w": 71,
+        "wr": 48.3
+      },
+      "short": {
+        "t": 229,
+        "w": 136,
+        "wr": 59.4
+      }
+    },
+    {
+      "label": "Triple(3/8/15)",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 9771.15,
+      "dd": 18.9,
+      "trades": 1314,
+      "wr": 60.9,
+      "ruined": false,
+      "long": {
+        "t": 492,
+        "w": 269,
+        "wr": 54.7
+      },
+      "short": {
+        "t": 822,
+        "w": 531,
+        "wr": 64.6
+      }
+    },
+    {
+      "label": "Triple(3/13/15)",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 99.13,
+      "dd": 4.8,
+      "trades": 26,
+      "wr": 61.5,
+      "ruined": false,
+      "long": {
+        "t": 19,
+        "w": 13,
+        "wr": 68.4
+      },
+      "short": {
+        "t": 7,
+        "w": 3,
+        "wr": 42.9
+      }
+    },
+    {
+      "label": "Triple(3/13/15)",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 85.63,
+      "dd": 11.7,
+      "trades": 42,
+      "wr": 57.1,
+      "ruined": false,
+      "long": {
+        "t": 31,
+        "w": 20,
+        "wr": 64.5
+      },
+      "short": {
+        "t": 11,
+        "w": 4,
+        "wr": 36.4
+      }
+    },
+    {
+      "label": "Triple(3/10/15)",
+      "period": "2020 COVID",
+      "profit": -109.8,
+      "dd": 35.8,
+      "trades": 345,
+      "wr": 47.2,
+      "ruined": false,
+      "long": {
+        "t": 212,
+        "w": 111,
+        "wr": 52.4
+      },
+      "short": {
+        "t": 133,
+        "w": 52,
+        "wr": 39.1
+      }
+    },
+    {
+      "label": "Triple(3/13/15)",
+      "period": "2026 YTD",
+      "profit": 979.94,
+      "dd": 19.1,
+      "trades": 378,
+      "wr": 56.6,
+      "ruined": false,
+      "long": {
+        "t": 146,
+        "w": 72,
+        "wr": 49.3
+      },
+      "short": {
+        "t": 232,
+        "w": 142,
+        "wr": 61.2
+      }
+    },
+    {
+      "label": "Triple(3/10/15)",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 141.64,
+      "dd": 26.6,
+      "trades": 918,
+      "wr": 58.5,
+      "ruined": false,
+      "long": {
+        "t": 480,
+        "w": 270,
+        "wr": 56.2
+      },
+      "short": {
+        "t": 438,
+        "w": 267,
+        "wr": 61.0
+      }
+    },
+    {
+      "label": "Triple(3/10/15)",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "Triple(3/10/15)",
+      "period": "2025",
+      "profit": 475.23,
+      "dd": 39.7,
+      "trades": 1246,
+      "wr": 54.3,
+      "ruined": false,
+      "long": {
+        "t": 537,
+        "w": 267,
+        "wr": 49.7
+      },
+      "short": {
+        "t": 709,
+        "w": 409,
+        "wr": 57.7
+      }
+    },
+    {
+      "label": "Triple(3/10/15)",
+      "period": "2024 Bull",
+      "profit": 5110.33,
+      "dd": 24.1,
+      "trades": 1282,
+      "wr": 57.4,
+      "ruined": false,
+      "long": {
+        "t": 533,
+        "w": 285,
+        "wr": 53.5
+      },
+      "short": {
+        "t": 749,
+        "w": 451,
+        "wr": 60.2
+      }
+    },
+    {
+      "label": "Triple(3/10/15)",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 10407.13,
+      "dd": 19.7,
+      "trades": 1309,
+      "wr": 61.1,
+      "ruined": false,
+      "long": {
+        "t": 491,
+        "w": 266,
+        "wr": 54.2
+      },
+      "short": {
+        "t": 818,
+        "w": 534,
+        "wr": 65.3
+      }
+    },
+    {
+      "label": "1D-dir EMA10",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 110.16,
+      "dd": 4.6,
+      "trades": 21,
+      "wr": 66.7,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "Triple(3/13/15)",
+      "period": "2020 COVID",
+      "profit": -108.43,
+      "dd": 35.0,
+      "trades": 353,
+      "wr": 47.6,
+      "ruined": false,
+      "long": {
+        "t": 221,
+        "w": 114,
+        "wr": 51.6
+      },
+      "short": {
+        "t": 132,
+        "w": 54,
+        "wr": 40.9
+      }
+    },
+    {
+      "label": "1D-dir EMA10",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 104.75,
+      "dd": 8.8,
+      "trades": 36,
+      "wr": 61.1,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 3,
+        "w": 1,
+        "wr": 33.3
+      }
+    },
+    {
+      "label": "Triple(3/13/15)",
+      "period": "2025",
+      "profit": 419.79,
+      "dd": 39.8,
+      "trades": 1272,
+      "wr": 54.2,
+      "ruined": false,
+      "long": {
+        "t": 560,
+        "w": 281,
+        "wr": 50.2
+      },
+      "short": {
+        "t": 712,
+        "w": 409,
+        "wr": 57.4
+      }
+    },
+    {
+      "label": "Triple(3/13/15)",
+      "period": "2024 Bull",
+      "profit": 5924.56,
+      "dd": 25.6,
+      "trades": 1298,
+      "wr": 57.5,
+      "ruined": false,
+      "long": {
+        "t": 543,
+        "w": 288,
+        "wr": 53.0
+      },
+      "short": {
+        "t": 755,
+        "w": 458,
+        "wr": 60.7
+      }
+    },
+    {
+      "label": "Triple(3/13/15)",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-dir EMA10",
+      "period": "2026 YTD",
+      "profit": 1414.13,
+      "dd": 14.0,
+      "trades": 333,
+      "wr": 59.5,
+      "ruined": false,
+      "long": {
+        "t": 118,
+        "w": 65,
+        "wr": 55.1
+      },
+      "short": {
+        "t": 215,
+        "w": 133,
+        "wr": 61.9
+      }
+    },
+    {
+      "label": "Triple(3/13/15)",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 100.63,
+      "dd": 28.1,
+      "trades": 942,
+      "wr": 58.4,
+      "ruined": false,
+      "long": {
+        "t": 493,
+        "w": 277,
+        "wr": 56.2
+      },
+      "short": {
+        "t": 449,
+        "w": 273,
+        "wr": 60.8
+      }
+    },
+    {
+      "label": "Triple(3/13/15)",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 11622.49,
+      "dd": 19.7,
+      "trades": 1323,
+      "wr": 61.3,
+      "ruined": false,
+      "long": {
+        "t": 503,
+        "w": 273,
+        "wr": 54.3
+      },
+      "short": {
+        "t": 820,
+        "w": 538,
+        "wr": 65.6
+      }
+    },
+    {
+      "label": "1D-dir EMA10",
+      "period": "2020 COVID",
+      "profit": 291.67,
+      "dd": 14.7,
+      "trades": 300,
+      "wr": 53.0,
+      "ruined": false,
+      "long": {
+        "t": 208,
+        "w": 115,
+        "wr": 55.3
+      },
+      "short": {
+        "t": 92,
+        "w": 44,
+        "wr": 47.8
+      }
+    },
+    {
+      "label": "1D-dir EMA14",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 110.16,
+      "dd": 4.6,
+      "trades": 21,
+      "wr": 66.7,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-dir EMA14",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 104.75,
+      "dd": 8.8,
+      "trades": 36,
+      "wr": 61.1,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 3,
+        "w": 1,
+        "wr": 33.3
+      }
+    },
+    {
+      "label": "1D-dir EMA10",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-dir EMA10",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 1244.42,
+      "dd": 19.4,
+      "trades": 810,
+      "wr": 62.8,
+      "ruined": false,
+      "long": {
+        "t": 433,
+        "w": 266,
+        "wr": 61.4
+      },
+      "short": {
+        "t": 377,
+        "w": 243,
+        "wr": 64.5
+      }
+    },
+    {
+      "label": "1D-dir EMA10",
+      "period": "2025",
+      "profit": 9522.84,
+      "dd": 20.5,
+      "trades": 1128,
+      "wr": 60.4,
+      "ruined": false,
+      "long": {
+        "t": 453,
+        "w": 264,
+        "wr": 58.3
+      },
+      "short": {
+        "t": 675,
+        "w": 417,
+        "wr": 61.8
+      }
+    },
+    {
+      "label": "1D-dir EMA14",
+      "period": "2026 YTD",
+      "profit": 1346.73,
+      "dd": 14.8,
+      "trades": 311,
+      "wr": 59.5,
+      "ruined": false,
+      "long": {
+        "t": 107,
+        "w": 61,
+        "wr": 57.0
+      },
+      "short": {
+        "t": 204,
+        "w": 124,
+        "wr": 60.8
+      }
+    },
+    {
+      "label": "1D-dir EMA10",
+      "period": "2024 Bull",
+      "profit": 30060.02,
+      "dd": 14.4,
+      "trades": 1112,
+      "wr": 62.7,
+      "ruined": false,
+      "long": {
+        "t": 472,
+        "w": 277,
+        "wr": 58.7
+      },
+      "short": {
+        "t": 640,
+        "w": 420,
+        "wr": 65.6
+      }
+    },
+    {
+      "label": "1D-dir EMA10",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 33685.44,
+      "dd": 17.6,
+      "trades": 1181,
+      "wr": 65.2,
+      "ruined": false,
+      "long": {
+        "t": 410,
+        "w": 245,
+        "wr": 59.8
+      },
+      "short": {
+        "t": 771,
+        "w": 525,
+        "wr": 68.1
+      }
+    },
+    {
+      "label": "1D-dir EMA14",
+      "period": "2020 COVID",
+      "profit": 252.88,
+      "dd": 14.7,
+      "trades": 291,
+      "wr": 52.6,
+      "ruined": false,
+      "long": {
+        "t": 204,
+        "w": 114,
+        "wr": 55.9
+      },
+      "short": {
+        "t": 87,
+        "w": 39,
+        "wr": 44.8
+      }
+    },
+    {
+      "label": "V7 (5/18 no-filter)",
+      "period": "Full 6y",
+      "profit": 2493374.4,
+      "dd": 43.1,
+      "trades": 5843,
+      "wr": 57.4,
+      "ruined": false,
+      "long": {
+        "t": 2593,
+        "w": 1392,
+        "wr": 53.7
+      },
+      "short": {
+        "t": 3250,
+        "w": 1961,
+        "wr": 60.3
+      }
+    },
+    {
+      "label": "Triple(3/5/15)",
+      "period": "Full 6y",
+      "profit": 244696.8,
+      "dd": 44.3,
+      "trades": 5266,
+      "wr": 56.2,
+      "ruined": false,
+      "long": {
+        "t": 2321,
+        "w": 1223,
+        "wr": 52.7
+      },
+      "short": {
+        "t": 2945,
+        "w": 1736,
+        "wr": 58.9
+      }
+    },
+    {
+      "label": "1D-dir EMA20",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 110.16,
+      "dd": 4.6,
+      "trades": 21,
+      "wr": 66.7,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-dir EMA20",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 104.75,
+      "dd": 8.8,
+      "trades": 36,
+      "wr": 61.1,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 3,
+        "w": 1,
+        "wr": 33.3
+      }
+    },
+    {
+      "label": "1D-dir EMA14",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 912.54,
+      "dd": 26.6,
+      "trades": 772,
+      "wr": 61.9,
+      "ruined": false,
+      "long": {
+        "t": 415,
+        "w": 250,
+        "wr": 60.2
+      },
+      "short": {
+        "t": 357,
+        "w": 228,
+        "wr": 63.9
+      }
+    },
+    {
+      "label": "1D-dir EMA14",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "Triple(3/7/15)",
+      "period": "Full 6y",
+      "profit": 292707.77,
+      "dd": 46.6,
+      "trades": 5359,
+      "wr": 56.4,
+      "ruined": false,
+      "long": {
+        "t": 2357,
+        "w": 1244,
+        "wr": 52.8
+      },
+      "short": {
+        "t": 3002,
+        "w": 1780,
+        "wr": 59.3
+      }
+    },
+    {
+      "label": "1D-dir EMA14",
+      "period": "2025",
+      "profit": 6309.17,
+      "dd": 19.5,
+      "trades": 1079,
+      "wr": 60.1,
+      "ruined": false,
+      "long": {
+        "t": 419,
+        "w": 246,
+        "wr": 58.7
+      },
+      "short": {
+        "t": 660,
+        "w": 402,
+        "wr": 60.9
+      }
+    },
+    {
+      "label": "1D-dir EMA20",
+      "period": "2026 YTD",
+      "profit": 1215.91,
+      "dd": 14.8,
+      "trades": 293,
+      "wr": 59.4,
+      "ruined": false,
+      "long": {
+        "t": 98,
+        "w": 57,
+        "wr": 58.2
+      },
+      "short": {
+        "t": 195,
+        "w": 117,
+        "wr": 60.0
+      }
+    },
+    {
+      "label": "1D-dir EMA14",
+      "period": "2024 Bull",
+      "profit": 18743.83,
+      "dd": 14.4,
+      "trades": 1075,
+      "wr": 61.7,
+      "ruined": false,
+      "long": {
+        "t": 453,
+        "w": 263,
+        "wr": 58.1
+      },
+      "short": {
+        "t": 622,
+        "w": 400,
+        "wr": 64.3
+      }
+    },
+    {
+      "label": "1D-dir EMA14",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 24607.76,
+      "dd": 19.2,
+      "trades": 1142,
+      "wr": 64.8,
+      "ruined": false,
+      "long": {
+        "t": 379,
+        "w": 225,
+        "wr": 59.4
+      },
+      "short": {
+        "t": 763,
+        "w": 515,
+        "wr": 67.5
+      }
+    },
+    {
+      "label": "1D-dir EMA30",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 110.16,
+      "dd": 4.6,
+      "trades": 21,
+      "wr": 66.7,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-dir EMA30",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 104.75,
+      "dd": 8.8,
+      "trades": 36,
+      "wr": 61.1,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 3,
+        "w": 1,
+        "wr": 33.3
+      }
+    },
+    {
+      "label": "1D-dir EMA20",
+      "period": "2020 COVID",
+      "profit": 212.67,
+      "dd": 15.1,
+      "trades": 279,
+      "wr": 52.3,
+      "ruined": false,
+      "long": {
+        "t": 206,
+        "w": 113,
+        "wr": 54.9
+      },
+      "short": {
+        "t": 73,
+        "w": 33,
+        "wr": 45.2
+      }
+    },
+    {
+      "label": "Triple(3/8/15)",
+      "period": "Full 6y",
+      "profit": 416537.98,
+      "dd": 43.2,
+      "trades": 5398,
+      "wr": 56.5,
+      "ruined": false,
+      "long": {
+        "t": 2381,
+        "w": 1254,
+        "wr": 52.7
+      },
+      "short": {
+        "t": 3017,
+        "w": 1798,
+        "wr": 59.6
+      }
+    },
+    {
+      "label": "1D-dir EMA30",
+      "period": "2026 YTD",
+      "profit": 1110.4,
+      "dd": 14.8,
+      "trades": 296,
+      "wr": 58.4,
+      "ruined": false,
+      "long": {
+        "t": 97,
+        "w": 53,
+        "wr": 54.6
+      },
+      "short": {
+        "t": 199,
+        "w": 120,
+        "wr": 60.3
+      }
+    },
+    {
+      "label": "1D-dir EMA20",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 564.39,
+      "dd": 26.0,
+      "trades": 745,
+      "wr": 61.6,
+      "ruined": false,
+      "long": {
+        "t": 400,
+        "w": 237,
+        "wr": 59.2
+      },
+      "short": {
+        "t": 345,
+        "w": 222,
+        "wr": 64.3
+      }
+    },
+    {
+      "label": "1D-dir EMA20",
+      "period": "2025",
+      "profit": 4928.61,
+      "dd": 21.6,
+      "trades": 1027,
+      "wr": 59.7,
+      "ruined": false,
+      "long": {
+        "t": 382,
+        "w": 224,
+        "wr": 58.6
+      },
+      "short": {
+        "t": 645,
+        "w": 389,
+        "wr": 60.3
+      }
+    },
+    {
+      "label": "1D-dir EMA20",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-dir EMA20",
+      "period": "2024 Bull",
+      "profit": 14507.06,
+      "dd": 14.4,
+      "trades": 1024,
+      "wr": 61.1,
+      "ruined": false,
+      "long": {
+        "t": 435,
+        "w": 250,
+        "wr": 57.5
+      },
+      "short": {
+        "t": 589,
+        "w": 376,
+        "wr": 63.8
+      }
+    },
+    {
+      "label": "1D-dir EMA20",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 19724.77,
+      "dd": 21.1,
+      "trades": 1111,
+      "wr": 64.4,
+      "ruined": false,
+      "long": {
+        "t": 344,
+        "w": 203,
+        "wr": 59.0
+      },
+      "short": {
+        "t": 767,
+        "w": 512,
+        "wr": 66.8
+      }
+    },
+    {
+      "label": "1D-dir EMA30",
+      "period": "2020 COVID",
+      "profit": 202.75,
+      "dd": 19.5,
+      "trades": 266,
+      "wr": 52.3,
+      "ruined": false,
+      "long": {
+        "t": 205,
+        "w": 113,
+        "wr": 55.1
+      },
+      "short": {
+        "t": 61,
+        "w": 26,
+        "wr": 42.6
+      }
+    },
+    {
+      "label": "1D-dir EMA50",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 110.16,
+      "dd": 4.6,
+      "trades": 21,
+      "wr": 66.7,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-dir EMA50",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 121.8,
+      "dd": 6.6,
+      "trades": 33,
+      "wr": 63.6,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "Triple(3/10/15)",
+      "period": "Full 6y",
+      "profit": 646070.64,
+      "dd": 38.2,
+      "trades": 5454,
+      "wr": 56.9,
+      "ruined": false,
+      "long": {
+        "t": 2409,
+        "w": 1280,
+        "wr": 53.1
+      },
+      "short": {
+        "t": 3045,
+        "w": 1821,
+        "wr": 59.8
+      }
+    },
+    {
+      "label": "1D-dir EMA30",
+      "period": "2025",
+      "profit": 4371.46,
+      "dd": 22.3,
+      "trades": 975,
+      "wr": 59.9,
+      "ruined": false,
+      "long": {
+        "t": 359,
+        "w": 207,
+        "wr": 57.7
+      },
+      "short": {
+        "t": 616,
+        "w": 377,
+        "wr": 61.2
+      }
+    },
+    {
+      "label": "1D-dir EMA50",
+      "period": "2026 YTD",
+      "profit": 925.99,
+      "dd": 19.0,
+      "trades": 286,
+      "wr": 58.7,
+      "ruined": false,
+      "long": {
+        "t": 70,
+        "w": 39,
+        "wr": 55.7
+      },
+      "short": {
+        "t": 216,
+        "w": 129,
+        "wr": 59.7
+      }
+    },
+    {
+      "label": "1D-dir EMA30",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 341.26,
+      "dd": 26.5,
+      "trades": 700,
+      "wr": 60.9,
+      "ruined": false,
+      "long": {
+        "t": 384,
+        "w": 224,
+        "wr": 58.3
+      },
+      "short": {
+        "t": 316,
+        "w": 202,
+        "wr": 63.9
+      }
+    },
+    {
+      "label": "1D-dir EMA30",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "Triple(3/13/15)",
+      "period": "Full 6y",
+      "profit": 933306.01,
+      "dd": 42.0,
+      "trades": 5546,
+      "wr": 57.1,
+      "ruined": false,
+      "long": {
+        "t": 2475,
+        "w": 1316,
+        "wr": 53.2
+      },
+      "short": {
+        "t": 3071,
+        "w": 1848,
+        "wr": 60.2
+      }
+    },
+    {
+      "label": "1D-dir EMA30",
+      "period": "2024 Bull",
+      "profit": 9614.39,
+      "dd": 14.4,
+      "trades": 950,
+      "wr": 60.2,
+      "ruined": false,
+      "long": {
+        "t": 399,
+        "w": 227,
+        "wr": 56.9
+      },
+      "short": {
+        "t": 551,
+        "w": 345,
+        "wr": 62.6
+      }
+    },
+    {
+      "label": "1D-above EMA10",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 110.16,
+      "dd": 4.6,
+      "trades": 21,
+      "wr": 66.7,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-dir EMA50",
+      "period": "2020 COVID",
+      "profit": -19.44,
+      "dd": 31.9,
+      "trades": 239,
+      "wr": 50.6,
+      "ruined": false,
+      "long": {
+        "t": 210,
+        "w": 112,
+        "wr": 53.3
+      },
+      "short": {
+        "t": 29,
+        "w": 9,
+        "wr": 31.0
+      }
+    },
+    {
+      "label": "1D-dir EMA30",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 21295.98,
+      "dd": 21.0,
+      "trades": 1061,
+      "wr": 64.9,
+      "ruined": false,
+      "long": {
+        "t": 288,
+        "w": 176,
+        "wr": 61.1
+      },
+      "short": {
+        "t": 773,
+        "w": 513,
+        "wr": 66.4
+      }
+    },
+    {
+      "label": "1D-above EMA10",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 104.75,
+      "dd": 8.8,
+      "trades": 36,
+      "wr": 61.1,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 3,
+        "w": 1,
+        "wr": 33.3
+      }
+    },
+    {
+      "label": "1D-above EMA10",
+      "period": "2026 YTD",
+      "profit": 1414.13,
+      "dd": 14.0,
+      "trades": 333,
+      "wr": 59.5,
+      "ruined": false,
+      "long": {
+        "t": 118,
+        "w": 65,
+        "wr": 55.1
+      },
+      "short": {
+        "t": 215,
+        "w": 133,
+        "wr": 61.9
+      }
+    },
+    {
+      "label": "1D-dir EMA50",
+      "period": "2025",
+      "profit": 3317.92,
+      "dd": 22.4,
+      "trades": 949,
+      "wr": 59.5,
+      "ruined": false,
+      "long": {
+        "t": 345,
+        "w": 194,
+        "wr": 56.2
+      },
+      "short": {
+        "t": 604,
+        "w": 371,
+        "wr": 61.4
+      }
+    },
+    {
+      "label": "1D-dir EMA50",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 266.8,
+      "dd": 26.5,
+      "trades": 676,
+      "wr": 60.5,
+      "ruined": false,
+      "long": {
+        "t": 386,
+        "w": 225,
+        "wr": 58.3
+      },
+      "short": {
+        "t": 290,
+        "w": 184,
+        "wr": 63.4
+      }
+    },
+    {
+      "label": "1D-dir EMA50",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-dir EMA50",
+      "period": "2024 Bull",
+      "profit": 8355.46,
+      "dd": 14.5,
+      "trades": 899,
+      "wr": 60.0,
+      "ruined": false,
+      "long": {
+        "t": 395,
+        "w": 223,
+        "wr": 56.5
+      },
+      "short": {
+        "t": 504,
+        "w": 316,
+        "wr": 62.7
+      }
+    },
+    {
+      "label": "1D-above EMA10",
+      "period": "2020 COVID",
+      "profit": 291.67,
+      "dd": 14.7,
+      "trades": 300,
+      "wr": 53.0,
+      "ruined": false,
+      "long": {
+        "t": 208,
+        "w": 115,
+        "wr": 55.3
+      },
+      "short": {
+        "t": 92,
+        "w": 44,
+        "wr": 47.8
+      }
+    },
+    {
+      "label": "1D-dir EMA50",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 15684.18,
+      "dd": 16.1,
+      "trades": 1028,
+      "wr": 64.8,
+      "ruined": false,
+      "long": {
+        "t": 246,
+        "w": 149,
+        "wr": 60.6
+      },
+      "short": {
+        "t": 782,
+        "w": 517,
+        "wr": 66.1
+      }
+    },
+    {
+      "label": "1D-above EMA14",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 110.16,
+      "dd": 4.6,
+      "trades": 21,
+      "wr": 66.7,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-above EMA14",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 104.75,
+      "dd": 8.8,
+      "trades": 36,
+      "wr": 61.1,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 3,
+        "w": 1,
+        "wr": 33.3
+      }
+    },
+    {
+      "label": "1D-above EMA10",
+      "period": "2025",
+      "profit": 9522.84,
+      "dd": 20.5,
+      "trades": 1128,
+      "wr": 60.4,
+      "ruined": false,
+      "long": {
+        "t": 453,
+        "w": 264,
+        "wr": 58.3
+      },
+      "short": {
+        "t": 675,
+        "w": 417,
+        "wr": 61.8
+      }
+    },
+    {
+      "label": "1D-above EMA10",
+      "period": "2024 Bull",
+      "profit": 30060.02,
+      "dd": 14.4,
+      "trades": 1112,
+      "wr": 62.7,
+      "ruined": false,
+      "long": {
+        "t": 472,
+        "w": 277,
+        "wr": 58.7
+      },
+      "short": {
+        "t": 640,
+        "w": 420,
+        "wr": 65.6
+      }
+    },
+    {
+      "label": "1D-above EMA10",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 1244.42,
+      "dd": 19.4,
+      "trades": 810,
+      "wr": 62.8,
+      "ruined": false,
+      "long": {
+        "t": 433,
+        "w": 266,
+        "wr": 61.4
+      },
+      "short": {
+        "t": 377,
+        "w": 243,
+        "wr": 64.5
+      }
+    },
+    {
+      "label": "1D-above EMA14",
+      "period": "2026 YTD",
+      "profit": 1346.73,
+      "dd": 14.8,
+      "trades": 311,
+      "wr": 59.5,
+      "ruined": false,
+      "long": {
+        "t": 107,
+        "w": 61,
+        "wr": 57.0
+      },
+      "short": {
+        "t": 204,
+        "w": 124,
+        "wr": 60.8
+      }
+    },
+    {
+      "label": "1D-dir EMA10",
+      "period": "Full 6y",
+      "profit": 1040869689.91,
+      "dd": 19.0,
+      "trades": 4855,
+      "wr": 61.9,
+      "ruined": false,
+      "long": {
+        "t": 2100,
+        "w": 1241,
+        "wr": 59.1
+      },
+      "short": {
+        "t": 2755,
+        "w": 1765,
+        "wr": 64.1
+      }
+    },
+    {
+      "label": "1D-above EMA10",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-above EMA14",
+      "period": "2020 COVID",
+      "profit": 252.88,
+      "dd": 14.7,
+      "trades": 291,
+      "wr": 52.6,
+      "ruined": false,
+      "long": {
+        "t": 204,
+        "w": 114,
+        "wr": 55.9
+      },
+      "short": {
+        "t": 87,
+        "w": 39,
+        "wr": 44.8
+      }
+    },
+    {
+      "label": "1D-above EMA10",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 33685.44,
+      "dd": 17.6,
+      "trades": 1181,
+      "wr": 65.2,
+      "ruined": false,
+      "long": {
+        "t": 410,
+        "w": 245,
+        "wr": 59.8
+      },
+      "short": {
+        "t": 771,
+        "w": 525,
+        "wr": 68.1
+      }
+    },
+    {
+      "label": "1D-above EMA20",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 110.16,
+      "dd": 4.6,
+      "trades": 21,
+      "wr": 66.7,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-above EMA20",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 104.75,
+      "dd": 8.8,
+      "trades": 36,
+      "wr": 61.1,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 3,
+        "w": 1,
+        "wr": 33.3
+      }
+    },
+    {
+      "label": "1D-above EMA20",
+      "period": "2026 YTD",
+      "profit": 1215.91,
+      "dd": 14.8,
+      "trades": 293,
+      "wr": 59.4,
+      "ruined": false,
+      "long": {
+        "t": 98,
+        "w": 57,
+        "wr": 58.2
+      },
+      "short": {
+        "t": 195,
+        "w": 117,
+        "wr": 60.0
+      }
+    },
+    {
+      "label": "1D-above EMA14",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 912.54,
+      "dd": 26.6,
+      "trades": 772,
+      "wr": 61.9,
+      "ruined": false,
+      "long": {
+        "t": 415,
+        "w": 250,
+        "wr": 60.2
+      },
+      "short": {
+        "t": 357,
+        "w": 228,
+        "wr": 63.9
+      }
+    },
+    {
+      "label": "1D-above EMA14",
+      "period": "2025",
+      "profit": 6309.17,
+      "dd": 19.5,
+      "trades": 1079,
+      "wr": 60.1,
+      "ruined": false,
+      "long": {
+        "t": 419,
+        "w": 246,
+        "wr": 58.7
+      },
+      "short": {
+        "t": 660,
+        "w": 402,
+        "wr": 60.9
+      }
+    },
+    {
+      "label": "1D-dir EMA14",
+      "period": "Full 6y",
+      "profit": 292759981.2,
+      "dd": 26.2,
+      "trades": 4666,
+      "wr": 61.4,
+      "ruined": false,
+      "long": {
+        "t": 1987,
+        "w": 1171,
+        "wr": 58.9
+      },
+      "short": {
+        "t": 2679,
+        "w": 1695,
+        "wr": 63.3
+      }
+    },
+    {
+      "label": "1D-above EMA14",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-above EMA14",
+      "period": "2024 Bull",
+      "profit": 18743.83,
+      "dd": 14.4,
+      "trades": 1075,
+      "wr": 61.7,
+      "ruined": false,
+      "long": {
+        "t": 453,
+        "w": 263,
+        "wr": 58.1
+      },
+      "short": {
+        "t": 622,
+        "w": 400,
+        "wr": 64.3
+      }
+    },
+    {
+      "label": "1D-above EMA14",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 24607.76,
+      "dd": 19.2,
+      "trades": 1142,
+      "wr": 64.8,
+      "ruined": false,
+      "long": {
+        "t": 379,
+        "w": 225,
+        "wr": 59.4
+      },
+      "short": {
+        "t": 763,
+        "w": 515,
+        "wr": 67.5
+      }
+    },
+    {
+      "label": "1D-above EMA30",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 110.16,
+      "dd": 4.6,
+      "trades": 21,
+      "wr": 66.7,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-above EMA20",
+      "period": "2020 COVID",
+      "profit": 212.67,
+      "dd": 15.1,
+      "trades": 279,
+      "wr": 52.3,
+      "ruined": false,
+      "long": {
+        "t": 206,
+        "w": 113,
+        "wr": 54.9
+      },
+      "short": {
+        "t": 73,
+        "w": 33,
+        "wr": 45.2
+      }
+    },
+    {
+      "label": "1D-above EMA30",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 104.75,
+      "dd": 8.8,
+      "trades": 36,
+      "wr": 61.1,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 3,
+        "w": 1,
+        "wr": 33.3
+      }
+    },
+    {
+      "label": "1D-above EMA20",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 564.39,
+      "dd": 26.0,
+      "trades": 745,
+      "wr": 61.6,
+      "ruined": false,
+      "long": {
+        "t": 400,
+        "w": 237,
+        "wr": 59.2
+      },
+      "short": {
+        "t": 345,
+        "w": 222,
+        "wr": 64.3
+      }
+    },
+    {
+      "label": "1D-above EMA20",
+      "period": "2025",
+      "profit": 4928.61,
+      "dd": 21.6,
+      "trades": 1027,
+      "wr": 59.7,
+      "ruined": false,
+      "long": {
+        "t": 382,
+        "w": 224,
+        "wr": 58.6
+      },
+      "short": {
+        "t": 645,
+        "w": 389,
+        "wr": 60.3
+      }
+    },
+    {
+      "label": "1D-above EMA30",
+      "period": "2026 YTD",
+      "profit": 1110.4,
+      "dd": 14.8,
+      "trades": 296,
+      "wr": 58.4,
+      "ruined": false,
+      "long": {
+        "t": 97,
+        "w": 53,
+        "wr": 54.6
+      },
+      "short": {
+        "t": 199,
+        "w": 120,
+        "wr": 60.3
+      }
+    },
+    {
+      "label": "1D-above EMA20",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-above EMA20",
+      "period": "2024 Bull",
+      "profit": 14507.06,
+      "dd": 14.4,
+      "trades": 1024,
+      "wr": 61.1,
+      "ruined": false,
+      "long": {
+        "t": 435,
+        "w": 250,
+        "wr": 57.5
+      },
+      "short": {
+        "t": 589,
+        "w": 376,
+        "wr": 63.8
+      }
+    },
+    {
+      "label": "1D-above EMA20",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 19724.77,
+      "dd": 21.1,
+      "trades": 1111,
+      "wr": 64.4,
+      "ruined": false,
+      "long": {
+        "t": 344,
+        "w": 203,
+        "wr": 59.0
+      },
+      "short": {
+        "t": 767,
+        "w": 512,
+        "wr": 66.8
+      }
+    },
+    {
+      "label": "1D-dir EMA20",
+      "period": "Full 6y",
+      "profit": 98225239.18,
+      "dd": 26.2,
+      "trades": 4476,
+      "wr": 61.0,
+      "ruined": false,
+      "long": {
+        "t": 1869,
+        "w": 1091,
+        "wr": 58.4
+      },
+      "short": {
+        "t": 2607,
+        "w": 1639,
+        "wr": 62.9
+      }
+    },
+    {
+      "label": "1D-above EMA30",
+      "period": "2020 COVID",
+      "profit": 202.75,
+      "dd": 19.5,
+      "trades": 266,
+      "wr": 52.3,
+      "ruined": false,
+      "long": {
+        "t": 205,
+        "w": 113,
+        "wr": 55.1
+      },
+      "short": {
+        "t": 61,
+        "w": 26,
+        "wr": 42.6
+      }
+    },
+    {
+      "label": "1D-above EMA50",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 110.16,
+      "dd": 4.6,
+      "trades": 21,
+      "wr": 66.7,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-above EMA50",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 121.8,
+      "dd": 6.6,
+      "trades": 33,
+      "wr": 63.6,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-above EMA30",
+      "period": "2025",
+      "profit": 4371.46,
+      "dd": 22.3,
+      "trades": 975,
+      "wr": 59.9,
+      "ruined": false,
+      "long": {
+        "t": 359,
+        "w": 207,
+        "wr": 57.7
+      },
+      "short": {
+        "t": 616,
+        "w": 377,
+        "wr": 61.2
+      }
+    },
+    {
+      "label": "1D-above EMA30",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 341.26,
+      "dd": 26.5,
+      "trades": 700,
+      "wr": 60.9,
+      "ruined": false,
+      "long": {
+        "t": 384,
+        "w": 224,
+        "wr": 58.3
+      },
+      "short": {
+        "t": 316,
+        "w": 202,
+        "wr": 63.9
+      }
+    },
+    {
+      "label": "1D-above EMA50",
+      "period": "2026 YTD",
+      "profit": 925.99,
+      "dd": 19.0,
+      "trades": 286,
+      "wr": 58.7,
+      "ruined": false,
+      "long": {
+        "t": 70,
+        "w": 39,
+        "wr": 55.7
+      },
+      "short": {
+        "t": 216,
+        "w": 129,
+        "wr": 59.7
+      }
+    },
+    {
+      "label": "1D-above EMA30",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-dir EMA30",
+      "period": "Full 6y",
+      "profit": 42845581.14,
+      "dd": 26.2,
+      "trades": 4230,
+      "wr": 60.7,
+      "ruined": false,
+      "long": {
+        "t": 1739,
+        "w": 1010,
+        "wr": 58.1
+      },
+      "short": {
+        "t": 2491,
+        "w": 1559,
+        "wr": 62.6
+      }
+    },
+    {
+      "label": "1D-above EMA30",
+      "period": "2024 Bull",
+      "profit": 9614.39,
+      "dd": 14.4,
+      "trades": 950,
+      "wr": 60.2,
+      "ruined": false,
+      "long": {
+        "t": 399,
+        "w": 227,
+        "wr": 56.9
+      },
+      "short": {
+        "t": 551,
+        "w": 345,
+        "wr": 62.6
+      }
+    },
+    {
+      "label": "1D-above EMA30",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 21295.98,
+      "dd": 21.0,
+      "trades": 1061,
+      "wr": 64.9,
+      "ruined": false,
+      "long": {
+        "t": 288,
+        "w": 176,
+        "wr": 61.1
+      },
+      "short": {
+        "t": 773,
+        "w": 513,
+        "wr": 66.4
+      }
+    },
+    {
+      "label": "4H-dir EMA30",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 85.96,
+      "dd": 4.8,
+      "trades": 25,
+      "wr": 60.0,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 4,
+        "w": 1,
+        "wr": 25.0
+      }
+    },
+    {
+      "label": "4H-dir EMA30",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 96.98,
+      "dd": 8.7,
+      "trades": 41,
+      "wr": 58.5,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 8,
+        "w": 3,
+        "wr": 37.5
+      }
+    },
+    {
+      "label": "1D-above EMA50",
+      "period": "2020 COVID",
+      "profit": -19.44,
+      "dd": 31.9,
+      "trades": 239,
+      "wr": 50.6,
+      "ruined": false,
+      "long": {
+        "t": 210,
+        "w": 112,
+        "wr": 53.3
+      },
+      "short": {
+        "t": 29,
+        "w": 9,
+        "wr": 31.0
+      }
+    },
+    {
+      "label": "4H-dir EMA30",
+      "period": "2026 YTD",
+      "profit": 1293.19,
+      "dd": 14.5,
+      "trades": 376,
+      "wr": 58.2,
+      "ruined": false,
+      "long": {
+        "t": 139,
+        "w": 72,
+        "wr": 51.8
+      },
+      "short": {
+        "t": 237,
+        "w": 147,
+        "wr": 62.0
+      }
+    },
+    {
+      "label": "1D-above EMA50",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 266.8,
+      "dd": 26.5,
+      "trades": 676,
+      "wr": 60.5,
+      "ruined": false,
+      "long": {
+        "t": 386,
+        "w": 225,
+        "wr": 58.3
+      },
+      "short": {
+        "t": 290,
+        "w": 184,
+        "wr": 63.4
+      }
+    },
+    {
+      "label": "1D-above EMA50",
+      "period": "2025",
+      "profit": 3317.92,
+      "dd": 22.4,
+      "trades": 949,
+      "wr": 59.5,
+      "ruined": false,
+      "long": {
+        "t": 345,
+        "w": 194,
+        "wr": 56.2
+      },
+      "short": {
+        "t": 604,
+        "w": 371,
+        "wr": 61.4
+      }
+    },
+    {
+      "label": "1D-above EMA50",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-dir EMA50",
+      "period": "Full 6y",
+      "profit": 9893336.64,
+      "dd": 31.9,
+      "trades": 4046,
+      "wr": 60.4,
+      "ruined": false,
+      "long": {
+        "t": 1647,
+        "w": 941,
+        "wr": 57.1
+      },
+      "short": {
+        "t": 2399,
+        "w": 1501,
+        "wr": 62.6
+      }
+    },
+    {
+      "label": "1D-above EMA50",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 15684.18,
+      "dd": 16.1,
+      "trades": 1028,
+      "wr": 64.8,
+      "ruined": false,
+      "long": {
+        "t": 246,
+        "w": 149,
+        "wr": 60.6
+      },
+      "short": {
+        "t": 782,
+        "w": 517,
+        "wr": 66.1
+      }
+    },
+    {
+      "label": "1D-above EMA50",
+      "period": "2024 Bull",
+      "profit": 8355.46,
+      "dd": 14.5,
+      "trades": 899,
+      "wr": 60.0,
+      "ruined": false,
+      "long": {
+        "t": 395,
+        "w": 223,
+        "wr": 56.5
+      },
+      "short": {
+        "t": 504,
+        "w": 316,
+        "wr": 62.7
+      }
+    },
+    {
+      "label": "4H-dir EMA50",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 85.96,
+      "dd": 4.8,
+      "trades": 25,
+      "wr": 60.0,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 4,
+        "w": 1,
+        "wr": 25.0
+      }
+    },
+    {
+      "label": "4H-dir EMA50",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 85.09,
+      "dd": 11.4,
+      "trades": 38,
+      "wr": 57.9,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 5,
+        "w": 1,
+        "wr": 20.0
+      }
+    },
+    {
+      "label": "4H-dir EMA30",
+      "period": "2020 COVID",
+      "profit": 58.26,
+      "dd": 28.5,
+      "trades": 333,
+      "wr": 50.2,
+      "ruined": false,
+      "long": {
+        "t": 219,
+        "w": 117,
+        "wr": 53.4
+      },
+      "short": {
+        "t": 114,
+        "w": 50,
+        "wr": 43.9
+      }
+    },
+    {
+      "label": "4H-dir EMA30",
+      "period": "2025",
+      "profit": 2881.24,
+      "dd": 25.7,
+      "trades": 1260,
+      "wr": 57.1,
+      "ruined": false,
+      "long": {
+        "t": 532,
+        "w": 283,
+        "wr": 53.2
+      },
+      "short": {
+        "t": 728,
+        "w": 436,
+        "wr": 59.9
+      }
+    },
+    {
+      "label": "4H-dir EMA50",
+      "period": "2026 YTD",
+      "profit": 1271.54,
+      "dd": 16.2,
+      "trades": 360,
+      "wr": 58.3,
+      "ruined": false,
+      "long": {
+        "t": 129,
+        "w": 69,
+        "wr": 53.5
+      },
+      "short": {
+        "t": 231,
+        "w": 141,
+        "wr": 61.0
+      }
+    },
+    {
+      "label": "1D-above EMA10",
+      "period": "Full 6y",
+      "profit": 1040869689.91,
+      "dd": 19.0,
+      "trades": 4855,
+      "wr": 61.9,
+      "ruined": false,
+      "long": {
+        "t": 2100,
+        "w": 1241,
+        "wr": 59.1
+      },
+      "short": {
+        "t": 2755,
+        "w": 1765,
+        "wr": 64.1
+      }
+    },
+    {
+      "label": "4H-dir EMA30",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 790.26,
+      "dd": 22.4,
+      "trades": 936,
+      "wr": 61.1,
+      "ruined": false,
+      "long": {
+        "t": 494,
+        "w": 290,
+        "wr": 58.7
+      },
+      "short": {
+        "t": 442,
+        "w": 282,
+        "wr": 63.8
+      }
+    },
+    {
+      "label": "4H-dir EMA30",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "4H-dir EMA30",
+      "period": "2024 Bull",
+      "profit": 10943.68,
+      "dd": 20.2,
+      "trades": 1262,
+      "wr": 59.0,
+      "ruined": false,
+      "long": {
+        "t": 541,
+        "w": 287,
+        "wr": 53.0
+      },
+      "short": {
+        "t": 721,
+        "w": 458,
+        "wr": 63.5
+      }
+    },
+    {
+      "label": "4H-dir EMA30",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 17758.0,
+      "dd": 17.7,
+      "trades": 1330,
+      "wr": 62.7,
+      "ruined": false,
+      "long": {
+        "t": 492,
+        "w": 274,
+        "wr": 55.7
+      },
+      "short": {
+        "t": 838,
+        "w": 560,
+        "wr": 66.8
+      }
+    },
+    {
+      "label": "4H-dir EMA80",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 85.96,
+      "dd": 4.8,
+      "trades": 25,
+      "wr": 60.0,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 4,
+        "w": 1,
+        "wr": 25.0
+      }
+    },
+    {
+      "label": "4H-dir EMA50",
+      "period": "2020 COVID",
+      "profit": 37.49,
+      "dd": 26.8,
+      "trades": 318,
+      "wr": 49.7,
+      "ruined": false,
+      "long": {
+        "t": 215,
+        "w": 114,
+        "wr": 53.0
+      },
+      "short": {
+        "t": 103,
+        "w": 44,
+        "wr": 42.7
+      }
+    },
+    {
+      "label": "4H-dir EMA80",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 94.67,
+      "dd": 10.1,
+      "trades": 37,
+      "wr": 59.5,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 4,
+        "w": 1,
+        "wr": 25.0
+      }
+    },
+    {
+      "label": "4H-dir EMA80",
+      "period": "2026 YTD",
+      "profit": 991.2,
+      "dd": 18.2,
+      "trades": 327,
+      "wr": 57.5,
+      "ruined": false,
+      "long": {
+        "t": 112,
+        "w": 62,
+        "wr": 55.4
+      },
+      "short": {
+        "t": 215,
+        "w": 126,
+        "wr": 58.6
+      }
+    },
+    {
+      "label": "4H-dir EMA50",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 519.0,
+      "dd": 24.3,
+      "trades": 882,
+      "wr": 60.2,
+      "ruined": false,
+      "long": {
+        "t": 466,
+        "w": 274,
+        "wr": 58.8
+      },
+      "short": {
+        "t": 416,
+        "w": 257,
+        "wr": 61.8
+      }
+    },
+    {
+      "label": "4H-dir EMA50",
+      "period": "2025",
+      "profit": 2361.11,
+      "dd": 25.5,
+      "trades": 1194,
+      "wr": 56.7,
+      "ruined": false,
+      "long": {
+        "t": 497,
+        "w": 269,
+        "wr": 54.1
+      },
+      "short": {
+        "t": 697,
+        "w": 408,
+        "wr": 58.5
+      }
+    },
+    {
+      "label": "1D-above EMA14",
+      "period": "Full 6y",
+      "profit": 292759981.2,
+      "dd": 26.2,
+      "trades": 4666,
+      "wr": 61.4,
+      "ruined": false,
+      "long": {
+        "t": 1987,
+        "w": 1171,
+        "wr": 58.9
+      },
+      "short": {
+        "t": 2679,
+        "w": 1695,
+        "wr": 63.3
+      }
+    },
+    {
+      "label": "4H-dir EMA50",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "4H-dir EMA50",
+      "period": "2024 Bull",
+      "profit": 9272.82,
+      "dd": 18.3,
+      "trades": 1178,
+      "wr": 59.2,
+      "ruined": false,
+      "long": {
+        "t": 507,
+        "w": 275,
+        "wr": 54.2
+      },
+      "short": {
+        "t": 671,
+        "w": 422,
+        "wr": 62.9
+      }
+    },
+    {
+      "label": "4H-dir EMA50",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 13083.24,
+      "dd": 25.2,
+      "trades": 1257,
+      "wr": 62.1,
+      "ruined": false,
+      "long": {
+        "t": 447,
+        "w": 243,
+        "wr": 54.4
+      },
+      "short": {
+        "t": 810,
+        "w": 538,
+        "wr": 66.4
+      }
+    },
+    {
+      "label": "4H-dir EMA80",
+      "period": "2020 COVID",
+      "profit": 25.96,
+      "dd": 27.8,
+      "trades": 307,
+      "wr": 49.8,
+      "ruined": false,
+      "long": {
+        "t": 212,
+        "w": 113,
+        "wr": 53.3
+      },
+      "short": {
+        "t": 95,
+        "w": 40,
+        "wr": 42.1
+      }
+    },
+    {
+      "label": "4H-dir EMA100",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 85.96,
+      "dd": 4.8,
+      "trades": 25,
+      "wr": 60.0,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 4,
+        "w": 1,
+        "wr": 25.0
+      }
+    },
+    {
+      "label": "4H-dir EMA100",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 89.04,
+      "dd": 10.9,
+      "trades": 36,
+      "wr": 58.3,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 3,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-above EMA20",
+      "period": "Full 6y",
+      "profit": 98225239.18,
+      "dd": 26.2,
+      "trades": 4476,
+      "wr": 61.0,
+      "ruined": false,
+      "long": {
+        "t": 1869,
+        "w": 1091,
+        "wr": 58.4
+      },
+      "short": {
+        "t": 2607,
+        "w": 1639,
+        "wr": 62.9
+      }
+    },
+    {
+      "label": "4H-dir EMA100",
+      "period": "2026 YTD",
+      "profit": 1007.7,
+      "dd": 19.3,
+      "trades": 314,
+      "wr": 57.3,
+      "ruined": false,
+      "long": {
+        "t": 105,
+        "w": 58,
+        "wr": 55.2
+      },
+      "short": {
+        "t": 209,
+        "w": 122,
+        "wr": 58.4
+      }
+    },
+    {
+      "label": "4H-dir EMA80",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 336.04,
+      "dd": 24.4,
+      "trades": 809,
+      "wr": 60.1,
+      "ruined": false,
+      "long": {
+        "t": 432,
+        "w": 251,
+        "wr": 58.1
+      },
+      "short": {
+        "t": 377,
+        "w": 235,
+        "wr": 62.3
+      }
+    },
+    {
+      "label": "4H-dir EMA80",
+      "period": "2025",
+      "profit": 1564.92,
+      "dd": 28.9,
+      "trades": 1131,
+      "wr": 56.4,
+      "ruined": false,
+      "long": {
+        "t": 450,
+        "w": 241,
+        "wr": 53.6
+      },
+      "short": {
+        "t": 681,
+        "w": 397,
+        "wr": 58.3
+      }
+    },
+    {
+      "label": "4H-dir EMA80",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "4H-dir EMA80",
+      "period": "2024 Bull",
+      "profit": 7462.06,
+      "dd": 18.4,
+      "trades": 1100,
+      "wr": 59.4,
+      "ruined": false,
+      "long": {
+        "t": 467,
+        "w": 257,
+        "wr": 55.0
+      },
+      "short": {
+        "t": 633,
+        "w": 396,
+        "wr": 62.6
+      }
+    },
+    {
+      "label": "4H-dir EMA80",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 11739.03,
+      "dd": 24.1,
+      "trades": 1171,
+      "wr": 62.9,
+      "ruined": false,
+      "long": {
+        "t": 393,
+        "w": 219,
+        "wr": 55.7
+      },
+      "short": {
+        "t": 778,
+        "w": 518,
+        "wr": 66.6
+      }
+    },
+    {
+      "label": "4H-dir EMA100",
+      "period": "2020 COVID",
+      "profit": -9.62,
+      "dd": 31.6,
+      "trades": 304,
+      "wr": 49.3,
+      "ruined": false,
+      "long": {
+        "t": 212,
+        "w": 113,
+        "wr": 53.3
+      },
+      "short": {
+        "t": 92,
+        "w": 37,
+        "wr": 40.2
+      }
+    },
+    {
+      "label": "4H-above EMA30",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 85.96,
+      "dd": 4.8,
+      "trades": 25,
+      "wr": 60.0,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 4,
+        "w": 1,
+        "wr": 25.0
+      }
+    },
+    {
+      "label": "4H-above EMA30",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 96.98,
+      "dd": 8.7,
+      "trades": 41,
+      "wr": 58.5,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 8,
+        "w": 3,
+        "wr": 37.5
+      }
+    },
+    {
+      "label": "4H-dir EMA100",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 289.4,
+      "dd": 25.6,
+      "trades": 772,
+      "wr": 60.4,
+      "ruined": false,
+      "long": {
+        "t": 413,
+        "w": 240,
+        "wr": 58.1
+      },
+      "short": {
+        "t": 359,
+        "w": 226,
+        "wr": 63.0
+      }
+    },
+    {
+      "label": "4H-above EMA30",
+      "period": "2026 YTD",
+      "profit": 1293.19,
+      "dd": 14.5,
+      "trades": 376,
+      "wr": 58.2,
+      "ruined": false,
+      "long": {
+        "t": 139,
+        "w": 72,
+        "wr": 51.8
+      },
+      "short": {
+        "t": 237,
+        "w": 147,
+        "wr": 62.0
+      }
+    },
+    {
+      "label": "4H-dir EMA100",
+      "period": "2025",
+      "profit": 2070.06,
+      "dd": 26.4,
+      "trades": 1084,
+      "wr": 57.2,
+      "ruined": false,
+      "long": {
+        "t": 421,
+        "w": 230,
+        "wr": 54.6
+      },
+      "short": {
+        "t": 663,
+        "w": 390,
+        "wr": 58.8
+      }
+    },
+    {
+      "label": "4H-dir EMA100",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-above EMA30",
+      "period": "Full 6y",
+      "profit": 42845581.14,
+      "dd": 26.2,
+      "trades": 4230,
+      "wr": 60.7,
+      "ruined": false,
+      "long": {
+        "t": 1739,
+        "w": 1010,
+        "wr": 58.1
+      },
+      "short": {
+        "t": 2491,
+        "w": 1559,
+        "wr": 62.6
+      }
+    },
+    {
+      "label": "4H-dir EMA100",
+      "period": "2024 Bull",
+      "profit": 6017.89,
+      "dd": 17.8,
+      "trades": 1054,
+      "wr": 58.9,
+      "ruined": false,
+      "long": {
+        "t": 449,
+        "w": 243,
+        "wr": 54.1
+      },
+      "short": {
+        "t": 605,
+        "w": 378,
+        "wr": 62.5
+      }
+    },
+    {
+      "label": "4H-dir EMA100",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 9942.98,
+      "dd": 24.2,
+      "trades": 1131,
+      "wr": 62.7,
+      "ruined": false,
+      "long": {
+        "t": 358,
+        "w": 196,
+        "wr": 54.7
+      },
+      "short": {
+        "t": 773,
+        "w": 513,
+        "wr": 66.4
+      }
+    },
+    {
+      "label": "4H-above EMA50",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 85.96,
+      "dd": 4.8,
+      "trades": 25,
+      "wr": 60.0,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 4,
+        "w": 1,
+        "wr": 25.0
+      }
+    },
+    {
+      "label": "4H-above EMA30",
+      "period": "2020 COVID",
+      "profit": 58.26,
+      "dd": 28.5,
+      "trades": 333,
+      "wr": 50.2,
+      "ruined": false,
+      "long": {
+        "t": 219,
+        "w": 117,
+        "wr": 53.4
+      },
+      "short": {
+        "t": 114,
+        "w": 50,
+        "wr": 43.9
+      }
+    },
+    {
+      "label": "4H-above EMA50",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 85.09,
+      "dd": 11.4,
+      "trades": 38,
+      "wr": 57.9,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 5,
+        "w": 1,
+        "wr": 20.0
+      }
+    },
+    {
+      "label": "4H-above EMA50",
+      "period": "2026 YTD",
+      "profit": 1271.54,
+      "dd": 16.2,
+      "trades": 360,
+      "wr": 58.3,
+      "ruined": false,
+      "long": {
+        "t": 129,
+        "w": 69,
+        "wr": 53.5
+      },
+      "short": {
+        "t": 231,
+        "w": 141,
+        "wr": 61.0
+      }
+    },
+    {
+      "label": "4H-above EMA30",
+      "period": "2025",
+      "profit": 2881.24,
+      "dd": 25.7,
+      "trades": 1260,
+      "wr": 57.1,
+      "ruined": false,
+      "long": {
+        "t": 532,
+        "w": 283,
+        "wr": 53.2
+      },
+      "short": {
+        "t": 728,
+        "w": 436,
+        "wr": 59.9
+      }
+    },
+    {
+      "label": "4H-above EMA30",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 790.26,
+      "dd": 22.4,
+      "trades": 936,
+      "wr": 61.1,
+      "ruined": false,
+      "long": {
+        "t": 494,
+        "w": 290,
+        "wr": 58.7
+      },
+      "short": {
+        "t": 442,
+        "w": 282,
+        "wr": 63.8
+      }
+    },
+    {
+      "label": "4H-above EMA30",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "1D-above EMA50",
+      "period": "Full 6y",
+      "profit": 9893336.64,
+      "dd": 31.9,
+      "trades": 4046,
+      "wr": 60.4,
+      "ruined": false,
+      "long": {
+        "t": 1647,
+        "w": 941,
+        "wr": 57.1
+      },
+      "short": {
+        "t": 2399,
+        "w": 1501,
+        "wr": 62.6
+      }
+    },
+    {
+      "label": "4H-above EMA30",
+      "period": "2024 Bull",
+      "profit": 10943.68,
+      "dd": 20.2,
+      "trades": 1262,
+      "wr": 59.0,
+      "ruined": false,
+      "long": {
+        "t": 541,
+        "w": 287,
+        "wr": 53.0
+      },
+      "short": {
+        "t": 721,
+        "w": 458,
+        "wr": 63.5
+      }
+    },
+    {
+      "label": "4H-above EMA30",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 17758.0,
+      "dd": 17.7,
+      "trades": 1330,
+      "wr": 62.7,
+      "ruined": false,
+      "long": {
+        "t": 492,
+        "w": 274,
+        "wr": 55.7
+      },
+      "short": {
+        "t": 838,
+        "w": 560,
+        "wr": 66.8
+      }
+    },
+    {
+      "label": "4H-above EMA80",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 85.96,
+      "dd": 4.8,
+      "trades": 25,
+      "wr": 60.0,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 4,
+        "w": 1,
+        "wr": 25.0
+      }
+    },
+    {
+      "label": "4H-above EMA50",
+      "period": "2020 COVID",
+      "profit": 37.49,
+      "dd": 26.8,
+      "trades": 318,
+      "wr": 49.7,
+      "ruined": false,
+      "long": {
+        "t": 215,
+        "w": 114,
+        "wr": 53.0
+      },
+      "short": {
+        "t": 103,
+        "w": 44,
+        "wr": 42.7
+      }
+    },
+    {
+      "label": "4H-above EMA80",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 94.67,
+      "dd": 10.1,
+      "trades": 37,
+      "wr": 59.5,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 4,
+        "w": 1,
+        "wr": 25.0
+      }
+    },
+    {
+      "label": "4H-above EMA50",
+      "period": "2025",
+      "profit": 2361.11,
+      "dd": 25.5,
+      "trades": 1194,
+      "wr": 56.7,
+      "ruined": false,
+      "long": {
+        "t": 497,
+        "w": 269,
+        "wr": 54.1
+      },
+      "short": {
+        "t": 697,
+        "w": 408,
+        "wr": 58.5
+      }
+    },
+    {
+      "label": "4H-above EMA80",
+      "period": "2026 YTD",
+      "profit": 991.2,
+      "dd": 18.2,
+      "trades": 327,
+      "wr": 57.5,
+      "ruined": false,
+      "long": {
+        "t": 112,
+        "w": 62,
+        "wr": 55.4
+      },
+      "short": {
+        "t": 215,
+        "w": 126,
+        "wr": 58.6
+      }
+    },
+    {
+      "label": "4H-above EMA50",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 519.0,
+      "dd": 24.3,
+      "trades": 882,
+      "wr": 60.2,
+      "ruined": false,
+      "long": {
+        "t": 466,
+        "w": 274,
+        "wr": 58.8
+      },
+      "short": {
+        "t": 416,
+        "w": 257,
+        "wr": 61.8
+      }
+    },
+    {
+      "label": "4H-dir EMA30",
+      "period": "Full 6y",
+      "profit": 31639850.67,
+      "dd": 28.5,
+      "trades": 5490,
+      "wr": 59.1,
+      "ruined": false,
+      "long": {
+        "t": 2426,
+        "w": 1331,
+        "wr": 54.9
+      },
+      "short": {
+        "t": 3064,
+        "w": 1915,
+        "wr": 62.5
+      }
+    },
+    {
+      "label": "4H-above EMA50",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "4H-above EMA50",
+      "period": "2024 Bull",
+      "profit": 9272.82,
+      "dd": 18.3,
+      "trades": 1178,
+      "wr": 59.2,
+      "ruined": false,
+      "long": {
+        "t": 507,
+        "w": 275,
+        "wr": 54.2
+      },
+      "short": {
+        "t": 671,
+        "w": 422,
+        "wr": 62.9
+      }
+    },
+    {
+      "label": "4H-above EMA50",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 13083.24,
+      "dd": 25.2,
+      "trades": 1257,
+      "wr": 62.1,
+      "ruined": false,
+      "long": {
+        "t": 447,
+        "w": 243,
+        "wr": 54.4
+      },
+      "short": {
+        "t": 810,
+        "w": 538,
+        "wr": 66.4
+      }
+    },
+    {
+      "label": "4H-above EMA100",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 85.96,
+      "dd": 4.8,
+      "trades": 25,
+      "wr": 60.0,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 14,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 4,
+        "w": 1,
+        "wr": 25.0
+      }
+    },
+    {
+      "label": "4H-above EMA80",
+      "period": "2020 COVID",
+      "profit": 25.96,
+      "dd": 27.8,
+      "trades": 307,
+      "wr": 49.8,
+      "ruined": false,
+      "long": {
+        "t": 212,
+        "w": 113,
+        "wr": 53.3
+      },
+      "short": {
+        "t": 95,
+        "w": 40,
+        "wr": 42.1
+      }
+    },
+    {
+      "label": "4H-above EMA100",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 89.04,
+      "dd": 10.9,
+      "trades": 36,
+      "wr": 58.3,
+      "ruined": false,
+      "long": {
+        "t": 33,
+        "w": 21,
+        "wr": 63.6
+      },
+      "short": {
+        "t": 3,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "4H-above EMA80",
+      "period": "2025",
+      "profit": 1564.92,
+      "dd": 28.9,
+      "trades": 1131,
+      "wr": 56.4,
+      "ruined": false,
+      "long": {
+        "t": 450,
+        "w": 241,
+        "wr": 53.6
+      },
+      "short": {
+        "t": 681,
+        "w": 397,
+        "wr": 58.3
+      }
+    },
+    {
+      "label": "4H-above EMA100",
+      "period": "2026 YTD",
+      "profit": 1007.7,
+      "dd": 19.3,
+      "trades": 314,
+      "wr": 57.3,
+      "ruined": false,
+      "long": {
+        "t": 105,
+        "w": 58,
+        "wr": 55.2
+      },
+      "short": {
+        "t": 209,
+        "w": 122,
+        "wr": 58.4
+      }
+    },
+    {
+      "label": "4H-above EMA80",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 336.04,
+      "dd": 24.4,
+      "trades": 809,
+      "wr": 60.1,
+      "ruined": false,
+      "long": {
+        "t": 432,
+        "w": 251,
+        "wr": 58.1
+      },
+      "short": {
+        "t": 377,
+        "w": 235,
+        "wr": 62.3
+      }
+    },
+    {
+      "label": "4H-above EMA80",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "4H-above EMA80",
+      "period": "2024 Bull",
+      "profit": 7462.06,
+      "dd": 18.4,
+      "trades": 1100,
+      "wr": 59.4,
+      "ruined": false,
+      "long": {
+        "t": 467,
+        "w": 257,
+        "wr": 55.0
+      },
+      "short": {
+        "t": 633,
+        "w": 396,
+        "wr": 62.6
+      }
+    },
+    {
+      "label": "4H-dir EMA50",
+      "period": "Full 6y",
+      "profit": 12429001.61,
+      "dd": 26.8,
+      "trades": 5181,
+      "wr": 58.7,
+      "ruined": false,
+      "long": {
+        "t": 2264,
+        "w": 1248,
+        "wr": 55.1
+      },
+      "short": {
+        "t": 2917,
+        "w": 1794,
+        "wr": 61.5
+      }
+    },
+    {
+      "label": "4H-above EMA80",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 11739.03,
+      "dd": 24.1,
+      "trades": 1171,
+      "wr": 62.9,
+      "ruined": false,
+      "long": {
+        "t": 393,
+        "w": 219,
+        "wr": 55.7
+      },
+      "short": {
+        "t": 778,
+        "w": 518,
+        "wr": 66.6
+      }
+    },
+    {
+      "label": "Ribbon5 (3-21)",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 84.08,
+      "dd": 5.1,
+      "trades": 24,
+      "wr": 58.3,
+      "ruined": false,
+      "long": {
+        "t": 18,
+        "w": 12,
+        "wr": 66.7
+      },
+      "short": {
+        "t": 6,
+        "w": 2,
+        "wr": 33.3
+      }
+    },
+    {
+      "label": "4H-above EMA100",
+      "period": "2020 COVID",
+      "profit": -9.62,
+      "dd": 31.6,
+      "trades": 304,
+      "wr": 49.3,
+      "ruined": false,
+      "long": {
+        "t": 212,
+        "w": 113,
+        "wr": 53.3
+      },
+      "short": {
+        "t": 92,
+        "w": 37,
+        "wr": 40.2
+      }
+    },
+    {
+      "label": "Ribbon5 (3-21)",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 63.71,
+      "dd": 11.7,
+      "trades": 39,
+      "wr": 53.8,
+      "ruined": false,
+      "long": {
+        "t": 28,
+        "w": 18,
+        "wr": 64.3
+      },
+      "short": {
+        "t": 11,
+        "w": 3,
+        "wr": 27.3
+      }
+    },
+    {
+      "label": "4H-above EMA100",
+      "period": "2025",
+      "profit": 2070.06,
+      "dd": 26.4,
+      "trades": 1084,
+      "wr": 57.2,
+      "ruined": false,
+      "long": {
+        "t": 421,
+        "w": 230,
+        "wr": 54.6
+      },
+      "short": {
+        "t": 663,
+        "w": 390,
+        "wr": 58.8
+      }
+    },
+    {
+      "label": "Ribbon5 (3-21)",
+      "period": "2026 YTD",
+      "profit": 686.01,
+      "dd": 21.5,
+      "trades": 347,
+      "wr": 55.0,
+      "ruined": false,
+      "long": {
+        "t": 136,
+        "w": 66,
+        "wr": 48.5
+      },
+      "short": {
+        "t": 211,
+        "w": 125,
+        "wr": 59.2
+      }
+    },
+    {
+      "label": "4H-above EMA100",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 289.4,
+      "dd": 25.6,
+      "trades": 772,
+      "wr": 60.4,
+      "ruined": false,
+      "long": {
+        "t": 413,
+        "w": 240,
+        "wr": 58.1
+      },
+      "short": {
+        "t": 359,
+        "w": 226,
+        "wr": 63.0
+      }
+    },
+    {
+      "label": "4H-above EMA100",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "4H-dir EMA80",
+      "period": "Full 6y",
+      "profit": 5847655.19,
+      "dd": 28.3,
+      "trades": 4839,
+      "wr": 58.9,
+      "ruined": false,
+      "long": {
+        "t": 2064,
+        "w": 1147,
+        "wr": 55.6
+      },
+      "short": {
+        "t": 2775,
+        "w": 1704,
+        "wr": 61.4
+      }
+    },
+    {
+      "label": "4H-above EMA100",
+      "period": "2024 Bull",
+      "profit": 6017.89,
+      "dd": 17.8,
+      "trades": 1054,
+      "wr": 58.9,
+      "ruined": false,
+      "long": {
+        "t": 449,
+        "w": 243,
+        "wr": 54.1
+      },
+      "short": {
+        "t": 605,
+        "w": 378,
+        "wr": 62.5
+      }
+    },
+    {
+      "label": "4H-above EMA100",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 9942.98,
+      "dd": 24.2,
+      "trades": 1131,
+      "wr": 62.7,
+      "ruined": false,
+      "long": {
+        "t": 358,
+        "w": 196,
+        "wr": 54.7
+      },
+      "short": {
+        "t": 773,
+        "w": 513,
+        "wr": 66.4
+      }
+    },
+    {
+      "label": "Ribbon5 (3-34)",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 70.76,
+      "dd": 5.3,
+      "trades": 22,
+      "wr": 59.1,
+      "ruined": false,
+      "long": {
+        "t": 17,
+        "w": 13,
+        "wr": 76.5
+      },
+      "short": {
+        "t": 5,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "Ribbon5 (3-21)",
+      "period": "2020 COVID",
+      "profit": -201.87,
+      "dd": 45.3,
+      "trades": 316,
+      "wr": 45.6,
+      "ruined": false,
+      "long": {
+        "t": 195,
+        "w": 96,
+        "wr": 49.2
+      },
+      "short": {
+        "t": 121,
+        "w": 48,
+        "wr": 39.7
+      }
+    },
+    {
+      "label": "Ribbon5 (3-34)",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 40.49,
+      "dd": 13.2,
+      "trades": 38,
+      "wr": 52.6,
+      "ruined": false,
+      "long": {
+        "t": 28,
+        "w": 19,
+        "wr": 67.9
+      },
+      "short": {
+        "t": 10,
+        "w": 1,
+        "wr": 10.0
+      }
+    },
+    {
+      "label": "Ribbon5 (3-34)",
+      "period": "2026 YTD",
+      "profit": 668.07,
+      "dd": 20.0,
+      "trades": 358,
+      "wr": 55.0,
+      "ruined": false,
+      "long": {
+        "t": 140,
+        "w": 68,
+        "wr": 48.6
+      },
+      "short": {
+        "t": 218,
+        "w": 129,
+        "wr": 59.2
+      }
+    },
+    {
+      "label": "Ribbon5 (3-21)",
+      "period": "2025",
+      "profit": 304.07,
+      "dd": 38.6,
+      "trades": 1160,
+      "wr": 53.4,
+      "ruined": false,
+      "long": {
+        "t": 507,
+        "w": 247,
+        "wr": 48.7
+      },
+      "short": {
+        "t": 653,
+        "w": 373,
+        "wr": 57.1
+      }
+    },
+    {
+      "label": "Ribbon5 (3-21)",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 556.58,
+      "dd": 23.7,
+      "trades": 827,
+      "wr": 60.0,
+      "ruined": false,
+      "long": {
+        "t": 431,
+        "w": 246,
+        "wr": 57.1
+      },
+      "short": {
+        "t": 396,
+        "w": 250,
+        "wr": 63.1
+      }
+    },
+    {
+      "label": "Ribbon5 (3-21)",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "4H-dir EMA100",
+      "period": "Full 6y",
+      "profit": 3849611.4,
+      "dd": 31.6,
+      "trades": 4653,
+      "wr": 58.9,
+      "ruined": false,
+      "long": {
+        "t": 1958,
+        "w": 1084,
+        "wr": 55.4
+      },
+      "short": {
+        "t": 2695,
+        "w": 1655,
+        "wr": 61.4
+      }
+    },
+    {
+      "label": "Ribbon5 (3-21)",
+      "period": "2024 Bull",
+      "profit": 3498.73,
+      "dd": 26.9,
+      "trades": 1177,
+      "wr": 56.7,
+      "ruined": false,
+      "long": {
+        "t": 485,
+        "w": 255,
+        "wr": 52.6
+      },
+      "short": {
+        "t": 692,
+        "w": 412,
+        "wr": 59.5
+      }
+    },
+    {
+      "label": "Ribbon5 (3-21)",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 9576.35,
+      "dd": 15.8,
+      "trades": 1214,
+      "wr": 61.0,
+      "ruined": false,
+      "long": {
+        "t": 471,
+        "w": 256,
+        "wr": 54.4
+      },
+      "short": {
+        "t": 743,
+        "w": 485,
+        "wr": 65.3
+      }
+    },
+    {
+      "label": "Ribbon6 (5-55)",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 60.86,
+      "dd": 5.3,
+      "trades": 22,
+      "wr": 54.5,
+      "ruined": false,
+      "long": {
+        "t": 19,
+        "w": 12,
+        "wr": 63.2
+      },
+      "short": {
+        "t": 3,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "Ribbon5 (3-34)",
+      "period": "2020 COVID",
+      "profit": -169.19,
+      "dd": 41.8,
+      "trades": 313,
+      "wr": 46.3,
+      "ruined": false,
+      "long": {
+        "t": 196,
+        "w": 98,
+        "wr": 50.0
+      },
+      "short": {
+        "t": 117,
+        "w": 47,
+        "wr": 40.2
+      }
+    },
+    {
+      "label": "Ribbon6 (5-55)",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 70.22,
+      "dd": 11.3,
+      "trades": 36,
+      "wr": 55.6,
+      "ruined": false,
+      "long": {
+        "t": 31,
+        "w": 19,
+        "wr": 61.3
+      },
+      "short": {
+        "t": 5,
+        "w": 1,
+        "wr": 20.0
+      }
+    },
+    {
+      "label": "Ribbon6 (5-55)",
+      "period": "2026 YTD",
+      "profit": 728.32,
+      "dd": 16.9,
+      "trades": 353,
+      "wr": 55.8,
+      "ruined": false,
+      "long": {
+        "t": 134,
+        "w": 65,
+        "wr": 48.5
+      },
+      "short": {
+        "t": 219,
+        "w": 132,
+        "wr": 60.3
+      }
+    },
+    {
+      "label": "Ribbon5 (3-34)",
+      "period": "2025",
+      "profit": 268.36,
+      "dd": 41.1,
+      "trades": 1194,
+      "wr": 53.9,
+      "ruined": false,
+      "long": {
+        "t": 521,
+        "w": 250,
+        "wr": 48.0
+      },
+      "short": {
+        "t": 673,
+        "w": 394,
+        "wr": 58.5
+      }
+    },
+    {
+      "label": "4H-above EMA30",
+      "period": "Full 6y",
+      "profit": 31639850.67,
+      "dd": 28.5,
+      "trades": 5490,
+      "wr": 59.1,
+      "ruined": false,
+      "long": {
+        "t": 2426,
+        "w": 1331,
+        "wr": 54.9
+      },
+      "short": {
+        "t": 3064,
+        "w": 1915,
+        "wr": 62.5
+      }
+    },
+    {
+      "label": "Ribbon5 (3-34)",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 187.11,
+      "dd": 27.6,
+      "trades": 867,
+      "wr": 58.8,
+      "ruined": false,
+      "long": {
+        "t": 452,
+        "w": 254,
+        "wr": 56.2
+      },
+      "short": {
+        "t": 415,
+        "w": 256,
+        "wr": 61.7
+      }
+    },
+    {
+      "label": "Ribbon5 (3-34)",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "Ribbon5 (3-34)",
+      "period": "2024 Bull",
+      "profit": 2873.42,
+      "dd": 29.1,
+      "trades": 1200,
+      "wr": 56.3,
+      "ruined": false,
+      "long": {
+        "t": 510,
+        "w": 270,
+        "wr": 52.9
+      },
+      "short": {
+        "t": 690,
+        "w": 406,
+        "wr": 58.8
+      }
+    },
+    {
+      "label": "Ribbon5 (3-34)",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 10114.56,
+      "dd": 17.5,
+      "trades": 1247,
+      "wr": 61.3,
+      "ruined": false,
+      "long": {
+        "t": 468,
+        "w": 255,
+        "wr": 54.5
+      },
+      "short": {
+        "t": 779,
+        "w": 510,
+        "wr": 65.5
+      }
+    },
+    {
+      "label": "Ribbon6 (5-55)",
+      "period": "2020 COVID",
+      "profit": -185.02,
+      "dd": 44.4,
+      "trades": 294,
+      "wr": 45.9,
+      "ruined": false,
+      "long": {
+        "t": 195,
+        "w": 99,
+        "wr": 50.8
+      },
+      "short": {
+        "t": 99,
+        "w": 36,
+        "wr": 36.4
+      }
+    },
+    {
+      "label": "Ribbon4 (3-13)",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 92.98,
+      "dd": 5.1,
+      "trades": 23,
+      "wr": 60.9,
+      "ruined": false,
+      "long": {
+        "t": 16,
+        "w": 12,
+        "wr": 75.0
+      },
+      "short": {
+        "t": 7,
+        "w": 2,
+        "wr": 28.6
+      }
+    },
+    {
+      "label": "Ribbon4 (3-13)",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 72.29,
+      "dd": 11.7,
+      "trades": 38,
+      "wr": 55.3,
+      "ruined": false,
+      "long": {
+        "t": 26,
+        "w": 18,
+        "wr": 69.2
+      },
+      "short": {
+        "t": 12,
+        "w": 3,
+        "wr": 25.0
+      }
+    },
+    {
+      "label": "Ribbon4 (3-13)",
+      "period": "2026 YTD",
+      "profit": 590.37,
+      "dd": 20.0,
+      "trades": 361,
+      "wr": 54.3,
+      "ruined": false,
+      "long": {
+        "t": 140,
+        "w": 67,
+        "wr": 47.9
+      },
+      "short": {
+        "t": 221,
+        "w": 129,
+        "wr": 58.4
+      }
+    },
+    {
+      "label": "Ribbon6 (5-55)",
+      "period": "2025",
+      "profit": 620.59,
+      "dd": 33.9,
+      "trades": 1140,
+      "wr": 54.9,
+      "ruined": false,
+      "long": {
+        "t": 496,
+        "w": 256,
+        "wr": 51.6
+      },
+      "short": {
+        "t": 644,
+        "w": 370,
+        "wr": 57.5
+      }
+    },
+    {
+      "label": "4H-above EMA50",
+      "period": "Full 6y",
+      "profit": 12429001.61,
+      "dd": 26.8,
+      "trades": 5181,
+      "wr": 58.7,
+      "ruined": false,
+      "long": {
+        "t": 2264,
+        "w": 1248,
+        "wr": 55.1
+      },
+      "short": {
+        "t": 2917,
+        "w": 1794,
+        "wr": 61.5
+      }
+    },
+    {
+      "label": "Ribbon6 (5-55)",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 34.29,
+      "dd": 32.6,
+      "trades": 849,
+      "wr": 58.0,
+      "ruined": false,
+      "long": {
+        "t": 447,
+        "w": 253,
+        "wr": 56.6
+      },
+      "short": {
+        "t": 402,
+        "w": 239,
+        "wr": 59.5
+      }
+    },
+    {
+      "label": "Ribbon6 (5-55)",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "Ribbon6 (5-55)",
+      "period": "2024 Bull",
+      "profit": 2679.47,
+      "dd": 26.5,
+      "trades": 1152,
+      "wr": 56.8,
+      "ruined": false,
+      "long": {
+        "t": 493,
+        "w": 260,
+        "wr": 52.7
+      },
+      "short": {
+        "t": 659,
+        "w": 394,
+        "wr": 59.8
+      }
+    },
+    {
+      "label": "Ribbon6 (5-55)",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 5368.47,
+      "dd": 19.5,
+      "trades": 1187,
+      "wr": 60.7,
+      "ruined": false,
+      "long": {
+        "t": 435,
+        "w": 228,
+        "wr": 52.4
+      },
+      "short": {
+        "t": 752,
+        "w": 492,
+        "wr": 65.4
+      }
+    },
+    {
+      "label": "Ribbon4 (3-13)",
+      "period": "2020 COVID",
+      "profit": -173.67,
+      "dd": 42.5,
+      "trades": 322,
+      "wr": 46.0,
+      "ruined": false,
+      "long": {
+        "t": 197,
+        "w": 98,
+        "wr": 49.7
+      },
+      "short": {
+        "t": 125,
+        "w": 50,
+        "wr": 40.0
+      }
+    },
+    {
+      "label": "Ribbon7 (3-55)",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 59.4,
+      "dd": 5.3,
+      "trades": 22,
+      "wr": 54.5,
+      "ruined": false,
+      "long": {
+        "t": 19,
+        "w": 12,
+        "wr": 63.2
+      },
+      "short": {
+        "t": 3,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "Ribbon7 (3-55)",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 70.48,
+      "dd": 10.3,
+      "trades": 34,
+      "wr": 55.9,
+      "ruined": false,
+      "long": {
+        "t": 29,
+        "w": 18,
+        "wr": 62.1
+      },
+      "short": {
+        "t": 5,
+        "w": 1,
+        "wr": 20.0
+      }
+    },
+    {
+      "label": "Ribbon4 (3-13)",
+      "period": "2025",
+      "profit": 99.08,
+      "dd": 39.3,
+      "trades": 1195,
+      "wr": 52.8,
+      "ruined": false,
+      "long": {
+        "t": 520,
+        "w": 250,
+        "wr": 48.1
+      },
+      "short": {
+        "t": 675,
+        "w": 381,
+        "wr": 56.4
+      }
+    },
+    {
+      "label": "Ribbon4 (3-13)",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 499.66,
+      "dd": 26.3,
+      "trades": 845,
+      "wr": 59.8,
+      "ruined": false,
+      "long": {
+        "t": 439,
+        "w": 251,
+        "wr": 57.2
+      },
+      "short": {
+        "t": 406,
+        "w": 254,
+        "wr": 62.6
+      }
+    },
+    {
+      "label": "Ribbon7 (3-55)",
+      "period": "2026 YTD",
+      "profit": 513.6,
+      "dd": 19.5,
+      "trades": 328,
+      "wr": 54.6,
+      "ruined": false,
+      "long": {
+        "t": 125,
+        "w": 59,
+        "wr": 47.2
+      },
+      "short": {
+        "t": 203,
+        "w": 120,
+        "wr": 59.1
+      }
+    },
+    {
+      "label": "4H-above EMA80",
+      "period": "Full 6y",
+      "profit": 5847655.19,
+      "dd": 28.3,
+      "trades": 4839,
+      "wr": 58.9,
+      "ruined": false,
+      "long": {
+        "t": 2064,
+        "w": 1147,
+        "wr": 55.6
+      },
+      "short": {
+        "t": 2775,
+        "w": 1704,
+        "wr": 61.4
+      }
+    },
+    {
+      "label": "Ribbon4 (3-13)",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "Ribbon4 (3-13)",
+      "period": "2024 Bull",
+      "profit": 3872.93,
+      "dd": 24.2,
+      "trades": 1205,
+      "wr": 56.8,
+      "ruined": false,
+      "long": {
+        "t": 489,
+        "w": 258,
+        "wr": 52.8
+      },
+      "short": {
+        "t": 716,
+        "w": 426,
+        "wr": 59.5
+      }
+    },
+    {
+      "label": "Ribbon4 (3-13)",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 10058.68,
+      "dd": 20.3,
+      "trades": 1258,
+      "wr": 61.0,
+      "ruined": false,
+      "long": {
+        "t": 481,
+        "w": 264,
+        "wr": 54.9
+      },
+      "short": {
+        "t": 777,
+        "w": 503,
+        "wr": 64.7
+      }
+    },
+    {
+      "label": "PD long3/15 short5/18",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 100.47,
+      "dd": 4.8,
+      "trades": 26,
+      "wr": 61.5,
+      "ruined": false,
+      "long": {
+        "t": 19,
+        "w": 13,
+        "wr": 68.4
+      },
+      "short": {
+        "t": 7,
+        "w": 3,
+        "wr": 42.9
+      }
+    },
+    {
+      "label": "Ribbon7 (3-55)",
+      "period": "2020 COVID",
+      "profit": -219.69,
+      "dd": 46.9,
+      "trades": 269,
+      "wr": 44.6,
+      "ruined": false,
+      "long": {
+        "t": 177,
+        "w": 86,
+        "wr": 48.6
+      },
+      "short": {
+        "t": 92,
+        "w": 34,
+        "wr": 37.0
+      }
+    },
+    {
+      "label": "PD long3/15 short5/18",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 74.62,
+      "dd": 11.9,
+      "trades": 40,
+      "wr": 55.0,
+      "ruined": false,
+      "long": {
+        "t": 31,
+        "w": 20,
+        "wr": 64.5
+      },
+      "short": {
+        "t": 9,
+        "w": 2,
+        "wr": 22.2
+      }
+    },
+    {
+      "label": "PD long3/15 short5/18",
+      "period": "2026 YTD",
+      "profit": 1599.42,
+      "dd": 19.3,
+      "trades": 382,
+      "wr": 59.2,
+      "ruined": false,
+      "long": {
+        "t": 156,
+        "w": 80,
+        "wr": 51.3
+      },
+      "short": {
+        "t": 226,
+        "w": 146,
+        "wr": 64.6
+      }
+    },
+    {
+      "label": "4H-above EMA100",
+      "period": "Full 6y",
+      "profit": 3849611.4,
+      "dd": 31.6,
+      "trades": 4653,
+      "wr": 58.9,
+      "ruined": false,
+      "long": {
+        "t": 1958,
+        "w": 1084,
+        "wr": 55.4
+      },
+      "short": {
+        "t": 2695,
+        "w": 1655,
+        "wr": 61.4
+      }
+    },
+    {
+      "label": "Ribbon7 (3-55)",
+      "period": "2025",
+      "profit": 154.67,
+      "dd": 40.1,
+      "trades": 1049,
+      "wr": 53.4,
+      "ruined": false,
+      "long": {
+        "t": 456,
+        "w": 225,
+        "wr": 49.3
+      },
+      "short": {
+        "t": 593,
+        "w": 335,
+        "wr": 56.5
+      }
+    },
+    {
+      "label": "Ribbon7 (3-55)",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 235.97,
+      "dd": 27.0,
+      "trades": 758,
+      "wr": 59.0,
+      "ruined": false,
+      "long": {
+        "t": 398,
+        "w": 225,
+        "wr": 56.5
+      },
+      "short": {
+        "t": 360,
+        "w": 222,
+        "wr": 61.7
+      }
+    },
+    {
+      "label": "Ribbon7 (3-55)",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "Ribbon7 (3-55)",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 4415.84,
+      "dd": 17.5,
+      "trades": 1103,
+      "wr": 60.2,
+      "ruined": false,
+      "long": {
+        "t": 411,
+        "w": 217,
+        "wr": 52.8
+      },
+      "short": {
+        "t": 692,
+        "w": 447,
+        "wr": 64.6
+      }
+    },
+    {
+      "label": "Ribbon7 (3-55)",
+      "period": "2024 Bull",
+      "profit": 2582.73,
+      "dd": 28.7,
+      "trades": 1054,
+      "wr": 56.9,
+      "ruined": false,
+      "long": {
+        "t": 441,
+        "w": 233,
+        "wr": 52.8
+      },
+      "short": {
+        "t": 613,
+        "w": 367,
+        "wr": 59.9
+      }
+    },
+    {
+      "label": "PD long3/15 short5/18",
+      "period": "2020 COVID",
+      "profit": -182.82,
+      "dd": 47.8,
+      "trades": 362,
+      "wr": 46.7,
+      "ruined": false,
+      "long": {
+        "t": 230,
+        "w": 118,
+        "wr": 51.3
+      },
+      "short": {
+        "t": 132,
+        "w": 51,
+        "wr": 38.6
+      }
+    },
+    {
+      "label": "PD long3/15 short5/21",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 100.47,
+      "dd": 4.8,
+      "trades": 26,
+      "wr": 61.5,
+      "ruined": false,
+      "long": {
+        "t": 19,
+        "w": 13,
+        "wr": 68.4
+      },
+      "short": {
+        "t": 7,
+        "w": 3,
+        "wr": 42.9
+      }
+    },
+    {
+      "label": "PD long3/15 short5/21",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 74.62,
+      "dd": 11.9,
+      "trades": 40,
+      "wr": 55.0,
+      "ruined": false,
+      "long": {
+        "t": 31,
+        "w": 20,
+        "wr": 64.5
+      },
+      "short": {
+        "t": 9,
+        "w": 2,
+        "wr": 22.2
+      }
+    },
+    {
+      "label": "PD long3/15 short5/18",
+      "period": "2025",
+      "profit": 939.91,
+      "dd": 27.5,
+      "trades": 1291,
+      "wr": 55.4,
+      "ruined": false,
+      "long": {
+        "t": 589,
+        "w": 302,
+        "wr": 51.3
+      },
+      "short": {
+        "t": 702,
+        "w": 413,
+        "wr": 58.8
+      }
+    },
+    {
+      "label": "PD long3/15 short5/18",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 91.87,
+      "dd": 33.2,
+      "trades": 961,
+      "wr": 59.7,
+      "ruined": false,
+      "long": {
+        "t": 522,
+        "w": 304,
+        "wr": 58.2
+      },
+      "short": {
+        "t": 439,
+        "w": 270,
+        "wr": 61.5
+      }
+    },
+    {
+      "label": "PD long3/15 short5/21",
+      "period": "2026 YTD",
+      "profit": 1614.8,
+      "dd": 19.3,
+      "trades": 382,
+      "wr": 59.2,
+      "ruined": false,
+      "long": {
+        "t": 156,
+        "w": 80,
+        "wr": 51.3
+      },
+      "short": {
+        "t": 226,
+        "w": 146,
+        "wr": 64.6
+      }
+    },
+    {
+      "label": "Ribbon5 (3-21)",
+      "period": "Full 6y",
+      "profit": 368168.58,
+      "dd": 46.4,
+      "trades": 5022,
+      "wr": 56.6,
+      "ruined": false,
+      "long": {
+        "t": 2237,
+        "w": 1177,
+        "wr": 52.6
+      },
+      "short": {
+        "t": 2785,
+        "w": 1666,
+        "wr": 59.8
+      }
+    },
+    {
+      "label": "PD long3/15 short5/18",
+      "period": "2024 Bull",
+      "profit": 5527.45,
+      "dd": 19.9,
+      "trades": 1315,
+      "wr": 56.9,
+      "ruined": false,
+      "long": {
+        "t": 569,
+        "w": 297,
+        "wr": 52.2
+      },
+      "short": {
+        "t": 746,
+        "w": 451,
+        "wr": 60.5
+      }
+    },
+    {
+      "label": "PD long3/15 short5/18",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "PD long3/15 short5/18",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 3712.93,
+      "dd": 31.0,
+      "trades": 1345,
+      "wr": 59.2,
+      "ruined": false,
+      "long": {
+        "t": 529,
+        "w": 287,
+        "wr": 54.3
+      },
+      "short": {
+        "t": 816,
+        "w": 509,
+        "wr": 62.4
+      }
+    },
+    {
+      "label": "PD long3/15 short3/12",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 87.87,
+      "dd": 4.8,
+      "trades": 27,
+      "wr": 59.3,
+      "ruined": false,
+      "long": {
+        "t": 19,
+        "w": 13,
+        "wr": 68.4
+      },
+      "short": {
+        "t": 8,
+        "w": 3,
+        "wr": 37.5
+      }
+    },
+    {
+      "label": "PD long3/15 short5/21",
+      "period": "2020 COVID",
+      "profit": -172.93,
+      "dd": 47.7,
+      "trades": 363,
+      "wr": 47.1,
+      "ruined": false,
+      "long": {
+        "t": 230,
+        "w": 118,
+        "wr": 51.3
+      },
+      "short": {
+        "t": 133,
+        "w": 53,
+        "wr": 39.8
+      }
+    },
+    {
+      "label": "PD long3/15 short3/12",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 63.75,
+      "dd": 11.7,
+      "trades": 44,
+      "wr": 54.5,
+      "ruined": false,
+      "long": {
+        "t": 31,
+        "w": 20,
+        "wr": 64.5
+      },
+      "short": {
+        "t": 13,
+        "w": 4,
+        "wr": 30.8
+      }
+    },
+    {
+      "label": "PD long3/15 short5/21",
+      "period": "2025",
+      "profit": 856.01,
+      "dd": 27.3,
+      "trades": 1297,
+      "wr": 55.3,
+      "ruined": false,
+      "long": {
+        "t": 587,
+        "w": 298,
+        "wr": 50.8
+      },
+      "short": {
+        "t": 710,
+        "w": 419,
+        "wr": 59.0
+      }
+    },
+    {
+      "label": "PD long3/15 short3/12",
+      "period": "2026 YTD",
+      "profit": 1057.28,
+      "dd": 20.1,
+      "trades": 397,
+      "wr": 56.7,
+      "ruined": false,
+      "long": {
+        "t": 154,
+        "w": 78,
+        "wr": 50.6
+      },
+      "short": {
+        "t": 243,
+        "w": 147,
+        "wr": 60.5
+      }
+    },
+    {
+      "label": "PD long3/15 short5/21",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 61.55,
+      "dd": 34.8,
+      "trades": 972,
+      "wr": 59.8,
+      "ruined": false,
+      "long": {
+        "t": 516,
+        "w": 300,
+        "wr": 58.1
+      },
+      "short": {
+        "t": 456,
+        "w": 281,
+        "wr": 61.6
+      }
+    },
+    {
+      "label": "PD long3/15 short5/21",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "PD long3/15 short5/21",
+      "period": "2024 Bull",
+      "profit": 5147.94,
+      "dd": 22.1,
+      "trades": 1322,
+      "wr": 56.6,
+      "ruined": false,
+      "long": {
+        "t": 562,
+        "w": 292,
+        "wr": 52.0
+      },
+      "short": {
+        "t": 760,
+        "w": 456,
+        "wr": 60.0
+      }
+    },
+    {
+      "label": "Ribbon5 (3-34)",
+      "period": "Full 6y",
+      "profit": 241499.96,
+      "dd": 44.1,
+      "trades": 5157,
+      "wr": 56.6,
+      "ruined": false,
+      "long": {
+        "t": 2298,
+        "w": 1206,
+        "wr": 52.5
+      },
+      "short": {
+        "t": 2859,
+        "w": 1713,
+        "wr": 59.9
+      }
+    },
+    {
+      "label": "PD long3/15 short5/21",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 4226.82,
+      "dd": 32.7,
+      "trades": 1345,
+      "wr": 59.3,
+      "ruined": false,
+      "long": {
+        "t": 523,
+        "w": 287,
+        "wr": 54.9
+      },
+      "short": {
+        "t": 822,
+        "w": 510,
+        "wr": 62.0
+      }
+    },
+    {
+      "label": "PD long3/12 short3/15",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 87.87,
+      "dd": 4.8,
+      "trades": 27,
+      "wr": 59.3,
+      "ruined": false,
+      "long": {
+        "t": 19,
+        "w": 13,
+        "wr": 68.4
+      },
+      "short": {
+        "t": 8,
+        "w": 3,
+        "wr": 37.5
+      }
+    },
+    {
+      "label": "PD long3/12 short3/15",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 65.06,
+      "dd": 10.2,
+      "trades": 46,
+      "wr": 54.3,
+      "ruined": false,
+      "long": {
+        "t": 32,
+        "w": 20,
+        "wr": 62.5
+      },
+      "short": {
+        "t": 14,
+        "w": 5,
+        "wr": 35.7
+      }
+    },
+    {
+      "label": "PD long3/15 short3/12",
+      "period": "2020 COVID",
+      "profit": -126.51,
+      "dd": 40.0,
+      "trades": 370,
+      "wr": 47.3,
+      "ruined": false,
+      "long": {
+        "t": 231,
+        "w": 119,
+        "wr": 51.5
+      },
+      "short": {
+        "t": 139,
+        "w": 56,
+        "wr": 40.3
+      }
+    },
+    {
+      "label": "PD long3/12 short3/15",
+      "period": "2026 YTD",
+      "profit": 1014.97,
+      "dd": 18.7,
+      "trades": 400,
+      "wr": 56.5,
+      "ruined": false,
+      "long": {
+        "t": 151,
+        "w": 75,
+        "wr": 49.7
+      },
+      "short": {
+        "t": 249,
+        "w": 151,
+        "wr": 60.6
+      }
+    },
+    {
+      "label": "PD long3/15 short3/12",
+      "period": "2025",
+      "profit": 1368.51,
+      "dd": 28.8,
+      "trades": 1338,
+      "wr": 55.3,
+      "ruined": false,
+      "long": {
+        "t": 588,
+        "w": 301,
+        "wr": 51.2
+      },
+      "short": {
+        "t": 750,
+        "w": 439,
+        "wr": 58.5
+      }
+    },
+    {
+      "label": "PD long3/15 short3/12",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 309.51,
+      "dd": 25.4,
+      "trades": 981,
+      "wr": 59.2,
+      "ruined": false,
+      "long": {
+        "t": 515,
+        "w": 298,
+        "wr": 57.9
+      },
+      "short": {
+        "t": 466,
+        "w": 283,
+        "wr": 60.7
+      }
+    },
+    {
+      "label": "PD long3/15 short3/12",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "PD long3/15 short3/12",
+      "period": "2024 Bull",
+      "profit": 5211.78,
+      "dd": 26.3,
+      "trades": 1352,
+      "wr": 56.7,
+      "ruined": false,
+      "long": {
+        "t": 569,
+        "w": 298,
+        "wr": 52.4
+      },
+      "short": {
+        "t": 783,
+        "w": 469,
+        "wr": 59.9
+      }
+    },
+    {
+      "label": "Ribbon6 (5-55)",
+      "period": "Full 6y",
+      "profit": 112880.86,
+      "dd": 52.4,
+      "trades": 4956,
+      "wr": 56.7,
+      "ruined": false,
+      "long": {
+        "t": 2205,
+        "w": 1169,
+        "wr": 53.0
+      },
+      "short": {
+        "t": 2751,
+        "w": 1643,
+        "wr": 59.7
+      }
+    },
+    {
+      "label": "PD long3/15 short3/12",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 9645.21,
+      "dd": 26.5,
+      "trades": 1398,
+      "wr": 60.8,
+      "ruined": false,
+      "long": {
+        "t": 532,
+        "w": 289,
+        "wr": 54.3
+      },
+      "short": {
+        "t": 866,
+        "w": 561,
+        "wr": 64.8
+      }
+    },
+    {
+      "label": "PD long5/18 short3/15",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 45.92,
+      "dd": 4.9,
+      "trades": 25,
+      "wr": 52.0,
+      "ruined": false,
+      "long": {
+        "t": 16,
+        "w": 10,
+        "wr": 62.5
+      },
+      "short": {
+        "t": 9,
+        "w": 3,
+        "wr": 33.3
+      }
+    },
+    {
+      "label": "PD long3/12 short3/15",
+      "period": "2020 COVID",
+      "profit": -150.42,
+      "dd": 43.3,
+      "trades": 362,
+      "wr": 46.7,
+      "ruined": false,
+      "long": {
+        "t": 224,
+        "w": 114,
+        "wr": 50.9
+      },
+      "short": {
+        "t": 138,
+        "w": 55,
+        "wr": 39.9
+      }
+    },
+    {
+      "label": "PD long5/18 short3/15",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 54.47,
+      "dd": 10.1,
+      "trades": 42,
+      "wr": 54.8,
+      "ruined": false,
+      "long": {
+        "t": 29,
+        "w": 18,
+        "wr": 62.1
+      },
+      "short": {
+        "t": 13,
+        "w": 5,
+        "wr": 38.5
+      }
+    },
+    {
+      "label": "PD long3/12 short3/15",
+      "period": "2025",
+      "profit": 1110.12,
+      "dd": 32.3,
+      "trades": 1328,
+      "wr": 54.9,
+      "ruined": false,
+      "long": {
+        "t": 573,
+        "w": 288,
+        "wr": 50.3
+      },
+      "short": {
+        "t": 755,
+        "w": 441,
+        "wr": 58.4
+      }
+    },
+    {
+      "label": "PD long5/18 short3/15",
+      "period": "2026 YTD",
+      "profit": 744.34,
+      "dd": 21.8,
+      "trades": 392,
+      "wr": 54.8,
+      "ruined": false,
+      "long": {
+        "t": 149,
+        "w": 70,
+        "wr": 47.0
+      },
+      "short": {
+        "t": 243,
+        "w": 145,
+        "wr": 59.7
+      }
+    },
+    {
+      "label": "PD long3/12 short3/15",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 232.78,
+      "dd": 25.0,
+      "trades": 990,
+      "wr": 59.0,
+      "ruined": false,
+      "long": {
+        "t": 509,
+        "w": 292,
+        "wr": 57.4
+      },
+      "short": {
+        "t": 481,
+        "w": 292,
+        "wr": 60.7
+      }
+    },
+    {
+      "label": "PD long3/12 short3/15",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "PD long3/12 short3/15",
+      "period": "2024 Bull",
+      "profit": 6421.59,
+      "dd": 17.6,
+      "trades": 1344,
+      "wr": 57.2,
+      "ruined": false,
+      "long": {
+        "t": 553,
+        "w": 289,
+        "wr": 52.3
+      },
+      "short": {
+        "t": 791,
+        "w": 480,
+        "wr": 60.7
+      }
+    },
+    {
+      "label": "Ribbon4 (3-13)",
+      "period": "Full 6y",
+      "profit": 385597.84,
+      "dd": 43.9,
+      "trades": 5167,
+      "wr": 56.5,
+      "ruined": false,
+      "long": {
+        "t": 2279,
+        "w": 1200,
+        "wr": 52.7
+      },
+      "short": {
+        "t": 2888,
+        "w": 1718,
+        "wr": 59.5
+      }
+    },
+    {
+      "label": "PD long3/12 short3/15",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 12827.41,
+      "dd": 23.0,
+      "trades": 1391,
+      "wr": 61.3,
+      "ruined": false,
+      "long": {
+        "t": 519,
+        "w": 283,
+        "wr": 54.5
+      },
+      "short": {
+        "t": 872,
+        "w": 569,
+        "wr": 65.3
+      }
+    },
+    {
+      "label": "PD long3/15 short2/12",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 86.84,
+      "dd": 4.8,
+      "trades": 27,
+      "wr": 59.3,
+      "ruined": false,
+      "long": {
+        "t": 19,
+        "w": 13,
+        "wr": 68.4
+      },
+      "short": {
+        "t": 8,
+        "w": 3,
+        "wr": 37.5
+      }
+    },
+    {
+      "label": "PD long5/18 short3/15",
+      "period": "2020 COVID",
+      "profit": -79.21,
+      "dd": 33.3,
+      "trades": 345,
+      "wr": 47.0,
+      "ruined": false,
+      "long": {
+        "t": 208,
+        "w": 108,
+        "wr": 51.9
+      },
+      "short": {
+        "t": 137,
+        "w": 54,
+        "wr": 39.4
+      }
+    },
+    {
+      "label": "PD long3/15 short2/12",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 59.14,
+      "dd": 13.6,
+      "trades": 44,
+      "wr": 54.5,
+      "ruined": false,
+      "long": {
+        "t": 31,
+        "w": 20,
+        "wr": 64.5
+      },
+      "short": {
+        "t": 13,
+        "w": 4,
+        "wr": 30.8
+      }
+    },
+    {
+      "label": "PD long5/18 short3/15",
+      "period": "2025",
+      "profit": 681.16,
+      "dd": 33.6,
+      "trades": 1307,
+      "wr": 54.7,
+      "ruined": false,
+      "long": {
+        "t": 552,
+        "w": 274,
+        "wr": 49.6
+      },
+      "short": {
+        "t": 755,
+        "w": 441,
+        "wr": 58.4
+      }
+    },
+    {
+      "label": "PD long3/15 short2/12",
+      "period": "2026 YTD",
+      "profit": 532.75,
+      "dd": 23.2,
+      "trades": 396,
+      "wr": 54.0,
+      "ruined": false,
+      "long": {
+        "t": 155,
+        "w": 79,
+        "wr": 51.0
+      },
+      "short": {
+        "t": 241,
+        "w": 135,
+        "wr": 56.0
+      }
+    },
+    {
+      "label": "PD long5/18 short3/15",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 192.08,
+      "dd": 27.4,
+      "trades": 950,
+      "wr": 59.1,
+      "ruined": false,
+      "long": {
+        "t": 473,
+        "w": 271,
+        "wr": 57.3
+      },
+      "short": {
+        "t": 477,
+        "w": 290,
+        "wr": 60.8
+      }
+    },
+    {
+      "label": "PD long5/18 short3/15",
+      "period": "2024 Bull",
+      "profit": 5605.76,
+      "dd": 22.3,
+      "trades": 1303,
+      "wr": 56.9,
+      "ruined": false,
+      "long": {
+        "t": 520,
+        "w": 271,
+        "wr": 52.1
+      },
+      "short": {
+        "t": 783,
+        "w": 470,
+        "wr": 60.0
+      }
+    },
+    {
+      "label": "PD long5/18 short3/15",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "PD long5/18 short3/15",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 16830.28,
+      "dd": 22.1,
+      "trades": 1349,
+      "wr": 62.6,
+      "ruined": false,
+      "long": {
+        "t": 477,
+        "w": 276,
+        "wr": 57.9
+      },
+      "short": {
+        "t": 872,
+        "w": 569,
+        "wr": 65.3
+      }
+    },
+    {
+      "label": "PD long3/15 short2/12",
+      "period": "2020 COVID",
+      "profit": -48.77,
+      "dd": 35.9,
+      "trades": 381,
+      "wr": 48.3,
+      "ruined": false,
+      "long": {
+        "t": 230,
+        "w": 120,
+        "wr": 52.2
+      },
+      "short": {
+        "t": 151,
+        "w": 64,
+        "wr": 42.4
+      }
+    },
+    {
+      "label": "PD long2/15 short3/15",
+      "period": "\uc2e4\uc804\uae30\uac04",
+      "profit": 68.84,
+      "dd": 4.9,
+      "trades": 29,
+      "wr": 55.2,
+      "ruined": false,
+      "long": {
+        "t": 21,
+        "w": 13,
+        "wr": 61.9
+      },
+      "short": {
+        "t": 8,
+        "w": 3,
+        "wr": 37.5
+      }
+    },
+    {
+      "label": "PD long2/15 short3/15",
+      "period": "\ucd5c\uadfc2\uc8fc",
+      "profit": 147.16,
+      "dd": 8.6,
+      "trades": 51,
+      "wr": 58.8,
+      "ruined": false,
+      "long": {
+        "t": 37,
+        "w": 25,
+        "wr": 67.6
+      },
+      "short": {
+        "t": 14,
+        "w": 5,
+        "wr": 35.7
+      }
+    },
+    {
+      "label": "Ribbon7 (3-55)",
+      "period": "Full 6y",
+      "profit": 51508.16,
+      "dd": 50.4,
+      "trades": 4545,
+      "wr": 56.3,
+      "ruined": false,
+      "long": {
+        "t": 2015,
+        "w": 1053,
+        "wr": 52.3
+      },
+      "short": {
+        "t": 2530,
+        "w": 1504,
+        "wr": 59.4
+      }
+    },
+    {
+      "label": "PD long3/15 short2/12",
+      "period": "2025",
+      "profit": 1285.28,
+      "dd": 32.2,
+      "trades": 1374,
+      "wr": 55.1,
+      "ruined": false,
+      "long": {
+        "t": 585,
+        "w": 299,
+        "wr": 51.1
+      },
+      "short": {
+        "t": 789,
+        "w": 458,
+        "wr": 58.0
+      }
+    },
+    {
+      "label": "PD long3/15 short5/18",
+      "period": "Full 6y",
+      "profit": 325650.52,
+      "dd": 56.7,
+      "trades": 5641,
+      "wr": 57.0,
+      "ruined": false,
+      "long": {
+        "t": 2604,
+        "w": 1400,
+        "wr": 53.8
+      },
+      "short": {
+        "t": 3037,
+        "w": 1814,
+        "wr": 59.7
+      }
+    },
+    {
+      "label": "PD long3/15 short2/12",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 619.57,
+      "dd": 28.1,
+      "trades": 1022,
+      "wr": 59.7,
+      "ruined": false,
+      "long": {
+        "t": 512,
+        "w": 295,
+        "wr": 57.6
+      },
+      "short": {
+        "t": 510,
+        "w": 315,
+        "wr": 61.8
+      }
+    },
+    {
+      "label": "PD long2/15 short3/15",
+      "period": "2026 YTD",
+      "profit": 1291.01,
+      "dd": 16.3,
+      "trades": 410,
+      "wr": 57.1,
+      "ruined": false,
+      "long": {
+        "t": 165,
+        "w": 86,
+        "wr": 52.1
+      },
+      "short": {
+        "t": 245,
+        "w": 148,
+        "wr": 60.4
+      }
+    },
+    {
+      "label": "PD long3/15 short2/12",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "PD long3/15 short2/12",
+      "period": "2024 Bull",
+      "profit": 7734.35,
+      "dd": 20.8,
+      "trades": 1382,
+      "wr": 57.2,
+      "ruined": false,
+      "long": {
+        "t": 563,
+        "w": 295,
+        "wr": 52.4
+      },
+      "short": {
+        "t": 819,
+        "w": 496,
+        "wr": 60.6
+      }
+    },
+    {
+      "label": "PD long3/15 short2/12",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 14072.72,
+      "dd": 26.2,
+      "trades": 1443,
+      "wr": 61.2,
+      "ruined": false,
+      "long": {
+        "t": 522,
+        "w": 287,
+        "wr": 55.0
+      },
+      "short": {
+        "t": 921,
+        "w": 596,
+        "wr": 64.7
+      }
+    },
+    {
+      "label": "PD long2/15 short3/15",
+      "period": "2020 COVID",
+      "profit": -52.83,
+      "dd": 36.5,
+      "trades": 395,
+      "wr": 47.3,
+      "ruined": false,
+      "long": {
+        "t": 257,
+        "w": 132,
+        "wr": 51.4
+      },
+      "short": {
+        "t": 138,
+        "w": 55,
+        "wr": 39.9
+      }
+    },
+    {
+      "label": "PD long2/15 short3/15",
+      "period": "2021 \ub300\uc0c1\uc2b9",
+      "profit": 549.74,
+      "dd": 22.5,
+      "trades": 1041,
+      "wr": 59.8,
+      "ruined": false,
+      "long": {
+        "t": 562,
+        "w": 331,
+        "wr": 58.9
+      },
+      "short": {
+        "t": 479,
+        "w": 291,
+        "wr": 60.8
+      }
+    },
+    {
+      "label": "PD long2/15 short3/15",
+      "period": "2025",
+      "profit": 896.12,
+      "dd": 31.8,
+      "trades": 1366,
+      "wr": 54.5,
+      "ruined": false,
+      "long": {
+        "t": 622,
+        "w": 309,
+        "wr": 49.7
+      },
+      "short": {
+        "t": 744,
+        "w": 436,
+        "wr": 58.6
+      }
+    },
+    {
+      "label": "PD long3/15 short5/21",
+      "period": "Full 6y",
+      "profit": 365780.51,
+      "dd": 53.8,
+      "trades": 5665,
+      "wr": 56.9,
+      "ruined": false,
+      "long": {
+        "t": 2583,
+        "w": 1387,
+        "wr": 53.7
+      },
+      "short": {
+        "t": 3082,
+        "w": 1839,
+        "wr": 59.7
+      }
+    },
+    {
+      "label": "PD long2/15 short3/15",
+      "period": "2023 \uc800\ubcc0\ub3d9",
+      "profit": -283.98,
+      "dd": 49.0,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false,
+      "long": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      },
+      "short": {
+        "t": 0,
+        "w": 0,
+        "wr": 0.0
+      }
+    },
+    {
+      "label": "PD long2/15 short3/15",
+      "period": "2024 Bull",
+      "profit": 8446.28,
+      "dd": 20.9,
+      "trades": 1381,
+      "wr": 57.1,
+      "ruined": false,
+      "long": {
+        "t": 596,
+        "w": 314,
+        "wr": 52.7
+      },
+      "short": {
+        "t": 785,
+        "w": 475,
+        "wr": 60.5
+      }
+    },
+    {
+      "label": "PD long2/15 short3/15",
+      "period": "2022 \ud06c\ub798\uc2dc",
+      "profit": 16963.16,
+      "dd": 20.4,
+      "trades": 1432,
+      "wr": 61.7,
+      "ruined": false,
+      "long": {
+        "t": 567,
+        "w": 316,
+        "wr": 55.7
+      },
+      "short": {
+        "t": 865,
+        "w": 568,
+        "wr": 65.7
+      }
+    },
+    {
+      "label": "PD long3/15 short3/12",
+      "period": "Full 6y",
+      "profit": 1727155.5,
+      "dd": 40.0,
+      "trades": 5820,
+      "wr": 57.1,
+      "ruined": false,
+      "long": {
+        "t": 2602,
+        "w": 1395,
+        "wr": 53.6
+      },
+      "short": {
+        "t": 3218,
+        "w": 1931,
+        "wr": 60.0
+      }
+    },
+    {
+      "label": "PD long3/12 short3/15",
+      "period": "Full 6y",
+      "profit": 1856190.46,
+      "dd": 44.2,
+      "trades": 5802,
+      "wr": 57.2,
+      "ruined": false,
+      "long": {
+        "t": 2539,
+        "w": 1354,
+        "wr": 53.3
+      },
+      "short": {
+        "t": 3263,
+        "w": 1966,
+        "wr": 60.3
+      }
+    },
+    {
+      "label": "PD long5/18 short3/15",
+      "period": "Full 6y",
+      "profit": 1723961.59,
+      "dd": 41.5,
+      "trades": 5621,
+      "wr": 57.3,
+      "ruined": false,
+      "long": {
+        "t": 2379,
+        "w": 1277,
+        "wr": 53.7
+      },
+      "short": {
+        "t": 3242,
+        "w": 1946,
+        "wr": 60.0
+      }
+    },
+    {
+      "label": "PD long3/15 short2/12",
+      "period": "Full 6y",
+      "profit": 3737729.16,
+      "dd": 35.9,
+      "trades": 5985,
+      "wr": 57.2,
+      "ruined": false,
+      "long": {
+        "t": 2580,
+        "w": 1388,
+        "wr": 53.8
+      },
+      "short": {
+        "t": 3405,
+        "w": 2034,
+        "wr": 59.7
+      }
+    },
+    {
+      "label": "PD long2/15 short3/15",
+      "period": "Full 6y",
+      "profit": 6746115.3,
+      "dd": 36.5,
+      "trades": 6009,
+      "wr": 57.4,
+      "ruined": false,
+      "long": {
+        "t": 2778,
+        "w": 1499,
+        "wr": 54.0
+      },
+      "short": {
+        "t": 3231,
+        "w": 1950,
+        "wr": 60.4
+      }
+    }
+  ]
+}

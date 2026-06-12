@@ -1,0 +1,1152 @@
+{
+  "timestamp": "2026-04-19T11:46:32.632969",
+  "multi_start": [
+    {
+      "start_date": "2020-05-01",
+      "months": 71.6,
+      "final_balance": 8962336.28,
+      "net_profit": 8945836.28,
+      "multiple": 543.17,
+      "dd": 44.2,
+      "trades": 4457,
+      "win_rate": 59.8,
+      "ruined": false
+    },
+    {
+      "start_date": "2020-06-01",
+      "months": 70.6,
+      "final_balance": 10079301.47,
+      "net_profit": 10062801.47,
+      "multiple": 610.87,
+      "dd": 43.1,
+      "trades": 4391,
+      "win_rate": 60.1,
+      "ruined": false
+    },
+    {
+      "start_date": "2020-07-01",
+      "months": 69.6,
+      "final_balance": 8962452.75,
+      "net_profit": 8945952.75,
+      "multiple": 543.18,
+      "dd": 44.2,
+      "trades": 4393,
+      "win_rate": 60.0,
+      "ruined": false
+    },
+    {
+      "start_date": "2020-08-01",
+      "months": 68.6,
+      "final_balance": 8962288.98,
+      "net_profit": 8945788.98,
+      "multiple": 543.17,
+      "dd": 44.2,
+      "trades": 4373,
+      "win_rate": 60.1,
+      "ruined": false
+    },
+    {
+      "start_date": "2020-09-01",
+      "months": 67.6,
+      "final_balance": 8962298.31,
+      "net_profit": 8945798.31,
+      "multiple": 543.17,
+      "dd": 44.2,
+      "trades": 4334,
+      "win_rate": 60.3,
+      "ruined": false
+    },
+    {
+      "start_date": "2020-10-01",
+      "months": 66.6,
+      "final_balance": 10079340.42,
+      "net_profit": 10062840.42,
+      "multiple": 610.87,
+      "dd": 43.1,
+      "trades": 4277,
+      "win_rate": 60.6,
+      "ruined": false
+    },
+    {
+      "start_date": "2020-11-01",
+      "months": 65.6,
+      "final_balance": 9194744.18,
+      "net_profit": 9178244.18,
+      "multiple": 557.26,
+      "dd": 41.5,
+      "trades": 4412,
+      "win_rate": 60.2,
+      "ruined": false
+    },
+    {
+      "start_date": "2020-12-01",
+      "months": 64.6,
+      "final_balance": 9191362.84,
+      "net_profit": 9174862.84,
+      "multiple": 557.05,
+      "dd": 43.0,
+      "trades": 4295,
+      "win_rate": 60.5,
+      "ruined": false
+    },
+    {
+      "start_date": "2021-01-01",
+      "months": 63.6,
+      "final_balance": 6016306.85,
+      "net_profit": 5999806.85,
+      "multiple": 364.62,
+      "dd": 41.4,
+      "trades": 4151,
+      "win_rate": 60.2,
+      "ruined": false
+    },
+    {
+      "start_date": "2021-02-01",
+      "months": 62.6,
+      "final_balance": 6036414.48,
+      "net_profit": 6019914.48,
+      "multiple": 365.84,
+      "dd": 41.8,
+      "trades": 4098,
+      "win_rate": 60.2,
+      "ruined": false
+    },
+    {
+      "start_date": "2021-03-01",
+      "months": 61.6,
+      "final_balance": 6140288.35,
+      "net_profit": 6123788.35,
+      "multiple": 372.14,
+      "dd": 46.0,
+      "trades": 3976,
+      "win_rate": 60.4,
+      "ruined": false
+    },
+    {
+      "start_date": "2021-04-01",
+      "months": 60.6,
+      "final_balance": 6019240.42,
+      "net_profit": 6002740.42,
+      "multiple": 364.8,
+      "dd": 41.6,
+      "trades": 4034,
+      "win_rate": 60.1,
+      "ruined": false
+    },
+    {
+      "start_date": "2021-05-01",
+      "months": 59.6,
+      "final_balance": 6016277.85,
+      "net_profit": 5999777.85,
+      "multiple": 364.62,
+      "dd": 41.4,
+      "trades": 3989,
+      "win_rate": 60.3,
+      "ruined": false
+    },
+    {
+      "start_date": "2021-06-01",
+      "months": 58.6,
+      "final_balance": 6015732.83,
+      "net_profit": 5999232.83,
+      "multiple": 364.59,
+      "dd": 41.4,
+      "trades": 3974,
+      "win_rate": 60.2,
+      "ruined": false
+    },
+    {
+      "start_date": "2021-07-01",
+      "months": 57.6,
+      "final_balance": 6016490.46,
+      "net_profit": 5999990.46,
+      "multiple": 364.64,
+      "dd": 41.5,
+      "trades": 3897,
+      "win_rate": 60.2,
+      "ruined": false
+    },
+    {
+      "start_date": "2021-08-01",
+      "months": 56.6,
+      "final_balance": 6017877.14,
+      "net_profit": 6001377.14,
+      "multiple": 364.72,
+      "dd": 41.5,
+      "trades": 3846,
+      "win_rate": 60.4,
+      "ruined": false
+    },
+    {
+      "start_date": "2021-09-01",
+      "months": 55.6,
+      "final_balance": 6017762.29,
+      "net_profit": 6001262.29,
+      "multiple": 364.71,
+      "dd": 41.5,
+      "trades": 3763,
+      "win_rate": 60.2,
+      "ruined": false
+    },
+    {
+      "start_date": "2021-10-01",
+      "months": 54.6,
+      "final_balance": 6021104.13,
+      "net_profit": 6004604.13,
+      "multiple": 364.92,
+      "dd": 41.6,
+      "trades": 3713,
+      "win_rate": 59.9,
+      "ruined": false
+    },
+    {
+      "start_date": "2021-11-01",
+      "months": 53.6,
+      "final_balance": 6012133.02,
+      "net_profit": 5995633.02,
+      "multiple": 364.37,
+      "dd": 41.3,
+      "trades": 3664,
+      "win_rate": 60.0,
+      "ruined": false
+    },
+    {
+      "start_date": "2021-12-01",
+      "months": 52.6,
+      "final_balance": 6012142.89,
+      "net_profit": 5995642.89,
+      "multiple": 364.37,
+      "dd": 41.3,
+      "trades": 3595,
+      "win_rate": 60.1,
+      "ruined": false
+    },
+    {
+      "start_date": "2022-01-01",
+      "months": 51.6,
+      "final_balance": 5007138.72,
+      "net_profit": 4990638.72,
+      "multiple": 303.46,
+      "dd": 51.5,
+      "trades": 3225,
+      "win_rate": 60.6,
+      "ruined": false
+    },
+    {
+      "start_date": "2022-02-01",
+      "months": 50.6,
+      "final_balance": 5007378.2,
+      "net_profit": 4990878.2,
+      "multiple": 303.48,
+      "dd": 51.5,
+      "trades": 3137,
+      "win_rate": 60.6,
+      "ruined": false
+    },
+    {
+      "start_date": "2022-03-01",
+      "months": 49.6,
+      "final_balance": 5000916.61,
+      "net_profit": 4984416.61,
+      "multiple": 303.09,
+      "dd": 51.4,
+      "trades": 3074,
+      "win_rate": 60.2,
+      "ruined": false
+    },
+    {
+      "start_date": "2022-04-01",
+      "months": 48.6,
+      "final_balance": 4993533.55,
+      "net_profit": 4977033.55,
+      "multiple": 302.64,
+      "dd": 51.4,
+      "trades": 2988,
+      "win_rate": 60.4,
+      "ruined": false
+    },
+    {
+      "start_date": "2022-05-01",
+      "months": 47.6,
+      "final_balance": 4999664.06,
+      "net_profit": 4983164.06,
+      "multiple": 303.01,
+      "dd": 51.4,
+      "trades": 2950,
+      "win_rate": 60.5,
+      "ruined": false
+    },
+    {
+      "start_date": "2022-06-01",
+      "months": 46.6,
+      "final_balance": 4976730.26,
+      "net_profit": 4960230.26,
+      "multiple": 301.62,
+      "dd": 49.3,
+      "trades": 2914,
+      "win_rate": 60.3,
+      "ruined": false
+    },
+    {
+      "start_date": "2022-07-01",
+      "months": 45.6,
+      "final_balance": 4952287.55,
+      "net_profit": 4935787.55,
+      "multiple": 300.14,
+      "dd": 49.2,
+      "trades": 2805,
+      "win_rate": 60.0,
+      "ruined": false
+    },
+    {
+      "start_date": "2022-08-01",
+      "months": 44.6,
+      "final_balance": 4936532.77,
+      "net_profit": 4920032.77,
+      "multiple": 299.18,
+      "dd": 47.9,
+      "trades": 2705,
+      "win_rate": 59.7,
+      "ruined": false
+    },
+    {
+      "start_date": "2022-09-01",
+      "months": 43.6,
+      "final_balance": 4934833.17,
+      "net_profit": 4918333.17,
+      "multiple": 299.08,
+      "dd": 47.9,
+      "trades": 2652,
+      "win_rate": 59.8,
+      "ruined": false
+    },
+    {
+      "start_date": "2022-10-01",
+      "months": 42.6,
+      "final_balance": 4614351.69,
+      "net_profit": 4597851.69,
+      "multiple": 279.66,
+      "dd": 41.5,
+      "trades": 2624,
+      "win_rate": 59.5,
+      "ruined": false
+    },
+    {
+      "start_date": "2022-11-01",
+      "months": 41.6,
+      "final_balance": 4105169.07,
+      "net_profit": 4088669.07,
+      "multiple": 248.8,
+      "dd": 42.7,
+      "trades": 2542,
+      "win_rate": 60.0,
+      "ruined": false
+    },
+    {
+      "start_date": "2022-12-01",
+      "months": 40.6,
+      "final_balance": 4115386.32,
+      "net_profit": 4098886.32,
+      "multiple": 249.42,
+      "dd": 38.6,
+      "trades": 2433,
+      "win_rate": 59.9,
+      "ruined": false
+    },
+    {
+      "start_date": "2023-01-01",
+      "months": 39.6,
+      "final_balance": 4056362.19,
+      "net_profit": 4039862.19,
+      "multiple": 245.84,
+      "dd": 27.8,
+      "trades": 2216,
+      "win_rate": 61.1,
+      "ruined": false
+    },
+    {
+      "start_date": "2023-02-01",
+      "months": 38.6,
+      "final_balance": 4056629.31,
+      "net_profit": 4040129.31,
+      "multiple": 245.86,
+      "dd": 27.8,
+      "trades": 2216,
+      "win_rate": 61.0,
+      "ruined": false
+    },
+    {
+      "start_date": "2023-03-01",
+      "months": 37.6,
+      "final_balance": 4056311.24,
+      "net_profit": 4039811.24,
+      "multiple": 245.84,
+      "dd": 27.8,
+      "trades": 2216,
+      "win_rate": 61.0,
+      "ruined": false
+    },
+    {
+      "start_date": "2023-04-01",
+      "months": 36.6,
+      "final_balance": 4056457.24,
+      "net_profit": 4039957.24,
+      "multiple": 245.85,
+      "dd": 27.8,
+      "trades": 2216,
+      "win_rate": 61.0,
+      "ruined": false
+    },
+    {
+      "start_date": "2023-05-01",
+      "months": 35.6,
+      "final_balance": 4056289.48,
+      "net_profit": 4039789.48,
+      "multiple": 245.84,
+      "dd": 27.9,
+      "trades": 2216,
+      "win_rate": 61.0,
+      "ruined": false
+    },
+    {
+      "start_date": "2023-06-01",
+      "months": 34.6,
+      "final_balance": 4056565.16,
+      "net_profit": 4040065.16,
+      "multiple": 245.85,
+      "dd": 27.9,
+      "trades": 2216,
+      "win_rate": 61.0,
+      "ruined": false
+    },
+    {
+      "start_date": "2023-07-01",
+      "months": 33.6,
+      "final_balance": 4057098.99,
+      "net_profit": 4040598.99,
+      "multiple": 245.88,
+      "dd": 27.9,
+      "trades": 2216,
+      "win_rate": 61.0,
+      "ruined": false
+    },
+    {
+      "start_date": "2023-08-01",
+      "months": 32.6,
+      "final_balance": 4057372.57,
+      "net_profit": 4040872.57,
+      "multiple": 245.9,
+      "dd": 27.9,
+      "trades": 2216,
+      "win_rate": 61.0,
+      "ruined": false
+    },
+    {
+      "start_date": "2023-09-01",
+      "months": 31.6,
+      "final_balance": 4057645.37,
+      "net_profit": 4041145.37,
+      "multiple": 245.92,
+      "dd": 28.0,
+      "trades": 2216,
+      "win_rate": 61.0,
+      "ruined": false
+    },
+    {
+      "start_date": "2023-10-01",
+      "months": 30.6,
+      "final_balance": 4057908.63,
+      "net_profit": 4041408.63,
+      "multiple": 245.93,
+      "dd": 28.0,
+      "trades": 2216,
+      "win_rate": 61.0,
+      "ruined": false
+    },
+    {
+      "start_date": "2023-11-01",
+      "months": 29.6,
+      "final_balance": 4058179.9,
+      "net_profit": 4041679.9,
+      "multiple": 245.95,
+      "dd": 28.0,
+      "trades": 2216,
+      "win_rate": 61.0,
+      "ruined": false
+    },
+    {
+      "start_date": "2023-12-01",
+      "months": 28.6,
+      "final_balance": 4022138.0,
+      "net_profit": 4005638.0,
+      "multiple": 243.77,
+      "dd": 27.7,
+      "trades": 2219,
+      "win_rate": 61.0,
+      "ruined": false
+    },
+    {
+      "start_date": "2024-01-01",
+      "months": 27.6,
+      "final_balance": 3058912.77,
+      "net_profit": 3042412.77,
+      "multiple": 185.39,
+      "dd": 29.8,
+      "trades": 2196,
+      "win_rate": 60.9,
+      "ruined": false
+    },
+    {
+      "start_date": "2024-02-01",
+      "months": 26.5,
+      "final_balance": 3102844.29,
+      "net_profit": 3086344.29,
+      "multiple": 188.05,
+      "dd": 25.4,
+      "trades": 2165,
+      "win_rate": 60.8,
+      "ruined": false
+    },
+    {
+      "start_date": "2024-03-01",
+      "months": 25.6,
+      "final_balance": 3010186.66,
+      "net_profit": 2993686.66,
+      "multiple": 182.44,
+      "dd": 22.9,
+      "trades": 2151,
+      "win_rate": 61.1,
+      "ruined": false
+    },
+    {
+      "start_date": "2024-04-01",
+      "months": 24.6,
+      "final_balance": 3014781.72,
+      "net_profit": 2998281.72,
+      "multiple": 182.71,
+      "dd": 21.7,
+      "trades": 2062,
+      "win_rate": 61.3,
+      "ruined": false
+    },
+    {
+      "start_date": "2024-05-01",
+      "months": 23.6,
+      "final_balance": 2987711.62,
+      "net_profit": 2971211.62,
+      "multiple": 181.07,
+      "dd": 22.2,
+      "trades": 1954,
+      "win_rate": 61.3,
+      "ruined": false
+    },
+    {
+      "start_date": "2024-06-01",
+      "months": 22.6,
+      "final_balance": 2897076.96,
+      "net_profit": 2880576.96,
+      "multiple": 175.58,
+      "dd": 23.9,
+      "trades": 1948,
+      "win_rate": 61.4,
+      "ruined": false
+    },
+    {
+      "start_date": "2024-07-01",
+      "months": 21.6,
+      "final_balance": 2704528.97,
+      "net_profit": 2688028.97,
+      "multiple": 163.91,
+      "dd": 28.4,
+      "trades": 1911,
+      "win_rate": 61.7,
+      "ruined": false
+    },
+    {
+      "start_date": "2024-08-01",
+      "months": 20.6,
+      "final_balance": 2294294.14,
+      "net_profit": 2277794.14,
+      "multiple": 139.05,
+      "dd": 28.9,
+      "trades": 1839,
+      "win_rate": 61.6,
+      "ruined": false
+    },
+    {
+      "start_date": "2024-09-01",
+      "months": 19.5,
+      "final_balance": 2200641.55,
+      "net_profit": 2184141.55,
+      "multiple": 133.37,
+      "dd": 23.8,
+      "trades": 1737,
+      "win_rate": 61.8,
+      "ruined": false
+    },
+    {
+      "start_date": "2024-10-01",
+      "months": 18.6,
+      "final_balance": 1919355.44,
+      "net_profit": 1902855.44,
+      "multiple": 116.32,
+      "dd": 28.6,
+      "trades": 1690,
+      "win_rate": 62.1,
+      "ruined": false
+    },
+    {
+      "start_date": "2024-11-01",
+      "months": 17.5,
+      "final_balance": 1630393.05,
+      "net_profit": 1613893.05,
+      "multiple": 98.81,
+      "dd": 23.7,
+      "trades": 1640,
+      "win_rate": 62.1,
+      "ruined": false
+    },
+    {
+      "start_date": "2024-12-01",
+      "months": 16.5,
+      "final_balance": 1583081.25,
+      "net_profit": 1566581.25,
+      "multiple": 95.94,
+      "dd": 25.7,
+      "trades": 1542,
+      "win_rate": 62.1,
+      "ruined": false
+    },
+    {
+      "start_date": "2025-01-01",
+      "months": 15.5,
+      "final_balance": 1216456.22,
+      "net_profit": 1199956.22,
+      "multiple": 73.72,
+      "dd": 25.4,
+      "trades": 1419,
+      "win_rate": 61.7,
+      "ruined": false
+    },
+    {
+      "start_date": "2025-02-01",
+      "months": 14.5,
+      "final_balance": 1149952.0,
+      "net_profit": 1133452.0,
+      "multiple": 69.69,
+      "dd": 24.3,
+      "trades": 1341,
+      "win_rate": 61.8,
+      "ruined": false
+    },
+    {
+      "start_date": "2025-03-01",
+      "months": 13.6,
+      "final_balance": 990703.27,
+      "net_profit": 974203.27,
+      "multiple": 60.04,
+      "dd": 20.2,
+      "trades": 1262,
+      "win_rate": 61.7,
+      "ruined": false
+    },
+    {
+      "start_date": "2025-04-01",
+      "months": 12.6,
+      "final_balance": 767855.4,
+      "net_profit": 751355.4,
+      "multiple": 46.54,
+      "dd": 18.0,
+      "trades": 1167,
+      "win_rate": 61.0,
+      "ruined": false
+    },
+    {
+      "start_date": "2025-05-01",
+      "months": 11.6,
+      "final_balance": 773931.0,
+      "net_profit": 757431.0,
+      "multiple": 46.9,
+      "dd": 18.0,
+      "trades": 1097,
+      "win_rate": 61.6,
+      "ruined": false
+    }
+  ],
+  "stress_periods": [
+    {
+      "label": "COVID \ud06c\ub798\uc2dc",
+      "start": "2020-03-01",
+      "end": "2020-05-01",
+      "days": 61,
+      "final": 18497.08,
+      "profit": 1997.08,
+      "multiple": 1.12,
+      "dd": 7.1,
+      "trades": 40,
+      "wr": 65.0,
+      "ruined": false
+    },
+    {
+      "label": "2021 5\uc6d4 Flash Crash",
+      "start": "2021-05-01",
+      "end": "2021-07-01",
+      "days": 61,
+      "final": 20024.31,
+      "profit": 3524.31,
+      "multiple": 1.21,
+      "dd": 5.4,
+      "trades": 96,
+      "wr": 68.8,
+      "ruined": false
+    },
+    {
+      "label": "BTC \ud53c\ud06c\u2192\ubc14\ub2e5 (21-11 \u2192 22-06)",
+      "start": "2021-11-01",
+      "end": "2022-07-01",
+      "days": 242,
+      "final": 380762.54,
+      "profit": 364262.54,
+      "multiple": 23.08,
+      "dd": 11.9,
+      "trades": 769,
+      "wr": 70.6,
+      "ruined": false
+    },
+    {
+      "label": "Luna \ubd95\uad34",
+      "start": "2022-04-15",
+      "end": "2022-06-15",
+      "days": 61,
+      "final": 44214.86,
+      "profit": 27714.86,
+      "multiple": 2.68,
+      "dd": 6.8,
+      "trades": 170,
+      "wr": 74.7,
+      "ruined": false
+    },
+    {
+      "label": "2022 Q2 Crash",
+      "start": "2022-04-01",
+      "end": "2022-07-01",
+      "days": 91,
+      "final": 71202.15,
+      "profit": 54702.15,
+      "multiple": 4.32,
+      "dd": 6.8,
+      "trades": 285,
+      "wr": 75.4,
+      "ruined": false
+    },
+    {
+      "label": "FTX \ubd95\uad34",
+      "start": "2022-10-15",
+      "end": "2022-12-31",
+      "days": 77,
+      "final": 68722.55,
+      "profit": 52222.55,
+      "multiple": 4.17,
+      "dd": 8.4,
+      "trades": 252,
+      "wr": 66.3,
+      "ruined": false
+    },
+    {
+      "label": "2023 \uc800\ubcc0\ub3d9 \uc9c0\uc625 (\uc804\ub144)",
+      "start": "2023-01-01",
+      "end": "2024-01-01",
+      "days": 365,
+      "final": 16216.02,
+      "profit": -283.98,
+      "multiple": 0.98,
+      "dd": 1.7,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false
+    },
+    {
+      "label": "2024-08 \uc77c\ubcf8 carry unwind",
+      "start": "2024-07-15",
+      "end": "2024-09-15",
+      "days": 62,
+      "final": 38191.18,
+      "profit": 21691.18,
+      "multiple": 2.31,
+      "dd": 7.8,
+      "trades": 191,
+      "wr": 66.0,
+      "ruined": false
+    },
+    {
+      "label": "2025-12 ~ 2026-01 \ucd5c\uadfc \ud06c\ub798\uc2dc",
+      "start": "2025-12-01",
+      "end": "2026-02-15",
+      "days": 76,
+      "final": 36319.28,
+      "profit": 19819.28,
+      "multiple": 2.2,
+      "dd": 15.6,
+      "trades": 203,
+      "wr": 60.1,
+      "ruined": false
+    },
+    {
+      "label": "2026-02 ~ \ud604\uc7ac (\uc774\ub780 \uae34\uc7a5 \uc2dc\uae30)",
+      "start": "2026-02-01",
+      "end": "2026-04-18",
+      "days": 76,
+      "final": 44927.12,
+      "profit": 28427.12,
+      "multiple": 2.72,
+      "dd": 11.4,
+      "trades": 224,
+      "wr": 63.8,
+      "ruined": false
+    }
+  ],
+  "regime_match": [
+    {
+      "date": "2025-02-01",
+      "distance": 0.5260895821552346,
+      "signature": [
+        4.8550035654860935,
+        43.925353030860116,
+        12.806072339486985,
+        4.268133801111526,
+        1.982450655572543,
+        -5.235680036331672
+      ]
+    },
+    {
+      "date": "2023-07-01",
+      "distance": 0.6389019743306064,
+      "signature": [
+        6.707008525532987,
+        40.53376926761121,
+        14.854281374596543,
+        3.388518956424965,
+        1.4066772193633614,
+        -0.33799750331641953
+      ]
+    },
+    {
+      "date": "2020-11-01",
+      "distance": 0.7642906992294438,
+      "signature": [
+        20.73583000395136,
+        46.352720337898134,
+        11.1208675418185,
+        3.603940920188045,
+        13.1267343355848,
+        -0.23218691046292267
+      ]
+    },
+    {
+      "date": "2020-08-01",
+      "distance": 0.8019630374344966,
+      "signature": [
+        24.035281146637267,
+        41.45856959331634,
+        8.81728045325779,
+        3.0910861578280007,
+        2.3867512179265082,
+        0.0
+      ]
+    },
+    {
+      "date": "2024-11-01",
+      "distance": 0.8066364501036389,
+      "signature": [
+        17.556460357225625,
+        39.55194667853707,
+        8.766896663717691,
+        3.4832053154777527,
+        8.984333031694792,
+        -4.4833865924475145
+      ]
+    },
+    {
+      "date": "2024-02-01",
+      "distance": 0.8205682854709996,
+      "signature": [
+        7.6617691544228705,
+        50.069334585774904,
+        15.782537979426388,
+        4.191772887367224,
+        0.061925453611300085,
+        -8.320134205327347
+      ]
+    },
+    {
+      "date": "2024-06-01",
+      "distance": 0.9596115641334049,
+      "signature": [
+        3.525746747297065,
+        51.815915072254725,
+        18.662032748094155,
+        4.485157816929006,
+        0.13998294180030957,
+        -5.415601665308662
+      ]
+    },
+    {
+      "date": "2022-11-01",
+      "distance": 0.9833367899004012,
+      "signature": [
+        2.667937112910912,
+        50.86789726072003,
+        17.607253724010093,
+        3.963783542452078,
+        -0.40910397168031354,
+        -8.557965026687809
+      ]
+    },
+    {
+      "date": "2025-05-01",
+      "distance": 1.0365316205550152,
+      "signature": [
+        2.3034234142480736,
+        57.08753372086619,
+        19.067321453388885,
+        4.371660859789437,
+        2.0168448035151165,
+        0.0
+      ]
+    },
+    {
+      "date": "2023-08-01",
+      "distance": 1.036994217217323,
+      "signature": [
+        9.03880960859973,
+        38.35352911254867,
+        7.798635000238625,
+        2.984577469686917,
+        7.677785041249918,
+        -5.525919846806185
+      ]
+    }
+  ],
+  "forward_projection": [
+    {
+      "match_date": "2025-02-01",
+      "horizon": "1\uac1c\uc6d4",
+      "days": 30,
+      "final": 775.05,
+      "multiple": 1.36,
+      "dd": 7.0,
+      "trades": 80,
+      "wr": 68.8,
+      "ruined": false
+    },
+    {
+      "match_date": "2025-02-01",
+      "horizon": "3\uac1c\uc6d4",
+      "days": 90,
+      "final": 1182.7,
+      "multiple": 2.07,
+      "dd": 11.3,
+      "trades": 275,
+      "wr": 65.8,
+      "ruined": false
+    },
+    {
+      "match_date": "2025-02-01",
+      "horizon": "6\uac1c\uc6d4",
+      "days": 180,
+      "final": 3000.27,
+      "multiple": 5.25,
+      "dd": 11.3,
+      "trades": 537,
+      "wr": 63.7,
+      "ruined": false
+    },
+    {
+      "match_date": "2025-02-01",
+      "horizon": "1\ub144",
+      "days": 365,
+      "final": 24979.02,
+      "multiple": 43.75,
+      "dd": 17.8,
+      "trades": 1128,
+      "wr": 62.1,
+      "ruined": false
+    },
+    {
+      "match_date": "2023-07-01",
+      "horizon": "1\uac1c\uc6d4",
+      "days": 30,
+      "final": 549.1,
+      "multiple": 0.96,
+      "dd": 3.8,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false
+    },
+    {
+      "match_date": "2023-07-01",
+      "horizon": "3\uac1c\uc6d4",
+      "days": 90,
+      "final": 502.16,
+      "multiple": 0.88,
+      "dd": 12.1,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false
+    },
+    {
+      "match_date": "2023-07-01",
+      "horizon": "6\uac1c\uc6d4",
+      "days": 180,
+      "final": 431.75,
+      "multiple": 0.76,
+      "dd": 24.4,
+      "trades": 0,
+      "wr": 0,
+      "ruined": false
+    },
+    {
+      "match_date": "2023-07-01",
+      "horizon": "1\ub144",
+      "days": 365,
+      "final": 5403.91,
+      "multiple": 9.46,
+      "dd": 25.1,
+      "trades": 530,
+      "wr": 67.5,
+      "ruined": false
+    },
+    {
+      "match_date": "2020-11-01",
+      "horizon": "1\uac1c\uc6d4",
+      "days": 30,
+      "final": 541.96,
+      "multiple": 0.95,
+      "dd": 13.1,
+      "trades": 28,
+      "wr": 50.0,
+      "ruined": false
+    },
+    {
+      "match_date": "2020-11-01",
+      "horizon": "3\uac1c\uc6d4",
+      "days": 90,
+      "final": 695.03,
+      "multiple": 1.22,
+      "dd": 13.1,
+      "trades": 89,
+      "wr": 64.0,
+      "ruined": false
+    },
+    {
+      "match_date": "2020-11-01",
+      "horizon": "6\uac1c\uc6d4",
+      "days": 180,
+      "final": 851.68,
+      "multiple": 1.49,
+      "dd": 13.1,
+      "trades": 220,
+      "wr": 64.1,
+      "ruined": false
+    },
+    {
+      "match_date": "2020-11-01",
+      "horizon": "1\ub144",
+      "days": 365,
+      "final": 3384.21,
+      "multiple": 5.93,
+      "dd": 13.4,
+      "trades": 692,
+      "wr": 67.1,
+      "ruined": false
+    },
+    {
+      "match_date": "2020-08-01",
+      "horizon": "1\uac1c\uc6d4",
+      "days": 30,
+      "final": 613.34,
+      "multiple": 1.07,
+      "dd": 6.8,
+      "trades": 37,
+      "wr": 54.1,
+      "ruined": false
+    },
+    {
+      "match_date": "2020-08-01",
+      "horizon": "3\uac1c\uc6d4",
+      "days": 90,
+      "final": 642.98,
+      "multiple": 1.13,
+      "dd": 13.4,
+      "trades": 88,
+      "wr": 48.9,
+      "ruined": false
+    },
+    {
+      "match_date": "2020-08-01",
+      "horizon": "6\uac1c\uc6d4",
+      "days": 180,
+      "final": 824.08,
+      "multiple": 1.44,
+      "dd": 13.4,
+      "trades": 180,
+      "wr": 56.7,
+      "ruined": false
+    },
+    {
+      "match_date": "2020-08-01",
+      "horizon": "1\ub144",
+      "days": 365,
+      "final": 1627.68,
+      "multiple": 2.85,
+      "dd": 13.4,
+      "trades": 516,
+      "wr": 62.4,
+      "ruined": false
+    },
+    {
+      "match_date": "2024-11-01",
+      "horizon": "1\uac1c\uc6d4",
+      "days": 30,
+      "final": 728.79,
+      "multiple": 1.28,
+      "dd": 9.2,
+      "trades": 99,
+      "wr": 65.7,
+      "ruined": false
+    },
+    {
+      "match_date": "2024-11-01",
+      "horizon": "3\uac1c\uc6d4",
+      "days": 90,
+      "final": 1196.67,
+      "multiple": 2.1,
+      "dd": 9.2,
+      "trades": 297,
+      "wr": 66.3,
+      "ruined": false
+    },
+    {
+      "match_date": "2024-11-01",
+      "horizon": "6\uac1c\uc6d4",
+      "days": 180,
+      "final": 2729.6,
+      "multiple": 4.78,
+      "dd": 11.0,
+      "trades": 582,
+      "wr": 66.0,
+      "ruined": false
+    },
+    {
+      "match_date": "2024-11-01",
+      "horizon": "1\ub144",
+      "days": 365,
+      "final": 26375.06,
+      "multiple": 46.19,
+      "dd": 14.0,
+      "trades": 1140,
+      "wr": 64.4,
+      "ruined": false
+    }
+  ]
+}

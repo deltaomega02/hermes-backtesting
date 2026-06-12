@@ -1,0 +1,817 @@
+{
+  "timestamp": "2026-04-12T02:12:58.276426",
+  "engine": "shared-balance (실제 HERMES 구조)",
+  "config": {
+    "best_params": {
+      "ema_fast": 5,
+      "ema_slow": 18,
+      "rsi_period": 14,
+      "rsi_oversold": 35,
+      "rsi_overbought": 65,
+      "pullback_ema_dist_pct": 1.5,
+      "sl_atr_mult": 1.5,
+      "tp_rr_ratio": 4.0,
+      "entry_score_threshold": 40,
+      "adx_enter_trending": 35,
+      "adx_exit_trending": 20,
+      "atr_high_vol_percentile": 85,
+      "orderbook_imbalance_min": 0.55,
+      "funding_bias_threshold": 0.0005
+    },
+    "trailing_activation": 1.5,
+    "trailing_distance": 0.3,
+    "daily_cost_krw": 1150,
+    "usdkrw": 1470,
+    "daily_cost_usd": 0.7823,
+    "ruin_threshold": 15.0
+  },
+  "scenario_a_full": {
+    "100": {
+      "final_balance": -1052.26,
+      "net_profit": -1152.26,
+      "net_pct": -1152.3,
+      "max_dd": 86.3,
+      "ruined": true,
+      "ruin_date": "2022-07-13",
+      "total_trades": 467,
+      "wins": 286,
+      "win_rate": 61.2,
+      "skipped_years": [],
+      "yearly": {
+        "2022": {
+          "trades": 467,
+          "wins": 286,
+          "pnl": 65.02
+        }
+      }
+    },
+    "150": {
+      "final_balance": -851.08,
+      "net_profit": -1001.08,
+      "net_pct": -667.4,
+      "max_dd": 91.2,
+      "ruined": true,
+      "ruin_date": "2023-03-27",
+      "total_trades": 986,
+      "wins": 556,
+      "win_rate": 56.4,
+      "skipped_years": [],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 204.02
+        },
+        "2023": {
+          "trades": 184,
+          "wins": 95,
+          "pnl": 12.18
+        }
+      }
+    },
+    "200": {
+      "final_balance": -616.33,
+      "net_profit": -816.33,
+      "net_pct": -408.2,
+      "max_dd": 95.4,
+      "ruined": true,
+      "ruin_date": "2024-01-21",
+      "total_trades": 1519,
+      "wins": 771,
+      "win_rate": 50.8,
+      "skipped_years": [],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 382.42
+        },
+        "2023": {
+          "trades": 684,
+          "wins": 294,
+          "pnl": 17.22
+        },
+        "2024": {
+          "trades": 33,
+          "wins": 16,
+          "pnl": 1.3
+        }
+      }
+    },
+    "300": {
+      "final_balance": 8671.36,
+      "net_profit": 8371.36,
+      "net_pct": 2790.5,
+      "max_dd": 56.5,
+      "ruined": false,
+      "ruin_date": null,
+      "total_trades": 3246,
+      "wins": 1678,
+      "win_rate": 51.7,
+      "skipped_years": [],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 739.22
+        },
+        "2023": {
+          "trades": 684,
+          "wins": 294,
+          "pnl": 113.74
+        },
+        "2024": {
+          "trades": 792,
+          "wins": 432,
+          "pnl": 2316.43
+        },
+        "2025": {
+          "trades": 739,
+          "wins": 372,
+          "pnl": 2607.06
+        },
+        "2026": {
+          "trades": 229,
+          "wins": 119,
+          "pnl": 3812.19
+        }
+      }
+    },
+    "400": {
+      "final_balance": 21056.61,
+      "net_profit": 20656.61,
+      "net_pct": 5164.2,
+      "max_dd": 52.4,
+      "ruined": false,
+      "ruin_date": null,
+      "total_trades": 3246,
+      "wins": 1678,
+      "win_rate": 51.7,
+      "skipped_years": [],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 1096.02
+        },
+        "2023": {
+          "trades": 684,
+          "wins": 294,
+          "pnl": 210.25
+        },
+        "2024": {
+          "trades": 792,
+          "wins": 432,
+          "pnl": 5195.86
+        },
+        "2025": {
+          "trades": 739,
+          "wins": 372,
+          "pnl": 6146.34
+        },
+        "2026": {
+          "trades": 229,
+          "wins": 119,
+          "pnl": 9225.42
+        }
+      }
+    },
+    "500": {
+      "final_balance": 33441.86,
+      "net_profit": 32941.86,
+      "net_pct": 6588.4,
+      "max_dd": 50.6,
+      "ruined": false,
+      "ruin_date": null,
+      "total_trades": 3246,
+      "wins": 1678,
+      "win_rate": 51.7,
+      "skipped_years": [],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 1452.83
+        },
+        "2023": {
+          "trades": 684,
+          "wins": 294,
+          "pnl": 306.77
+        },
+        "2024": {
+          "trades": 792,
+          "wins": 432,
+          "pnl": 8075.29
+        },
+        "2025": {
+          "trades": 739,
+          "wins": 372,
+          "pnl": 9685.62
+        },
+        "2026": {
+          "trades": 229,
+          "wins": 119,
+          "pnl": 14638.64
+        }
+      }
+    },
+    "600": {
+      "final_balance": 45827.11,
+      "net_profit": 45227.11,
+      "net_pct": 7537.9,
+      "max_dd": 49.6,
+      "ruined": false,
+      "ruin_date": null,
+      "total_trades": 3246,
+      "wins": 1678,
+      "win_rate": 51.7,
+      "skipped_years": [],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 1809.63
+        },
+        "2023": {
+          "trades": 684,
+          "wins": 294,
+          "pnl": 403.28
+        },
+        "2024": {
+          "trades": 792,
+          "wins": 432,
+          "pnl": 10954.72
+        },
+        "2025": {
+          "trades": 739,
+          "wins": 372,
+          "pnl": 13224.89
+        },
+        "2026": {
+          "trades": 229,
+          "wins": 119,
+          "pnl": 20051.86
+        }
+      }
+    },
+    "800": {
+      "final_balance": 70597.6,
+      "net_profit": 69797.6,
+      "net_pct": 8724.7,
+      "max_dd": 48.6,
+      "ruined": false,
+      "ruin_date": null,
+      "total_trades": 3246,
+      "wins": 1678,
+      "win_rate": 51.7,
+      "skipped_years": [],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 2523.23
+        },
+        "2023": {
+          "trades": 684,
+          "wins": 294,
+          "pnl": 596.3
+        },
+        "2024": {
+          "trades": 792,
+          "wins": 432,
+          "pnl": 16713.58
+        },
+        "2025": {
+          "trades": 739,
+          "wins": 372,
+          "pnl": 20303.45
+        },
+        "2026": {
+          "trades": 229,
+          "wins": 119,
+          "pnl": 30878.31
+        }
+      }
+    },
+    "1000": {
+      "final_balance": 95368.1,
+      "net_profit": 94368.1,
+      "net_pct": 9436.8,
+      "max_dd": 48.0,
+      "ruined": false,
+      "ruin_date": null,
+      "total_trades": 3246,
+      "wins": 1678,
+      "win_rate": 51.7,
+      "skipped_years": [],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 3236.84
+        },
+        "2023": {
+          "trades": 684,
+          "wins": 294,
+          "pnl": 789.33
+        },
+        "2024": {
+          "trades": 792,
+          "wins": 432,
+          "pnl": 22472.45
+        },
+        "2025": {
+          "trades": 739,
+          "wins": 372,
+          "pnl": 27382.0
+        },
+        "2026": {
+          "trades": 229,
+          "wins": 119,
+          "pnl": 41704.76
+        }
+      }
+    },
+    "1500": {
+      "final_balance": 157294.33,
+      "net_profit": 155794.33,
+      "net_pct": 10386.3,
+      "max_dd": 47.3,
+      "ruined": false,
+      "ruin_date": null,
+      "total_trades": 3246,
+      "wins": 1678,
+      "win_rate": 51.7,
+      "skipped_years": [],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 5020.85
+        },
+        "2023": {
+          "trades": 684,
+          "wins": 294,
+          "pnl": 1271.89
+        },
+        "2024": {
+          "trades": 792,
+          "wins": 432,
+          "pnl": 36869.6
+        },
+        "2025": {
+          "trades": 739,
+          "wins": 372,
+          "pnl": 45078.39
+        },
+        "2026": {
+          "trades": 229,
+          "wins": 119,
+          "pnl": 68770.87
+        }
+      }
+    },
+    "2000": {
+      "final_balance": 219220.57,
+      "net_profit": 217220.57,
+      "net_pct": 10861.0,
+      "max_dd": 47.0,
+      "ruined": false,
+      "ruin_date": null,
+      "total_trades": 3246,
+      "wins": 1678,
+      "win_rate": 51.7,
+      "skipped_years": [],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 6804.87
+        },
+        "2023": {
+          "trades": 684,
+          "wins": 294,
+          "pnl": 1754.46
+        },
+        "2024": {
+          "trades": 792,
+          "wins": 432,
+          "pnl": 51266.76
+        },
+        "2025": {
+          "trades": 739,
+          "wins": 372,
+          "pnl": 62774.78
+        },
+        "2026": {
+          "trades": 229,
+          "wins": 119,
+          "pnl": 95836.99
+        }
+      }
+    }
+  },
+  "scenario_b_skip_2023": {
+    "100": {
+      "final_balance": -1052.26,
+      "net_profit": -1152.26,
+      "net_pct": -1152.3,
+      "max_dd": 86.3,
+      "ruined": true,
+      "ruin_date": "2022-07-13",
+      "total_trades": 467,
+      "wins": 286,
+      "win_rate": 61.2,
+      "skipped_years": [
+        2023
+      ],
+      "yearly": {
+        "2022": {
+          "trades": 467,
+          "wins": 286,
+          "pnl": 65.02
+        }
+      }
+    },
+    "150": {
+      "final_balance": -863.88,
+      "net_profit": -1013.88,
+      "net_pct": -675.9,
+      "max_dd": 91.3,
+      "ruined": true,
+      "ruin_date": "2023-03-11",
+      "total_trades": 803,
+      "wins": 461,
+      "win_rate": 57.4,
+      "skipped_years": [
+        2023
+      ],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 204.02
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -0.62
+        }
+      }
+    },
+    "200": {
+      "final_balance": -637.49,
+      "net_profit": -837.49,
+      "net_pct": -418.7,
+      "max_dd": 95.4,
+      "ruined": true,
+      "ruin_date": "2023-12-25",
+      "total_trades": 803,
+      "wins": 461,
+      "win_rate": 57.4,
+      "skipped_years": [
+        2023
+      ],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 382.42
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -2.63
+        }
+      }
+    },
+    "300": {
+      "final_balance": 5962.84,
+      "net_profit": 5662.84,
+      "net_pct": 1887.6,
+      "max_dd": 44.3,
+      "ruined": false,
+      "ruin_date": null,
+      "total_trades": 2561,
+      "wins": 1383,
+      "win_rate": 54.0,
+      "skipped_years": [
+        2023
+      ],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 739.22
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -6.65
+        },
+        "2024": {
+          "trades": 790,
+          "wins": 431,
+          "pnl": 1686.11
+        },
+        "2025": {
+          "trades": 739,
+          "wins": 372,
+          "pnl": 1833.06
+        },
+        "2026": {
+          "trades": 229,
+          "wins": 119,
+          "pnl": 2628.38
+        }
+      }
+    },
+    "400": {
+      "final_balance": 16083.98,
+      "net_profit": 15683.98,
+      "net_pct": 3921.0,
+      "max_dd": 29.6,
+      "ruined": false,
+      "ruin_date": null,
+      "total_trades": 2561,
+      "wins": 1383,
+      "win_rate": 54.0,
+      "skipped_years": [
+        2023
+      ],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 1096.02
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -10.67
+        },
+        "2024": {
+          "trades": 790,
+          "wins": 431,
+          "pnl": 4038.55
+        },
+        "2025": {
+          "trades": 739,
+          "wins": 372,
+          "pnl": 4725.33
+        },
+        "2026": {
+          "trades": 229,
+          "wins": 119,
+          "pnl": 7052.03
+        }
+      }
+    },
+    "500": {
+      "final_balance": 26205.12,
+      "net_profit": 25705.12,
+      "net_pct": 5141.0,
+      "max_dd": 26.8,
+      "ruined": false,
+      "ruin_date": null,
+      "total_trades": 2561,
+      "wins": 1383,
+      "win_rate": 54.0,
+      "skipped_years": [
+        2023
+      ],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 1452.83
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -14.69
+        },
+        "2024": {
+          "trades": 790,
+          "wins": 431,
+          "pnl": 6390.98
+        },
+        "2025": {
+          "trades": 739,
+          "wins": 372,
+          "pnl": 7617.6
+        },
+        "2026": {
+          "trades": 229,
+          "wins": 119,
+          "pnl": 11475.68
+        }
+      }
+    },
+    "600": {
+      "final_balance": 36326.25,
+      "net_profit": 35726.25,
+      "net_pct": 5954.4,
+      "max_dd": 26.8,
+      "ruined": false,
+      "ruin_date": null,
+      "total_trades": 2561,
+      "wins": 1383,
+      "win_rate": 54.0,
+      "skipped_years": [
+        2023
+      ],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 1809.63
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -18.71
+        },
+        "2024": {
+          "trades": 790,
+          "wins": 431,
+          "pnl": 8743.42
+        },
+        "2025": {
+          "trades": 739,
+          "wins": 372,
+          "pnl": 10509.88
+        },
+        "2026": {
+          "trades": 229,
+          "wins": 119,
+          "pnl": 15899.32
+        }
+      }
+    },
+    "800": {
+      "final_balance": 56568.53,
+      "net_profit": 55768.53,
+      "net_pct": 6971.1,
+      "max_dd": 26.7,
+      "ruined": false,
+      "ruin_date": null,
+      "total_trades": 2561,
+      "wins": 1383,
+      "win_rate": 54.0,
+      "skipped_years": [
+        2023
+      ],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 2523.23
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -26.76
+        },
+        "2024": {
+          "trades": 790,
+          "wins": 431,
+          "pnl": 13448.29
+        },
+        "2025": {
+          "trades": 739,
+          "wins": 372,
+          "pnl": 16294.42
+        },
+        "2026": {
+          "trades": 229,
+          "wins": 119,
+          "pnl": 24746.62
+        }
+      }
+    },
+    "1000": {
+      "final_balance": 76810.8,
+      "net_profit": 75810.8,
+      "net_pct": 7581.1,
+      "max_dd": 26.7,
+      "ruined": false,
+      "ruin_date": null,
+      "total_trades": 2561,
+      "wins": 1383,
+      "win_rate": 54.0,
+      "skipped_years": [
+        2023
+      ],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 3236.84
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -34.8
+        },
+        "2024": {
+          "trades": 790,
+          "wins": 431,
+          "pnl": 18153.16
+        },
+        "2025": {
+          "trades": 739,
+          "wins": 372,
+          "pnl": 22078.97
+        },
+        "2026": {
+          "trades": 229,
+          "wins": 119,
+          "pnl": 33593.91
+        }
+      }
+    },
+    "1500": {
+      "final_balance": 127416.49,
+      "net_profit": 125916.49,
+      "net_pct": 8394.4,
+      "max_dd": 26.7,
+      "ruined": false,
+      "ruin_date": null,
+      "total_trades": 2561,
+      "wins": 1383,
+      "win_rate": 54.0,
+      "skipped_years": [
+        2023
+      ],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 5020.85
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -54.91
+        },
+        "2024": {
+          "trades": 790,
+          "wins": 431,
+          "pnl": 29915.34
+        },
+        "2025": {
+          "trades": 739,
+          "wins": 372,
+          "pnl": 36540.33
+        },
+        "2026": {
+          "trades": 229,
+          "wins": 119,
+          "pnl": 55712.16
+        }
+      }
+    },
+    "2000": {
+      "final_balance": 178022.17,
+      "net_profit": 176022.17,
+      "net_pct": 8801.1,
+      "max_dd": 26.7,
+      "ruined": false,
+      "ruin_date": null,
+      "total_trades": 2561,
+      "wins": 1383,
+      "win_rate": 54.0,
+      "skipped_years": [
+        2023
+      ],
+      "yearly": {
+        "2022": {
+          "trades": 802,
+          "wins": 461,
+          "pnl": 6804.87
+        },
+        "2023": {
+          "trades": 1,
+          "wins": 0,
+          "pnl": -75.01
+        },
+        "2024": {
+          "trades": 790,
+          "wins": 431,
+          "pnl": 41677.51
+        },
+        "2025": {
+          "trades": 739,
+          "wins": 372,
+          "pnl": 51001.69
+        },
+        "2026": {
+          "trades": 229,
+          "wins": 119,
+          "pnl": 77830.39
+        }
+      }
+    }
+  }
+}

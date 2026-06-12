@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-04-14T22:17:48.937894",
+  "n_simulations": 300,
+  "method": "log-return block bootstrap (continuity preserved)",
+  "block_size_hours": 24,
+  "baseline": {
+    "net_profit": 468682.57,
+    "max_dd": 28.9,
+    "final_balance": 469262.57,
+    "total_trades": 4171,
+    "win_rate": 57.4,
+    "ruined": false
+  },
+  "ruin_rate_pct": 11.333333333333332,
+  "stats": {
+    "profit": {
+      "mean": 34663.32172932331,
+      "median": 17840.07,
+      "p5": 839.68,
+      "p25": 6747.44,
+      "p75": 44757.75,
+      "p95": 132031.83,
+      "min": -531.22,
+      "max": 338189.29
+    },
+    "dd": {
+      "mean": 47.02481203007519,
+      "median": 44.1,
+      "p5": 30.8,
+      "p95": 70.1,
+      "min": 26.8,
+      "max": 94.6
+    },
+    "win_rate": {
+      "mean": 54.804135338345866,
+      "median": 54.9,
+      "p5": 53.6,
+      "p95": 56.0
+    }
+  },
+  "profitable_rate_pct": 98.1203007518797,
+  "losing_rate_pct": 1.8796992481203008
+}

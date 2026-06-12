@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-04-19T10:51:22.204315",
+  "config": {
+    "seed_usd": 16500.0,
+    "start": "2020-05-01",
+    "end": "2026-04-18",
+    "btc_start_price": 8781.5,
+    "btc_end_price": 77736.7
+  },
+  "hermes_v12": {
+    "final_balance": 8829378.9,
+    "net_profit": 8812878.9,
+    "usd_multiple": 535.11,
+    "xbt_multiple": 60.45,
+    "max_dd": 40.5,
+    "trades": 4442,
+    "win_rate": 59.9,
+    "liquidity_skipped": 1329,
+    "api_failures": 277,
+    "funding_paid": 202497.64
+  },
+  "bwjoke": {
+    "start_xbt": 1.83953943,
+    "end_xbt": 96.38685218,
+    "start_usd": 16153.915504545,
+    "end_usd": 7492795.811861007,
+    "xbt_multiple": 52.397274343828556,
+    "usd_multiple": 463.837749414553
+  },
+  "comparison": {
+    "hermes_xbt_mult": 60.448957485390366,
+    "bwjoke_xbt_mult": 52.397274343828556,
+    "ratio": 1.1536660683669733,
+    "winner": "HERMES"
+  }
+}
