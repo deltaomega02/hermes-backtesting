@@ -273,7 +273,7 @@ SOL은 LONG 차단 중인데 XRP도 그래야 하나?
 
 ## 파일 구조
 
-**코드** (`/Users/sue/Projects/HERMES/`)
+**코드** (`~/Projects/HERMES/`)
 - `main.py` — v6-7 wallet 캐싱 적용
 - `config/settings.py` — v6 풀 패키지
 - `config/tunable_params.json` — v5 트레일링 + v6 TP/ADX

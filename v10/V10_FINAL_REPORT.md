@@ -1,6 +1,5 @@
 # HERMES v10 Multi-EMA Final Report
 
-**작성자**: Claude Opus 4.7 + 운영자
 **작성일**: 2026-04-19
 **엔진**: v10_multi_ema_engine (v4 기반 + 다중 EMA 지원)
 
@@ -141,10 +140,10 @@ v8 그대로 운영 + v9 백테스트만 매일 업데이트. 1개월 뒤 결정
 
 ## 파일
 
-- 엔진: `/Users/sue/Projects/HERMES/backtest/v10_multi_ema_engine.py`
-- Sweep: `/Users/sue/Projects/HERMES/backtest/v10_sweep.py`
-- Validate: `/Users/sue/Projects/HERMES/backtest/v10_validate.py`
-- 결과: `/Users/sue/Projects/HERMES_백테스팅/v10/`
+- 엔진: `~/Projects/HERMES/backtest/v10_multi_ema_engine.py`
+- Sweep: `~/Projects/HERMES/backtest/v10_sweep.py`
+- Validate: `~/Projects/HERMES/backtest/v10_validate.py`
+- 결과: `~/Projects/HERMES_백테스팅/v10/`
 
 ## 주의사항
 

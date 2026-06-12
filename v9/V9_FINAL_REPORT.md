@@ -1,6 +1,5 @@
 # HERMES v9 — Mega Sweep Final Report
 
-**작성자**: Claude Opus 4.7
 **작성일**: 2026-04-19
 **시드**: $580
 **데이터**: 6년 실제 OHLCV (2020-03-25 ~ 2026-04-18, BTC 기준)
@@ -194,14 +193,14 @@ adx_enter_trending=32
 
 ## 9. 데이터
 
-- 전체 결과: `/Users/sue/Projects/HERMES_백테스팅/v9/`
+- 전체 결과: `~/Projects/HERMES_백테스팅/v9/`
   - `v9_phase1.json` (민감도)
   - `v9_phase2.json` (랜덤 10k)
   - `v9_phase3.json` (정밀 4k)
   - `v9_final_ranking.json` (검증된 top 112)
   - `v9_tierA_hunt.json` (tier A/B MC 결과)
   - `v9_realistic_ranking.json` (재랭킹)
-- 스크립트: `/Users/sue/Projects/HERMES/backtest/v9_*.py`
+- 스크립트: `~/Projects/HERMES/backtest/v9_*.py`
 
 ---
 
